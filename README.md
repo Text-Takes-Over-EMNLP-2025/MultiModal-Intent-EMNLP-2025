@@ -21,8 +21,11 @@ This project investigates **intent recognition using multimodal data** (text, au
 - abhikjana@iitbbs.ac.in  
 - pawang@cse.iitkgp.ac.in  
 
-For any issues or doubts, contact: **Saransh Sharma**  
+For any issues or doubts, contact: **Saransh Sharma** | **Ankan Mullick** 
+
 📧 [sarsharma@adobe.com](mailto:sarsharma@adobe.com) | [saransh03sharma@gmail.com](mailto:saransh03sharma@gmail.com)
+
+📧 [ankanm@kgpian.iitkgp.ac.in ](mailto:ankanm@kgpian.iitkgp.ac.in ) 
 
 ---
 
