@@ -1,0 +1,2034 @@
+Text,ground_label,modality
+not everyone can pull off a vest.,Flaunt,Text+Video+Audio
+"uh, my break's almost over.",Inform,Text
+"hey, actually, to use the employee bathroom?",Confirm,Text
+"i mean, we have porta-potties, but, uh, you know, kinda gross, so...",Explain,Text
+"uh, yeah, yeah.",Agree,Text+Video
+of course. not a problem at Text+Video+Audio.,Agree,Text
+thanks.,Thank,Text
+you're the best.,Praise,Text
+it's happening!,Flaunt,Text+Video+Audio
+uh-huh.,Acknowledge,Text
+"just that... you know, sometimes people flirt with people to get stuff.",Explain,Text
+"yeah, well, that's not what's happening here, so...",Oppose,Text
+"i'm sorry. you're right, i don't.",Apologise,Text
+thank you.,Thank,Text
+"oh, aren't you sweet?",Praise,Text
+wanna hear a secret?,Confirm,Text+Video+Audio
+sure.,Agree,Text
+i'm sorry. i don't know who--,Apologise,Text
+sandra's boyfriend.,Introduce,Text
+"well, my boyfriend that she stole from me.",Criticize,Text+Video+Audio
+you don't want to hear the rest?,Confirm,Text+Video+Audio
+"yeah, sure, sure.",Acknowledge,Text+Video+Audio
+"okay, well, first of Text+Video+Audio, you need to calm down.",Advise,Text
+"basicText+Video+Audioy, dina and i decided together to break up.",Inform,Text
+"oh, yes, sorry, continue.",Apologise,Text
+"got it, okay, so...unh. let's unpack this.",Advise,Text+Video
+that's exactly what i just said.,Emphasize,Text
+"okay. that's a toughie. that is a tough, tough toughie.",Complain,Text+Video+Audio
+"okay, this isn't gonna work.",Leave,Text+Video+Audio
+"wait, no, no, no, no! i can do better.",Prevent,Text+Video
+i wanted to say good job today.,Praise,Text
+"i mean, i'm not even totText+Video+Audioy sure what go-backs are.",Explain,Text
+you did great.,Praise,Text
+"yeah. just, tomorrow, 'cause that way, you'll get paid.",Inform,Audio
+"we got robbed, home depot got robbed, that weird store that only makes copies got robbed.",Complain,Text
+i'm scared to even walk to my car alone at night.,Complain,Text
+that is why everyone gets a rape whistle.,Inform,Audio
+so everyone gets a rape kazoo.,Inform,Text
+i also think we need parking lot buddies so that no one has to walk to their car alone at night.,Advise,Text+Video+Audio
+i'll be paired with anyone but sarah.,Inform,Text
+"wait, we're talking about picking boyfriends, right?",Confirm,Text
+i'll take justine.,Inform,Audio
+the robbers will probably kill her before they kill me.,Explain,Text+Video+Audio
+"since i don't drive, could you assign someone to walk me to the bus stop and wait with me?",Ask for help,Text
+"can i be paired with mateo, actuText+Video+Audioy?",Confirm,Text
+"oh, you guys do a trivia night?",Doubt,Text+Video+Audio
+that sounds fun.,Praise,Text
+garrett mocked you so hard for that.,Taunt,Text+Video+Audio
+"so, like, almost everyone goes to this trivia night?",Confirm,Text
+i love trivia.,Inform,Audio
+sorry.,Apologise,Text
+"nice to get off early, huh?",Greet,Text+Video+Audio
+what to do?,Asking for opinions,Text+Video+Audio
+seriously? you guys invited that girl?,Doubt,Text
+i am way smarter than that girl.,Flaunt,Text
+'cause we figured you weren't interested.,Explain,Text
+"oh, like i would say no to trivia night.",Complain,Audio+Video
+i said no because i was married and i had emma to look after.,Explain,Text
+"but now i'm separated and emma has her own thing, and i spend most of my nights by myself and i would reText+Video+Audioy just like to have a social life again.",Complain,Audio+Video
+"okay, great. just come to trivia night.",Invite,Text
+i will. thank you.,Thank,Text
+"okay, we'll see you at 10.",Invite,Text+Video+Audio
+"bye! wait, uh, what--10:00 p.m.?",Confirm,Text
+i'm so tired.,Complain,Text
+"hey, parking lot buddy. ready to go wait at the bus stop with me?",Confirm,Text+Video+Audio
+"yeah, i did say that. yeah.",Agree,Text
+okay.,Agree,Text+Video+Audio
+who are you? beyoncé?,Confirm,Text+Video+Audio
+selena.,Introduce,Text+Video+Audio
+"wait, you mean creepy sal?",Confirm,Text
+the man is dead.,Inform,Audio
+police said he's been dead for at least a year.,Inform,Text
+are you crying?,Confirm,Text+Video+Audio
+"apparently he was doing some work behind the drywText+Video+Audio outside the women's washroom and then his foot got caught in a beam, and he starved to death.",Inform,Text
+he drilled a hole into the women's washroom so...,Inform,Text
+why?,Doubt,Text
+why--why me?,Doubt,Text+Video+Audio
+"'cause, you know...",Explain,Text
+i'm sure there's a lot of churn going on in there.,Taunt,Text+Video+Audio
+"wait, so it's just going to sit in the store?",Doubt,Text
+uh...   i'm not working next to a dead body.,Taunt,Text+Video+Audio
+technicText+Video+Audioy we've Text+Video+Audio been working next sal's dead body for the past year.,Inform,Text
+actuText+Video+Audioy he still had both of his feet.,Oppose,Text+Video+Audio
+what about maxine?,Care,Text+Video+Audio
+"nah, i don't trust anybody who opens their eyes that wide.",Oppose,Text
+yeah. pass.,Agree,Text
+no.,Oppose,Text
+"and even if i were, i wouldn't be using an app.",Oppose,Text+Video
+"it actuText+Video+Audioy gets to be kind of fun, you know.",Introduce,Text+Video+Audio
+"you just swipe right for yes, left for no, see?",Introduce,Text+Video+Audio
+"oh, hello, jessicah...",Greet,Text
+"come on, so this is just like where she's baking cupcakes in a rams jersey.",Taunt,Text+Video+Audio
+a bowling action shot?,Doubt,Text+Video+Audio
+"well, clearly she's just trying to show off her cleavage.",Taunt,Text
+"oh, gross.",Complain,Text+Video
+i need your help.,Ask for help,Text
+"okay, uh...",Agree,Text+Video+Audio
+okay.,Leave,Text+Video+Audio
+"wait, this one's just a picture of margot robbie.",Introduce,Text+Video+Audio
+are they Text+Video+Audioowed to do that?,Doubt,Text
+is that kelly?,Confirm,Text
+"hey, girl. go get it.",Advise,Text+Video+Audio
+"ugh, calm down.",Taunt,Text+Video+Audio
+what?  match?  i didn't--how--how did that happen?,Complain,Audio+Video
+"no, i didn't.",Oppose,Text
+"i swiped left, like this.",Introduce,Text+Video+Audio
+"it's like eating a birthday candle, only in a good way.",Joke,Text+Video+Audio
+"garrett, what do i do?",Ask for help,Text
+"tell her you stole jonah's phone, and you were stalking her on it.",Advise,Text+Video+Audio
+"okay, that's not gonna happen.",Oppose,Text
+"i was thinking more like, i could sneak up like a ninja, take her phone, cancel the notification, and then slip it in without her noticing.",Plan,Text
+"i could cText+Video+Audio him up, have him hack into kelly's phone, and melt her motherboard.",Plan,Text+Video+Audio
+"yes, cText+Video+Audio the guy.",Agree,Text+Video+Audio
+i'm messing with you.,Joke,Text+Video+Audio
+kelly.,Greet,Text
+"hey, girl.",Greet,Text
+"um, i--i meant to ask you earlier...",Explain,Text
+could i borrow your phone?,Ask for help,Text
+"yeah, mine is soaked.",Explain,Text+Video+Audio
+"not in the toilet, in a...",Explain,Text+Video+Audio
+"thanks. oh, it's--",Thank,Text
+why are you being so weird about your code?,Doubt,Text+Video
+thanks.,Thank,Text
+"thanks, you're a lifesaver.",Thank,Text
+what do you think?,Asking for opinions,Text
+"you're a genius.   well i mean, not literText+Video+Audioy, but you know.",Praise,Text
+well done!,Praise,Text
+"well, yep, you guys--you got me.",Agree,Text
+"yeah, you know honestly, you reText+Video+Audioy committed.",Praise,Text+Video+Audio
+i'm impressed. i was almost scared.,Praise,Text
+thanks.,Thank,Text
+i watch a lot of lifetime movies.,Explain,Text+Video+Audio
+"well, i'm gonna go wash Text+Video+Audio this blood off...",Leave,Text
+i just wanted you to know that i was reText+Video+Audioy not trying to make fun of you.,Explain,Text
+it was an accident.,Explain,Text
+it's okay. i mean...,Comfort,Text+Video+Audio
+"i know, right?",Agree,Text+Video+Audio
+"i just, like, couldn't stop.",Explain,Text
+"well, thank you for being cool about it.",Thank,Text
+"yeah. i mean, if anything, i should thank you.",Thank,Text
+"oh, good.",Praise,Text+Video
+sorry about the questioning.,Apologise,Text
+"just had to make sure you were real coroners, and not just here for hummus or something.",Explain,Text
+"sure, yeah.",Agree,Text+Video
+and you didn't touch the body?,Confirm,Text+Video+Audio
+absolutely not.,Oppose,Text
+"like, before i was married, when i was in high school, i was...   wild.",Introduce,Text+Video
+"okay, well, we're not in stupid angola, marcus.",Oppose,Text
+but nice try.,Praise,Text
+"no, i did do that.",Oppose,Text
+cText+Video+Audio him. okay. i will.,Arrange,Text+Video+Audio
+ha ha. chickened out.,Taunt,Text
+couldn't even ask about the car.,Taunt,Text+Video
+this coffee is... terrible.,Complain,Text
+"awful. yeah, tastes like piss.",Complain,Text
+"yeah, kind of. yeah.",Agree,Text+Video
+"um, i told my coworkers that i stole a car in 10th grade, and they didn't believe me.",Explain,Text
+so i just need adam to verify that.,Ask for help,Text+Video+Audio
+she did. 10th grade.,Agree,Text+Video+Audio
+"uh, sure. yes.",Agree,Text
+but me and bridge have been seeing each other.,Inform,Audio
+"okay, guys, it's fine. look, adam's moving on.",Comfort,Text
+so we're both killing it. we should go.,Leave,Text+Video+Audio
+we have to wait for the scooter to charge.,Prevent,Text+Video+Audio
+"you wouldn't happen to have a scale we could use, would you?",Confirm,Text
+"i was diluting it to make more, okay?",Explain,Text
+they have a pool table and one of those video poker machines...,Introduce,Text
+"oh, well, that sounds festive.",Praise,Text
+just a woman going insane.,Criticize,Text
+don't even think about it.,Oppose,Text+Video+Audio
+"i know i never explicitly said not to post videos of rat infestations in the kitchen, but i thought i didn't need to.",Inform,Audio
+i should have watched the video before i posted it.,Apologise,Text+Video+Audio
+"oh, my god. thank you so much.",Thank,Text
+"okay, i'm gonna start compiling a list of Text+Video+Audio the things we should not be posting about, starting with farting in cups and rat infestations.",Inform,Text
+"again, didn't know the rats were there.",Emphasize,Text+Video+Audio
+that's something that we shouldn't post online.,Explain,Text
+i was just trying to prove that i could make a video that could get a bunch of views.,Explain,Text
+does this have something to do with jonah dating kelly?,Confirm,Text
+we were gonna keep that a secret.,Explain,Text+Video
+"well, then maybe you shouldn't have posted about it on the internet.",Advise,Text
+are we cText+Video+Audioing it a relationship?,Confirm,Text+Video+Audio
+"oh, it's okay. it's fine. it's great, actuText+Video+Audioy.",Comfort,Text
+"you know, sometimes when you aren't happy, it's better to be divorced than to stay in the marriage.",Comfort,Text+Video+Audio
+"well, thank you. thanks.",Thank,Text
+i am going to put that where people put things like this.,Plan,Text
+"i mean, we can't leave. they're denying us food.",Complain,Text+Video+Audio
+not Text+Video+Audioowed to watch the golden globes.,Complain,Text+Video
+emma's not coming! she never was.,Oppose,Text
+we're on our own.,Inform,Text
+"yeah, nice and tight.",Praise,Text+Video+Audio
+so dig in. garrett?,Invite,Text
+"uh, what, me? wow, thank you.",Thank,Text
+"ugh, always do that.",Complain,Audio+Video
+"but when i see meat that looks that delicious, i have to make an exception.",Praise,Text+Video+Audio
+"no, dina, you don't have to eat that.",Prevent,Text
+i'm going to eat a bird now.,Plan,Text
+i'm going to eat a bird now.,Plan,Text
+"i'm gonna-wow, but is it worth it for that taste!",Praise,Text+Video+Audio
+sorry. i almost fell.,Apologise,Text
+does that mean that Text+Video+Audioah is the one true god?,Inform,Audio
+scary. were you in it at the time?,Care,Text+Video+Audio
+"oh, right. blonde moment.",Agree,Text+Video+Audio
+"yeah, so anyway, everything i own is gone, and now i'm--i'm living in a fema trailer.",Complain,Text+Video
+"so in a way, you're officiText+Video+Audioy trailer trash now?",Taunt,Text+Video+Audio
+ha. admits it.,Taunt,Text
+oh. why don't you move into garrett's apartment?,Advise,Text
+no! no.,Oppose,Text
+jonah doesn't want to live with a roommate. he's an adult.,Explain,Text+Video
+"yeah, no. i--i mean, i--i would, i would love that, but i would never-i would never impose.",Explain,Text
+"but i mean, it wouldn't be a problem. i could do it.",Explain,Text
+it's just that it's... reText+Video+Audioy cramped.,Complain,Text
+"sure, sure, yeah.",Agree,Text
+excuse me. gotta go.,Leave,Text
+"so, uh, how are things at home?",Care,Text
+emma. how's--how's emma?,Care,Text
+"oh, wow. uh, that's exciting. teenager.",Praise,Text
+do we have to?,Doubt,Text
+"oh, yeah, no, i mean, i'd rather not, if you don't need to.",Explain,Text
+no! i don't. i don't need to.,Oppose,Text
+"hey, what's going on, buddy?",Care,Text
+classic marcus.,Joke,Text+Video+Audio
+"hey, listen, i've been thinking we should kick mateo out of the friend group.",Advise,Text
+how come no one ever told me that i sounded like that?,Complain,Text
+but that's not how i sound on the inside!,Complain,Audio+Video
+not what you hear. what i hear.,Emphasize,Text+Video+Audio
+"okay, i found a costume shop with two minion costumes.",Inform,Text
+yeah. it's preposterous.,Agree,Text
+"i wasn't listening. the point is, you two should go right now and pick them up.",Arrange,Text+Video+Audio
+henry can't be around children.,Inform,Audio
+marcus is on his third dui.,Inform,Text
+elias is afraid of minions.,Inform,Audio
+nobody knows where brett is!,Complain,Text
+mateo. hey.,Greet,Text
+how you been?,Care,Text+Video
+"good, thanks. yeah, i'm in a good place.",Thank,Text
+"um, i just need to ask you something.",Ask for help,Text+Video
+"did you get a voice mail, by chance?",Confirm,Text
+"oh, sorry, one second. uh, ooh, i have to take this.",Apologise,Text
+"we got back together. hey, sweetie.",Inform,Audio
+"and your toupee, it's garbage.",Taunt,Text+Video+Audio
+you look like a fry cook.,Taunt,Text+Video
+"thank you, sandra. that was...lovely.",Thank,Text
+we're gathered here today to honor our dear friend and co-worker brett kobashigawa.,Inform,Audio
+he died doing what he loved most--collecting carts.,Inform,Audio
+we do not know he's dead!,Emphasize,Text+Video+Audio
+Text+Video+Audio we know is that brett was in the parking lot collecting carts when the tornado hit.,Inform,Text
+brett wasn't killed by that tornado.,Inform,Audio
+"thank you, dina.",Thank,Text
+"what usuText+Video+Audioy happens is Text+Video+Audio the air is sucked from your lungs and then they fill up with blood, so, technicText+Video+Audioy, he probably drowned on his own blood.",Explain,Text+Video
+why didn't we know about brett's death sooner?,Doubt,Text
+apparently someone was clocking in for him.,Explain,Text+Video+Audio
+"guys, this is one of the reasons that clock-in buddies is a bad idea.",Explain,Text+Video
+"because he's probably still alive, basking on some beach in the mediterranean.",Explain,Text
+"yeah, just waiting for his foot stump to heal.",Taunt,Text+Video+Audio
+"nope, no--that's not it.",Oppose,Text
+nope.,Oppose,Text
+"hey, dina. you okay?",Care,Text+Video+Audio
+i'm starting to think we should get everyone into the new storm shelter.,Plan,Text+Video+Audio
+"uh, i don't think that's necessary.",Oppose,Text+Video
+"tell that to brett. oh, wait, you can't.",Taunt,Text+Video+Audio
+"hey, sandra, how's it going?",Care,Text
+i just found out jerry's feeding tube got infected and--,Inform,Text
+"so let me ask you a question, but don't tell garrett.",Ask for help,Text+Video+Audio
+"hey, what's up, guys?",Greet,Text+Video
+hey! what's going on?,Greet,Text+Audio
+nothing?,Confirm,Text+Video+Audio
+so you guys are just in the hText+Video+Audioway staring at each other saying nothing?,Confirm,Text+Video+Audio
+"well, not nothing. i mean, we were--",Explain,Text
+"jonah's going to a barbecue, and he asked if it'd be interesting to put burrata on a burger instead of provolone.",Explain,Text+Video+Audio
+mm.,Leave,Text+Video+Audio
+"wow, you are an incredible liar.",Praise,Text+Audio
+thank you.,Thank,Text
+good burn! that was fun.,Praise,Text
+"i don't know if this is a workman's comp type of thing, but she needs to talk to someone.",Advise,Text+Video+Audio
+ohh! okay.,Agree,Text+Video+Audio
+a few last bits of housekeeping--,Inform,Text
+the softbText+Video+Audio team will once again not be happening.,Inform,Text
+"and lastly, uh-we found out that jerusha has an abnormText+Video+Audioy shaped uterus which will prevent her from getting pregnant.",Inform,Text
+"so if any of you know any women who might like to carry our baby, you know, let me know.",Inform,Audio
+"okay then, well, jeff, the floor is yours.",Arrange,Text
+"yeah, thank you.",Thank,Text
+thank you for that warm reception.,Thank,Text
+it's about something big.,Inform,Audio
+"no. hi, mateo.",Greet,Text
+"um, sales are up this quarter.",Inform,Text
+"we are within $80,000 of reclassification.",Inform,Text
+"if we can make that by the end of the day, we will go from being a triple-a store to a...",Inform,Text
+reclassified as a...,Inform,Text
+"quadruple-a, guys. we're gonna be a quad-a store.",Inform,Text
+we're gonna be a high volume store.,Inform,Text
+"kinda like a duck's. wait, i'll--i'll draw it.",Leave,Text+Video+Audio
+so this would be one more a then?,Confirm,Text
+"believe me, you guys are gonna love this.",Inform,Audio
+like we're famous or something?,Confirm,Text+Video+Audio
+"uh, a point of clarification, jeff, would it have the soda too?",Confirm,Text
+give me the marker 'cause someone just made a thousand dollar sale.,Flaunt,Text+Video+Audio
+"oh, boo-hoo, poor jonah.",Taunt,Text
+what a tragedy.,Taunt,Text+Video+Audio
+"actuText+Video+Audioy, it was his friend's condo.",Emphasize,Text+Video+Audio
+we could go over there at lunch.,Advise,Text
+"check it out, maybe. just to be safe.",Advise,Text
+"i mean, it's not the worst idea.",Praise,Text+Video+Audio
+"hey, keep your eye on the prize, okay?",Advise,Text+Video+Audio
+we cannot become a quad-a.,Inform,Audio
+everyone there is exhausted Text+Video+Audio the time.,Inform,Text
+they are open 24 hours.,Inform,Text
+"no, guys, we've come too far. we are this close to quad-a.",Inform,Audio
+we need to slow down sales.,Inform,Text
+"Text+Video+Audio right, you heard amy, guys, let's cross that finish line and become quad-a.",Inform,Audio
+"marcus, were you even listening?",Doubt,Text
+"sorry, i got a Text earlier.",Apologise,Text
+"cheyenne, do you reText+Video+Audioy wanna do this?",Confirm,Text
+mm-hmm.,Acknowledge,Text
+the deal's off.,Inform,Text
+"because i don't want my baby carried by a huge stinker, like you.",Criticize,Text+Video+Audio
+"oh, wait, you're being nice.",Praise,Text
+"no, i'm not being nice. i'm being mean.",Oppose,Text
+and--now i don't want a big stinky baby from a big stinker like you.,Criticize,Text+Video+Audio
+you're stinking up the place.,Criticize,Text
+just wanted to let you know we didn't make the target.,Inform,Text
+no quad-a.,Inform,Audio
+"oh, okay.",Acknowledge,Text
+i was so close to having a baby.,Complain,Text
+but-you wanna be my surrogate?,Ask for help,Text+Video+Audio
+just for someone to squirt out your kid?,Doubt,Text
+okay. okay.,Acknowledge,Text
+this is cool.,Praise,Text
+"whoa, oreo reText+Video+Audioy upped its game while i was in prison.",Praise,Text+Audio
+"oh, amy, this is my mom.",Introduce,Text
+"oh, my gosh! hi!",Greet,Text
+you're the famous amy.,Praise,Text
+i'm so sorry about the divorce and how your life is going.,Comfort,Text+Video+Audio
+"oh, um, thank you.",Thank,Text
+"uh, so what brings you to the store?",Care,Text
+"oh, she was just bringing me this shirt that she got me that i forgot to put on this morning.",Explain,Text+Video+Audio
+my mom thought we should go back to green day.,Explain,Text+Video+Audio
+"well, i mean, it is a two-year-old's birthday party, and chey reText+Video+Audioy liked the idea-i know you've been kind of a mother figure for cheyenne while i've been away, but...",Explain,Text
+"yes, sure.",Agree,Text
+"yeah, sorry.",Apologise,Text
+bye.,Leave,Text
+"two chupacabra sightings, same exact description.",Inform,Text
+i'm putting it in real.,Plan,Text+Video
+it's the third time you've made that joke.,Criticize,Text
+"i don't care, no, i just-i just think it's interesting, you know, i mean, i don't believe in angels, but if she wants to believe in angels, then i respect that, you know?",Explain,Text
+"because i'm about to order a 22-foot sub, and i'd prefer to keep it intact, so one end has to start in your room.",Explain,Text+Video
+attention cloud 9 shoppers.,Inform,Text
+sushi is on sale at the deli.,Inform,Text
+"mmm, discount sushi from a big box store.",Inform,Audio
+"you know what, that sounded harsher than what i meant it to.",Inform,Audio
+"if you like the sushi, just get the sushi.",Inform,Text
+"yeah, i just, i'm trying to do it like garrett, but i'm a little better, i think, feeding off someone, you know, riffing in the moment.",Explain,Text
+"yes, or hoda.",Acknowledge,Text+Video+Audio
+"okay, Text+Video+Audio right...",Acknowledge,Text
+then let's riff.,Advise,Text
+yeah.,Acknowledge,Text
+maybe we need to rehearse a little bit.,Advise,Text
+okay.,Acknowledge,Text
+i'm getting paid to sit around and play video games Text+Video+Audio day.,Flaunt,Text+Video+Audio
+"i teach water aerobics to seniors after work, and they yell at me if i'm late.",Complain,Audio+Video
+it can get racist.,Complain,Text+Video
+"they don't know what i am, so it's kind of Text+Video+Audio over the place.",Complain,Text+Video
+"kinda busy, i say you just do you.",Advise,Text
+okay i wanna make sure you're ready.,Confirm,Text+Video+Audio
+you just have some major dings.,Comfort,Text+Video+Audio
+"you're over 30, you're divorced, you have a kid.",Taunt,Text+Video
+"cheyenne has a baby, does that give her a ding?",Doubt,Text+Video+Audio
+"no, because i have a baby the way that chrissy teigen has a baby.",Explain,Text
+this whole system of rating people is gross.,Complain,Text+Video+Audio
+"no, sarah's a seven, brett's an eight, tate's a ten because he has a good job and abs.",Explain,Text+Video+Audio
+"that's correct, i'm the complete package.",Flaunt,Text
+"i'm sorry, that was not-no, i think you're beautiful.",Apologise,Text
+you're just a little bit higher than justine.,Taunt,Text
+"oh, yeah.",Acknowledge,Text
+"oh yeah, yeah.",Acknowledge,Text
+"yeah, anyway, um, if you reText+Video+Audioy wanna get up, i guess it's okay, you have to promise to take it easy.",Advise,Text+Video+Audio
+a hummingbird flew by and i wanna see if he comes back.,Plan,Text+Video
+take Text+Video+Audio the time you need.,Comfort,Text+Video+Audio
+yeah.,Acknowledge,Text
+"i mean, i could use a snack-just some baby carrots.",Ask for help,Text+Video+Audio
+okay.,Acknowledge,Text
+"and if you could stack them in a bowl-preferably glass so i can see the layers-that'd be great, thanks.",Arrange,Text+Video+Audio
+i'll see what we have that wasn't part of the listeria outbreak.,Plan,Text+Video+Audio
+"yeah, i don't say this very often, but that cloud 9 suit looks reText+Video+Audioy great on you.",Praise,Text
+"oh, thanks.",Thank,Text
+yeah.,Acknowledge,Text
+would you go out on a date with someone like me?,Confirm,Text+Video
+"oh, no, no, no, i'm not asking you out.",Explain,Text+Video+Audio
+why would she have died?,Doubt,Text
+"you were looking for a way out, i'm like a eight minimum, right?",Confirm,Text
+thank you.,Thank,Text
+okay.,Acknowledge,Text
+"well, ah, that's, that's great.",Praise,Text
+"yeah, why don't you, uh, you know, get changed and we'll get to work, huh?",Arrange,Text+Video+Audio
+"yeah, okay.",Acknowledge,Text
+"just got this feeling like a marble rolling around in my uterus, i mean, gosh, i wonder what that's about.",Complain,Text
+"no, no, no, no, you stay on that couch!",Prevent,Text
+that sweet little marble is the only thing that matters.,Emphasize,Text+Video+Audio
+you relax.,Arrange,Text+Video+Audio
+"hey, would you mind grabbing me some wet wipes and a bottle of febreze?",Ask for help,Text
+"protip--if you cup the mic, you get a nice voice-of-god effect.",Advise,Text+Video+Audio
+"oh, why don't you go out to los angeles and give laura dern some acting tips?",Taunt,Text+Video+Audio
+"okay, i gotta go feed dina's birds, so today's the same as yesterday.",Plan,Text
+"garrett, you're am, jonah and kelly, you're on announcements.",Arrange,Text+Video+Audio
+i gotta go google how to give insulin to a parrot.,Plan,Text
+"sandra, we need this area clear.",Arrange,Text
+i told them and they told me that my butt's a fire hazard.,Inform,Text
+okay?,Confirm,Text+Video+Audio
+"attention, Text+Video+Audio soft boys. get off your butts, and move to the side, now!",Inform,Audio
+the first person to step out of line is going to get my foot in their throat.,Warn,Text+Video+Audio
+use...less.,Taunt,Text+Video+Audio
+"oh, hi. i came back with friends.",Greet,Text
+"say hi, say hi.",Greet,Text+Video+Audio
+"no, no, no, no, i know that. what about the baby?",Care,Text+Video+Audio
+the implantation worked. i'm pregnant.,Inform,Text
+"that's the most beautiful, magical thing anyone has ever said to me.",Praise,Text
+thank you.,Thank,Text
+"no, i am sure i Texted you.",Inform,Audio
+it was like a week ago.,Inform,Audio
+i see what happened. Texted the wrong glen.,Explain,Text
+"my assistant manager and i, we're going to have a baby.",Inform,Audio
+"no, no, never mind.",Comfort,Text
+"so, this is--this is cool.",Praise,Text
+i'm so glad we're doing this.,Praise,Text
+"yeah, it's...it's very cool.",Praise,Text
+"no, it's not cool.",Oppose,Text
+i don't--i don't-i never said that.,Oppose,Text
+you're not better than me!,Criticize,Text
+so enjoy losing another dice award to troy baker.,Criticize,Text+Video+Audio
+jerk.,Criticize,Text
+taurus-driving loser.,Criticize,Text
+"i mean, the sad thing is, he is the cool one.",Explain,Text+Video+Audio
+it's just making this a lot more difficult.,Complain,Text
+"no, i'm not losing my temper, sandra.",Oppose,Text
+"oh, i'm not a lawyer.",Oppose,Text+Video+Audio
+"okay, what about the time you said jonah looks great in shirts?",Doubt,Text+Video+Audio
+"yeah, were you lying or telling the truth then?",Doubt,Text+Video
+well...,Acknowledge,Text
+something's jammed in the box crusher.,Inform,Text
+i was wondering if you could climb in and get it out.,Ask for help,Text
+it just--it feels like a box crusher could hurt someone reText+Video+Audioy badly.,Explain,Text+Video
+"there's no need to worry about that, 'cause i got the button right here.",Comfort,Text+Video
+"yeah, okay.",Agree,Text+Video+Audio
+i thought it'd be helpful for us Text+Video+Audio to watch the surveillance footage of amy hanging the sign that fell on mateo so we can learn what not to do.,Inform,Text
+"well, i do. so we are.",Inform,Audio
+i'm so sorry. i don't know what else to do.,Apologise,Text
+"um, that's the wrong file.",Inform,Audio
+that's from glenn's mullet phase.,Joke,Text+Video+Audio
+i can't stand this new system. i can't find anything.,Complain,Text
+because this job is incredibly boring.,Explain,Text+Video
+"yes, exactly. thank you, kelly.",Thank,Text
+"amy frenched her man, and now they're gonna throw down.",Taunt,Text+Video+Audio
+"well, i just want you to know i have your back.",Comfort,Text+Video
+that's reText+Video+Audioy sweet.,Praise,Text
+should we do something to amy's car?,Advise,Text+Video
+hey.,Greet,Text
+"look, uh, i was just flustered, you know, back there.",Explain,Text
+"yeah, great, okay.",Acknowledge,Text+Video+Audio
+"hey, jeff, the man in red! what are you doing here?",Greet,Audio
+"hey, you like chicken wings, right?",Confirm,Text
+"i cannot do that now, but thank you for the invite.",Thank,Text
+excuse me.,Leave,Text+Video+Audio
+she's coo-coo for liquids.,Joke,Text+Video+Audio
+"hi, hey, excuse me, uh, my name is amy.",Greet,Text
+"yes, yeah, yeah, yeah. nodding would be great.",Agree,Text
+"wow, that's a very insightful point you're making about the uh, beverages.",Praise,Text
+"if jeff is going to pooch our people, well i say let's see how he likes it when we pooch his.",Warn,Text+Video+Audio
+"man, never mind, sorry. forcing it.",Comfort,Text+Video+Audio
+"wow, the red's so lively. it reText+Video+Audioy pops.",Praise,Text
+"morning, everyone.",Greet,Text
+"okay, uh, before the new district manager gets here, i just wanted to warn you her name is laurie neustadt.",Inform,Text
+no. i mean...,Oppose,Text+Video+Audio
+"i'm googling her, and apparently she's from denver.",Introduce,Text+Video+Audio
+"denver, terrific. let's go with the denver thing.",Advise,Text+Video+Audio
+or we could just treat her like she's a human being.,Advise,Text
+"yeah, but we've got the denver thing in case that doesn't work out.",Agree,Text
+"right, and why wouldn't that work?",Doubt,Text
+"okay, she's here. places, everyone!",Introduce,Text+Video+Audio
+"whoa, whoa, wait, wait, wait, wait.",Prevent,Text
+now i'm ready.,Inform,Text
+"okay. um, hi.",Greet,Text
+i am laurie neustadt.,Introduce,Text
+i'm taking over for jeff.,Inform,Text
+"i'm gonna be here Text+Video+Audio day walking around, getting to know the store, trying to figure out ways we can make things a little more efficient.",Inform,Text
+"so, um, busy day. let's, uh, get back out there.",Arrange,Text+Video+Audio
+let's get back out there.,Arrange,Text+Video+Audio
+"great, let's take it. that would put us over $8,000.",Praise,Text
+"if we don't find enough budget cuts to cover her salary, laurie is gonna fire myrtle.",Warn,Text+Video+Audio
+it's because she's a bitch.,Complain,Text
+"yeah, well, that's because the vending machine didn't have any takis.",Explain,Text
+yes!,Acknowledge,Text+Video+Audio
+red pill brothers.,Joke,Text+Video+Audio
+"no, i just mean if we had true equality, you could cText+Video+Audio out women for doing something terrible when they're doing something terrible.",Explain,Text
+"no, bitch, the gays took that from you.",Oppose,Text
+"hey, if hitler was a woman, would you be defending hitler?",Doubt,Text+Video+Audio
+"no, obviously not.",Oppose,Text
+what if oprah hosted the holocaust?,Doubt,Text
+"i think we solved sexism, guys.",Inform,Text
+this is cloud 9's way of supporting the local smText+Video+Audio business owners we're constantly putting out of business.,Inform,Audio
+just look at these beautiful needlepoints.,Introduce,Text+Video+Audio
+this is certainly an exciting product.,Praise,Text
+"no, no, it isn't.",Oppose,Text
+i appreciate the opportunity to sell my crafts in your lovely store.,Thank,Text
+it's just so exciting to have such a beautiful stranger at our vendor fair.,Praise,Text
+"glenn, are you gonna tell your wife that you're flirting with one of the vendors?",Doubt,Text+Video+Audio
+"oh, so you guys have an open marriage.",Taunt,Text+Video
+"oh. oh, oh, god, no!",Oppose,Text+Video+Audio
+then why are you trying to get at the vendor lady?,Doubt,Text
+"no, don't cText+Video+Audio her.",Prevent,Text
+don't answer that!,Prevent,Text
+this is very impressive.,Praise,Text
+it came to me in a dream.,Introduce,Text+Video+Audio
+a reText+Video+Audioy boring dream.,Introduce,Text+Video+Audio
+and it is taking forever.,Introduce,Text+Video+Audio
+"well, you know, if you get hungry, i highly recommend the mini burritos.",Advise,Text+Video+Audio
+"i don't know, there's something lame about a burnout white dude making money off mexican food.",Taunt,Text+Video+Audio
+burritos aren't from costa rica.,Oppose,Text+Video+Audio
+"yeah, no, i know. obviously.",Agree,Text
+be careful.,Warn,Text+Video+Audio
+i'm gonna have to take away your latina card.,Joke,Text+Video+Audio
+i found this on the sidewalk and i felt reText+Video+Audioy weird about throwing it away.,Explain,Text
+"guys, i'm the latina one.",Inform,Audio
+"i mean, you don't even like spicy food, so...",Explain,Text
+i am not out of my element.,Oppose,Text
+i'm--the element is in me.,Explain,Text
+"okay, quick tip.",Advise,Text+Video+Audio
+just cText+Video+Audio him  papi  at the end of every sentence.,Advise,Text+Video+Audio
+i've dated a lot of latin men.,Flaunt,Text
+"no, no, man. i don't care.",Oppose,Text
+"right, that sounds like caring.",Taunt,Text+Video+Audio
+"no, no, no, no, dude. i don't care.",Oppose,Text
+mm!,Leave,Text+Video+Audio
+lay na sol ya ra.  says it's hindi.,Introduce,Text+Video+Audio
+"no, he's dominican.",Oppose,Text
+"he's a great, great guy.",Praise,Text
+why didn't you just tell him that you didn't understand what he was saying?,Doubt,Text
+because then he would just go on and on about taking my latina card from me.,Explain,Text
+"like when you go to sharky's, you earn points.",Joke,Text+Video+Audio
+we should go on a double date together.,Advise,Text
+"you and, um, the beverage guy and kelly and me.",Advise,Text+Video+Audio
+"guys, amy's in uncharted territory right now.",Inform,Audio
+she usuText+Video+Audioy only dates white men.,Inform,Text
+that's not true. i don't just date white men.,Oppose,Text
+i'm gonna cText+Video+Audio kelly. i'm gonna Text her.,Plan,Text
+"i don't have a preference. and if i did, it probably wouldn't be white guys.",Oppose,Text+Video
+she's in!,Inform,Text
+"hey, guys.",Greet,Text
+"um, i just wanted to double check.",Confirm,Text+Video+Audio
+"no one wanted to buy anything from jerusha, right?",Confirm,Text
+"just asking as a pal, not your boss.",Explain,Text
+"no, thank you. i don't reText+Video+Audioy like them.",Refuse,Text
+okay. cool.,Acknowledge,Text+Video+Audio
+"you know, you would look reText+Video+Audioy fetching in a bird scarf.",Advise,Text+Video+Audio
+listen up!,Inform,Text
+everybody here better get out there and start buying stuff from my wife!,Arrange,Text+Video+Audio
+i feel like you're pressuring us.,Criticize,Text+Video+Audio
+"you're goddamn right, i'm pressuring you.",Agree,Text+Video+Audio
+"you buy stuff, or you're fired!",Warn,Text
+i had my medicine in that.,Complain,Audio+Video
+i crush it up and hide it to trick myself.,Explain,Text
+"so, i lager for three months at 35 degrees.",Introduce,Text+Video+Audio
+thank you for just being honest with me.,Thank,Text
+"now, how about i take you out sometime?",Invite,Text+Video+Audio
+the missouri lottery is the highest it's been in 20 years.,Inform,Text
+i'd get a bunch of vintage jordans.,Plan,Text+Video+Audio
+"if i won, you would not see me here tomorrow.",Joke,Text+Video
+that is for sure. i would be taking thursdays off from now on.,Flaunt,Text+Video+Audio
+"i'd go to reText+Video+Audioy expensive stores, hoping that white women would be rude to me, so i could come back with a bunch of bags and be like, a ha, big mistake.",Joke,Text+Video+Audio
+"i could probably make thursdays work, if they reText+Video+Audioy needed me.",Inform,Audio
+i'd donate my winnings to my favorite charity.,Plan,Text+Video+Audio
+it's beautiful.,Praise,Text
+"ooh, someone's Text+Video+Audio dressed up.",Praise,Text+Video+Audio
+"oh, god, i hope it's not family court, is it?",Confirm,Text
+"no, i'm asking glenn for a raise.",Explain,Text+Video+Audio
+thanks.,Thank,Text
+fair enough.,Acknowledge,Text
+you just need to pick another number.,Advise,Text+Video
+was 31 a mistake?,Confirm,Text+Video+Audio
+"because if you pick 30, you're not gonna win.",Explain,Text+Video
+i don't have time for the preamble.,Complain,Text+Video+Audio
+a few of them left before buying lottery tickets.,Inform,Text
+thank you for letting me know.,Thank,Text
+this is helpful.,Praise,Text
+"also, elias has been stealing discontinued light bulbs.",Inform,Text
+"sometimes, i pee in the shower.",Joke,Text+Video+Audio
+i do it to wash my feet. urine is sterile.,Explain,Text
+we could cut down on things like lotto tickets.,Advise,Text
+"or buy more lotto tickets, depending on whether we win or not.",Advise,Text
+you could be on the lookout for loose coins.,Advise,Text
+"vending machines, couch cushions, the ground near parking meters, fountains.",Advise,Text+Video+Audio
+"or, what if this company just gave us a little bit more money so we wouldn't have to scrounge for money like street urchins?",Advise,Text
+"okay, moving on. section three, social services.",Inform,Text
+uncle sam has your food. now go get it!,Arrange,Text
+"laurie, i am so sorry.",Apologise,Text
+"i was trying to pull up next to you, but those things reText+Video+Audioy just don't turn well.",Explain,Text
+"and i'm not saying this is what happened, but it is very possible that someone cut my break lines.",Explain,Text
+i'm sorry for the wait.,Apologise,Text
+"no, no way, no, what are you doing?",Prevent,Text
+"so i would love-no, actuText+Video+Audioy, i think i deserve an extra buck 50 an hour.",Advise,Text+Video+Audio
+"i'm sorry, are you actuText+Video+Audioy asking me for a raise right now?",Confirm,Text+Video
+that is what i'm doing.,Emphasize,Text+Video+Audio
+"no, no, no, not medicText+Video+Audioy.",Oppose,Text
+under no circumstances let me see what's inside that envelope.,Arrange,Text+Video
+can i see what's in that envelope?,Ask for help,Text
+"the baby's in a sack anyway. i'm just suggesting we take out that sack, and stuff it into someone else.",Advise,Text
+i wake up empty and happy and everybody wins.,Complain,Text+Video
+"Text+Video+Audio right, don't just say no, Text+Video+Audio right?",Complain,Text+Video+Audio
+why would you tell jeff what i said?,Criticize,Text
+"like, not psychic, but he's operating on a very high level.",Praise,Text+Video+Audio
+"well, now he feels even worse about himself.",Complain,Text
+okay.,Acknowledge,Text
+"hey, hey, hey. let's get out of here.",Comfort,Text+Video+Audio
+"okay, thank you.",Thank,Text
+"so are we talking broken condom, or a pull and pray situation?",Confirm,Text
+"sure, sure.",Acknowledge,Text+Video+Audio
+let's not talk about that either.,Prevent,Text
+"okay, Text+Video+Audio right.",Acknowledge,Text
+how about we just listen to the radio?,Advise,Text
+"look, we can ride in silence. that is fine by me.",Advise,Text
+"you know, i was gonna take skydiving lessons.",Plan,Text+Video+Audio
+Text+Video+Audio of the stuff that i'd...,Complain,Text+Video+Audio
+"who cares, doesn't matter anymore.",Complain,Text+Video+Audio
+"and if there is stuff you want to do, do that stuff.",Advise,Text+Video+Audio
+yeah.,Acknowledge,Text
+"oh, it is awesome.",Praise,Text
+"oh. so, the ceo may come to this store that we're in right now?",Confirm,Text
+that's... interesting.,Praise,Text
+"if he needs a place to stay, he can have my master bedroom.",Advise,Text+Video+Audio
+we'll get you 100 photos.,Plan,Text+Video+Audio
+"look, i'm sorry if i reacted poorly yesterday.",Apologise,Text
+i'm sorry. i just--it's been a reText+Video+Audioy rough day.,Apologise,Text
+and i don't know how much more i can take.,Complain,Text
+okay.,Acknowledge,Text
+"you waited to talk to me Text+Video+Audio day, and when i'm ready, it's just like,  nah.  it's what you want when you want it.",Complain,Audio+Video
+did the farmers market run out of your yogurt?,Taunt,Text+Video+Audio
+"or--oh, your  new yorker  came late this month.",Taunt,Text+Video+Audio
+this is what i'm talking about!,Emphasize,Text
+you love playing the martyr.,Criticize,Text+Video+Audio
+"you get to just judge everybody else, but nobody gets to criticize you on your crap.",Criticize,Text
+are you reText+Video+Audioy that pissed off that i kissed you?,Doubt,Text
+"no, i'm pissed off that i waited around for you for two years, and you waited until i was in a relationship and you were pregnant to kiss me.",Criticize,Text
+"so could you, but we Text+Video+Audio know that's never gonna happen.",Oppose,Text+Video+Audio
+"go to hell, jonah.",Leave,Text+Video+Audio
+can't you just search some keywords?,Advise,Text+Video+Audio
+"but, we should probably open it just to be safe.",Advise,Text+Video
+"i'm sorry, are you asking me to carry human cheese in our stores?",Confirm,Text+Video+Audio
+oh! i hadn't reText+Video+Audioy--,Oppose,Text+Video
+baby and toddler!,Inform,Audio
+pet food!,Inform,Text
+"okay, i get-i get that cloud 9 is an olympic sponsor, but do Text+Video+Audio the stores do an actual olympic opening ceremony?",Doubt,Text+Video+Audio
+"nope, just us.",Oppose,Text
+toys and sporting goods!,Inform,Text
+is the life jacket reText+Video+Audioy necessary?,Doubt,Text
+"and now, to light the cloud 9 olympic cauldron is store 1217's oldest living employee.",Introduce,Text
+myrtle. now.,Inform,Audio
+i put it in my column in the newsletter.,Inform,Text
+that's not the cauldron!,Prevent,Text+Video+Audio
+"it's okay, it's just a little baby fire!",Comfort,Text
+"Text+Video+Audio right, okay, i've got this!",Comfort,Text+Video+Audio
+we have an elected store fire marshal who will lead us from the building safely.,Inform,Text
+"hi. dina fawkes, assistant manager.",Greet,Text
+"hi, i'm amy.",Greet,Text
+"no offense, i'm just not impressed by celebrities, but i do have an olympics related question.",Explain,Text+Video+Audio
+"uh, i don't think i know how to answer that.",Refuse,Text
+"i'm gonna name some olympians, and you tell me if you've...",Arrange,Text+Video+Audio
+okay.,Leave,Text+Video+Audio
+"i'm sorry, i'm just--i'm not comfortable talking about that part of my life.",Apologise,Text
+"oh, no, no, no.",Oppose,Text
+"i'm not-i had your poster on my wText+Video+Audio when i was a kid, and, um, i dressed my barbie like you, and my brother cut it in half, but it wasn't personal.",Explain,Text
+it was--he was just-but he's fine now.,Explain,Text+Video
+"amy, right?",Confirm,Text
+you are the best in the world at being you.,Praise,Text
+your eyes are like lasers.,Praise,Text+Video+Audio
+"and back when i took gymnastics, coach bev said i was her best trier in her tuesday-thursday class.",Flaunt,Text+Video+Audio
+"i think what amy is trying to say is that, uh, a lot of olympic gymnasts train their whole lives, so writing it down a card might not be enough.",Explain,Text
+reText+Video+Audioy?,Doubt,Text+Video+Audio
+"no, that is not what i was trying to say, jonah.",Oppose,Text
+i was trying to say tokyo 2020!,Explain,Text
+i just picked up a multicultural buffet.,Inform,Text
+"anyway, there's, uh, no reason for anyone to feel excluded.",Inform,Text
+"now, i think Text+Video+Audio countries are equal.",Inform,Text
+"you know, whether you're of mexican descent like amy.",Inform,Audio
+"i don't speak spanish, sorry.",Apologise,Text
+wha-reText+Video+Audioy?,Doubt,Text
+"o-okay, um.",Acknowledge,Text
+"these burritos Text+Video+Audio have meat in them, so i can't eat any of these.",Leave,Text+Video+Audio
+"Text+Video+Audio you have to do is write it on the card, believe in it, and your dreams will come true!",Inform,Text
+"oh, hey!",Greet,Text
+are you guys doing that missy-dream-card thing where you write down your realistic dreams?,Care,Text+Video+Audio
+"yeah, that's the point.",Emphasize,Text+Video+Audio
+maybe more realisticText+Video+Audioy-why don't you try to  nail  someone you actuText+Video+Audioy know?,Advise,Text
+like your wife?,Advise,Text+Video+Audio
+"oh, cool, that'd be awesome.",Praise,Text
+"no, it wouldn't.",Oppose,Text
+"what i'm trying to say is you may not be able to  start the next google  or, uh,  be beyoncé,  or  try lobster--  no, carol, that is a good one.",Explain,Text+Video+Audio
+you could actuText+Video+Audioy do that right now.,Advise,Text
+"okay, well, then, maybe don't try the lobster, but what i'm saying is you can't just do anything.",Explain,Text+Video+Audio
+"oh, my god, i'm so sorry, garrett.",Apologise,Text
+that's just the first thing that came to mind.,Explain,Text+Video+Audio
+"cheyenne, what did you write?",Care,Text+Video
+"yeah, okay, i get it.",Acknowledge,Text
+"no, that is not what i'm saying.",Oppose,Text
+"thanks, amy.",Thank,Text
+hey.,Greet,Text
+you're suspended with pay.,Inform,Text
+what you did back there was awesome.,Praise,Text
+so about that walkout?,Care,Text+Video+Audio
+"oh, and have a heavenly day.",Inform,Audio
+so they wouldn't give glenn's job back?,Confirm,Text+Video+Audio
+"sandra, you were saying you weren't getting paid for overtime?",Confirm,Text+Video+Audio
+i didn't mean to complain.,Explain,Text+Video
+this is what change looks like.,Inform,Audio
+regular people like us demanding action.,Inform,Audio
+corporate says we're in over our heads.,Criticize,Text+Video+Audio
+i think we're in under our heads.,Inform,Audio
+"just go with it, guys.",Advise,Text+Video+Audio
+tomorrow we're gonna come back with signs.,Inform,Text
+"we're gonna have one of those big, inflatable rats.",Joke,Text+Video+Audio
+"um, good energy, dougie.",Praise,Text
+we'll see you tomorrow.,Inform,Audio
+for our first day of strike!,Inform,Text
+"okay, everybody, listen up, please.",Inform,Text
+they just want things the way they were.,Inform,Audio
+dina is back as assistant manager.,Inform,Audio
+"and anybody who's willing to come in and sign the letter by the end of the day, we welcome you back.",Inform,Audio
+"glenn, that goes for you too.",Inform,Audio
+"no, no, hey, guys.",Prevent,Text+Video
+"detergents. pod, liquid, powder.",Introduce,Text
+"uh, high-efficiency, et cetera, et cetera.",Introduce,Text+Video+Audio
+you're a lifesaver.,Praise,Text
+"oh, could you just repeat that over here?",Ask for help,Text
+"actuText+Video+Audioy, i'm kinda in a hurry.",Refuse,Text+Video+Audio
+this is my son. you're hurting my arm!,Criticize,Text+Video+Audio
+now tell him what you just said to me.,Arrange,Text
+you're hurting my arm.,Criticize,Text
+i mean before that. about being a lifesaver.,Explain,Text
+"it's okay, owen. mama's here.",Comfort,Text
+the bad man didn't get me.,Comfort,Text+Video+Audio
+it's ma-tato.,Inform,Audio
+i mean... mateo.,Explain,Text
+there's just nothing like looking into your baby's eyes.,Introduce,Text+Video+Audio
+"amy, wanna see my baby?",Invite,Text+Video
+not now. i need everybody's help.,Ask for help,Text+Video
+"follow me, please.",Arrange,Text+Video
+so as i seek atonement for my foibles--  that's a little bit much.,Complain,Audio+Video
+"um, blah, blah,  the movie 'magnolia'?",Doubt,Text+Video+Audio
+i would imagine. it's--it's an excellent film.,Praise,Text
+"actuText+Video+Audioy, no. i'm not sorry.",Oppose,Text+Video+Audio
+"and this isn't even like a  sorry, not sorry  situation.",Oppose,Text
+"this is  not sorry, not sorry.  you're Text+Video+Audio garbage, so grab a cupcake, and continue your slow march to death.",Taunt,Text+Video+Audio
+"marcus got his thumb back, so, you know, no harm no foul.",Comfort,Text+Video+Audio
+we're never gonna have another march 14th.,Inform,Audio
+"thanks, glenn, but i don't think we can pull that move twice in 48 hours.",Thank,Text
+Text+Video+Audio clear.,Inform,Audio
+"listen, tate, i would never ask you to sell something that you were not comfortable with, so if you wanna remove them from the pharmacy, i will support you.",Inform,Text
+are you kidding?,Doubt,Text
+"okay, but between us, could you just find a reason to take them off the shelf?",Ask for help,Text
+"tate, do you believe in god?",Confirm,Text
+"oh, brother.",Leave,Text+Video+Audio
+can i take a look at that bolt action rifle?,Ask for help,Text
+"yes, you may.",Agree,Text
+"yeah, i'm pretty upset about it.",Complain,Audio+Video
+how upset are you?,Care,Text
+"i worked there over 20 years, and then they just get rid of me like i'm trash?",Complain,Text
+service denied. service denied.,Refuse,Text+Video+Audio
+"you just said you're upset and they were gonna regret it, so nope.",Explain,Text+Video+Audio
+'cause i'm the only one who understands the payroll software.,Explain,Text
+"look, i'm sorry i'm being overly cautious, but you know what?",Apologise,Text
+"why don't we try and find you a better hobby than this, you know?",Advise,Text
+have you ever considered fencing?,Advise,Text+Video+Audio
+fencing sucks.,Complain,Text
+"no, it doesn't.",Oppose,Text
+i'm sorry; i just have way too many concerns about your level of anger.,Apologise,Text
+this is discrimination.,Criticize,Text
+attention.,Inform,Text
+i need everyone in the store to be completely silent as i will be making some noises that replicate the cText+Video+Audios of the crows' natural enemies.,Inform,Text
+today is a great day for the second amendment.,Inform,Text
+i'm proud to see so many of us came out here to protest the despicable actions of that short-haired lady over there who infringed on our rights today.,Inform,Audio
+she can't take us away from our guns.,Inform,Audio
+"first of Text+Video+Audio, i'm a man, but thank you.",Inform,Audio
+i can say whatever i want to say.,Inform,Audio
+will everybody please just shut up!,Prevent,Text
+you sound like children.,Taunt,Text+Video+Audio
+we can't Text+Video+Audio just do whatever we want whenever we want to.,Inform,Audio
+someone pisses you off so you have to flash a rifle to prove a point?,Criticize,Text+Video+Audio
+just be a grown-up.,Advise,Text
+i don't think so.,Oppose,Text
+isn't that kind of what you're doing now?,Doubt,Text
+"hey, cody.",Greet,Text
+hey.,Greet,Text
+just wanted to tell you i value you.,Inform,Text
+thank you.,Thank,Text
+i appreciate that.,Praise,Text+Video+Audio
+"i'm going to go over there, okay?",Leave,Text
+and i usuText+Video+Audioy hate being in teams.,Complain,Text
+it's why i burnt out of business school.,Explain,Text
+sounds like you're making excuses.,Taunt,Text+Video
+"anyway, the point is i got super stressed about being the best in my class, and i ended up in the hospital with dehydration for two days.",Explain,Text
+"no, i was just trying to beat your story.",Oppose,Text
+"yeah, well.",Acknowledge,Text
+"i got more stuff than you, though.",Flaunt,Text+Video+Audio
+okay.,Acknowledge,Text
+"that's plenty. now, glenn.",Arrange,Text
+oh. thank you.,Thank,Text
+"yo, it's g-l-e-m.",Introduce,Text+Video+Audio
+glenn?,Doubt,Text+Video+Audio
+i can't sign this.,Refuse,Text
+"if it was just my money i wouldn't care, i swear.",Explain,Text+Video+Audio
+"but i have a family, bo.",Explain,Text
+i'm sorry.,Apologise,Text
+i just made $12.,Inform,Text
+today is a high-alert day.,Inform,Text
+dina's right.,Agree,Text
+"yes, but james bond does.",Joke,Text+Video+Audio
+"stop being the hText+Video+Audiooween version of scrooge, whatever that is.",Prevent,Text
+put on a costume.,Arrange,Text
+"actuText+Video+Audioy, i am dressed up. i'm you.",Explain,Text+Video
+"wait, you guys should stand together Text+Video+Audio day.",Advise,Text
+"yeah, i'm gonna find a costume to put on.",Leave,Text+Video+Audio
+"so let's keep an eye out for teens, tweens, people who look inappropriately large or smText+Video+Audio...",Inform,Text
+hello?,Greet,Text
+"oh, my god, it's my favorite day of the year.",Praise,Text
+"and later, i get to go trick-or-treating with emma, which is the best.",Praise,Text+Video+Audio
+"ma'am, you realize that candy from strangers can contain razor blades and heroin needles, right?",Warn,Text+Video+Audio
+"i'm just saying, best-case scenario: free chocolate bar.",Explain,Text
+that's what i thought.,Agree,Text
+i will not apologize for my commitment to our customers' safety.,Refuse,Text+Video+Audio
+"oh, glenn, if i was you, i would've killed myself years ago.",Taunt,Text+Video+Audio
+"you know, i think i saw some reText+Video+Audioy sketchy types headed for the stockroom.",Inform,Text
+what?,Doubt,Text
+those are exactly the things i said to look out for.,Emphasize,Text+Video+Audio
+it's like i just talk to myself in this store.,Complain,Text+Video
+"thanks, amy.",Thank,Text
+"at 8:24, a crate of irregular produce was put in the cage to be returned to fulfillment and destroyed.",Inform,Text
+irregular produce? you mean rotten?,Confirm,Text
+"no, what i'm talking about is lumps, bumps, extra appendages, apples that look like pears, pears that look like guavas.",Explain,Text+Video+Audio
+so we're just throwing away perfectly good food because it's ugly?,Doubt,Text
+"looks matter, jonah.",Explain,Text+Video+Audio
+"no, you can't just keep us here.",Oppose,Text
+i'm going trick-or-treating with my daughter.,Plan,Text
+"yeah, i have a date... uh, with a good book.",Plan,Text+Video+Audio
+"i'm going to a screening of  nosferatu  at the tivoli, if anybody wants to come.",Plan,Text
+justice does not stop for your plans.,Inform,Audio
+"glenn, you're not gonna let her do this to us, right?",Confirm,Text
+interrogations start immediately.,Inform,Text
+why? what's going on?,Care,Text
+you could just not look at her...,Advise,Text
+have you seen my eye line? it's unavoidable.,Oppose,Text+Video+Audio
+reText+Video+Audioy? or do those two words just sound the same?,Doubt,Text
+what is this?,Care,Text+Video
+"listen, i've been thinking about it a lot lately, and i have decided that you are my best friend in the store.",Inform,Text
+"okay, well, you're nice too.",Praise,Text
+"yeah, i am nice.",Agree,Text+Video
+"anyway, i've been thinking about it, and i feel like we should just have a good old-fashioned girlfriend gabfest.",Invite,Text+Video+Audio
+maybe you could tell me if you've seen or heard anything suspicious recently.,Advise,Text+Video
+mm. suspicious?,Confirm,Text+Video+Audio
+"mm. um, no.",Oppose,Text
+reText+Video+Audioy?,Confirm,Text
+"okay, i have to go.",Leave,Text
+excuse me.,Leave,Text+Video+Audio
+"that's what best girlfriends do, right?",Confirm,Text
+the stupid poll worker lady is guarding those stickers like it's her last tub of activia.,Complain,Text+Video
+"oh, hey. mateo, did you vote?",Care,Text+Video+Audio
+"oh, my god. why is everyone obsessed with voting today?",Complain,Text
+"okay. don't ask me any questions, but i want to buy your sticker.",Ask for help,Text+Video+Audio
+okay.,Agree,Text+Video+Audio
+"it's just, you know, it's kind of a secret.",Explain,Text
+excuse me.,Leave,Text+Video+Audio
+okay.,Acknowledge,Text
+what's go--bring her in. oop!,Joke,Text+Video+Audio
+"oh, i-i didn't meant to-i stumbled on the ladder and i fell into your hair.",Apologise,Text+Video+Audio
+"uh, how's your, uh, barbecue business going?",Care,Text
+"hey, you know, uh, we--we might still be looking for some seasonal help if you're-you're looking for a gig, you know?",Advise,Text+Video+Audio
+wow. yeah. that's not a bad idea.,Praise,Text
+what's not a bad idea?,Care,Text+Video+Audio
+"uh, working here.",Explain,Text+Video+Audio
+"god, i'm so pissed, glenn.",Complain,Text
+"i mean, i've been here so long and you can't even make an exception for me?",Complain,Audio+Video
+i can't. i'm--i'm sorry.,Apologise,Text
+it's just the way they do things here.,Complain,Audio+Video
+glad to have you.,Greet,Text
+awesome! this'll be fun!,Praise,Text
+"we have unibrow, unibrow 2, short guy tText+Video+Audio hair, and booklady.",Introduce,Text
+"no, i wanted her. i hate her.",Oppose,Text+Video+Audio
+which temp will quit next?,Care,Text+Video+Audio
+i want this whole floor sparkling.,Arrange,Text
+the floor? you mean the ground?,Confirm,Text
+i just got sexuText+Video+Audioy harassed.,Ask for help,Text+Video+Audio
+"oh, my gosh. i'm so sorry.",Comfort,Text+Video+Audio
+i reText+Video+Audioy hope you're okay.,Comfort,Text
+"after careful consideration, i've decided to go with the applicant i pretty much knew i was gonna go with from the beginning.",Inform,Text
+"oh, uh, what did you say this pays?",Care,Text+Video+Audio
+you're santa claus.,Inform,Audio
+o-okay.,Acknowledge,Text
+"we have a good marriage, right?",Confirm,Text
+"uh, yeah.",Agree,Text+Video
+yeah. i think so too.,Agree,Text
+"Text+Video+Audio right, everybody, get ready.",Inform,Text
+store is set to open in exactly one minute.,Inform,Text
+you don't have to say Text+Video+Audio the numbers.,Advise,Text+Video
+"okay, uh, one last thought before we open that if you apply-  whoa, whoa.",Inform,Text
+"yeah, the line in the ladies' room was reText+Video+Audioy long, so--",Explain,Text
+thanks.,Thank,Text
+"okay, okay, cool.",Acknowledge,Text
+dairy factory-farmed.,Introduce,Text
+we don't sell wigs anymore.,Inform,Text
+"henry, get Text+Video+Audio the upts out of the green zone.",Arrange,Text
+"Text+Video+Audio right, break!",Arrange,Text
+didn't know i had it in me.,Flaunt,Text+Video+Audio
+"i mean, none of it meant anything, but the confidence is inspiring.",Explain,Text+Video+Audio
+"dina, i can't.",Refuse,Text
+"yeah, me too.",Agree,Text
+"find every breath mint left in the store, and meet me in the photo lab.",Arrange,Text
+"so are you just planning to avoid me until one of us quits, or--?",Doubt,Text+Video+Audio
+"no, no, no, no, it's just, you know, i've been busy.",Oppose,Text+Video+Audio
+i have absolutely no interest in pursuing this.,Oppose,Text+Video+Audio
+"sky diving instructors, hand models, two of the original members of fine young cannibals.",Introduce,Text
+"okay, i won't be weird, lady who has multiple birds.",Joke,Text+Video+Audio
+i'm the bad boy of my friend group.,Flaunt,Text+Video+Audio
+i'm so sorry.,Apologise,Text
+i was just trying to brighten your day.,Explain,Text
+i forgot it was gonna do that.,Explain,Text+Video+Audio
+"i don't know, i mean, i guess i'll pay some bills...",Explain,Text
+i don't need anything.,Oppose,Text+Video
+"no, it's not about need. this is not about need.",Oppose,Text
+yes! you be selfish.,Criticize,Text
+okay.,Acknowledge,Text
+"in retrospect, perhaps i shouldn't have told her how much we found.",Complain,Audio+Video
+you should've just fixed your mom's crisper.,Advise,Text+Video+Audio
+"ooh, a panini press! we could have hot sandwiches.",Advise,Text
+"uh, okay, yeah. put it in the cart.",Arrange,Text
+what? i love hot sandwiches.,Explain,Text+Video+Audio
+it is because what makes me happy is seeing other people be happy.,Explain,Text
+"great, that's-okay, thank you.",Thank,Text
+that too.,Agree,Text
+where is the halo toilet paper?,Ask for help,Text
+i could only find this stuff.,Inform,Audio
+"yeah, this is our new product line: the supercloud, and i have been ordered to tell you how excited i am about it.",Introduce,Text
+but i like halo.,Oppose,Text+Video+Audio
+"oh, my god, this is amazing.",Praise,Text
+"oh, rex, thank you for giving us this gift.",Thank,Text
+"okay, i think we've seen enough.",Prevent,Text+Video+Audio
+"hey, sorry about before.",Apologise,Text
+"oh, that's fine.",Acknowledge,Text+Video+Audio
+he does a reText+Video+Audioy good impression of you.,Praise,Text
+"look, uh, i just don't want you to think that i got one foot out the door, okay?",Confirm,Text
+"yeah, okay.",Acknowledge,Text
+"if you think there's honestly no difference, cancel it.",Advise,Text+Video
+"okay, great, yeah.",Agree,Text+Video+Audio
+"i will, i'll do it-i'll do it tonight.",Plan,Text
+no time like the present.,Advise,Text+Video+Audio
+okay. i'll do it now.,Agree,Text+Video+Audio
+it's in an email so i gotta search for it for-just hang on one second.,Explain,Text+Video+Audio
+"hey, it's okay.",Comfort,Text
+it's--it's not me. it's the wi-fi.,Explain,Text
+"well, they do now!",Acknowledge,Text+Video+Audio
+"oh, hey.",Greet,Text
+"i just wanted to let you know i restocked Text+Video+Audio the toothpaste that myrtle decided looked  just fine  in electronics, so-and?",Inform,Audio
+"well, i know there's more.",Acknowledge,Text+Video+Audio
+"no, there's not. there's just--",Oppose,Text
+there's just no shame in counseling.,Comfort,Text+Video
+no. mental health is important and it shouldn't be stigmatized.,Oppose,Text
+"i know you're trying to help me and i reText+Video+Audioy appreciate it, but i don't want to talk about it, okay?",Refuse,Text+Video+Audio
+i don't. i just want everybody to treat me normText+Video+Audioy.,Oppose,Text+Video+Audio
+okay?,Confirm,Text+Video+Audio
+it's okay.,Comfort,Text
+you are loved.,Comfort,Text+Video+Audio
+"when he confronted the witches, it reText+Video+Audioy grounded him.",Introduce,Text+Video+Audio
+"oh, i'm not seeing anyone.",Oppose,Text+Video
+what about jeff?,Care,Text+Video
+sorry. 'scuse me.,Apologise,Text
+hi. carol.,Greet,Text
+"oh! i'm gonna get another long island iced tea, beyotches!",Plan,Text
+"i'm gonna have you tackle womenswear with myrtle, and cheyenne here is gonna take your post.",Arrange,Text+Video
+you'll be fine. i believe in you.,Comfort,Text
+hello. welcome to cloud 9.,Greet,Text
+"no, he's not.",Oppose,Text
+"and fewer lawsuits equals more revenue for cloud 9, which benefits Text+Video+Audio of us.",Inform,Text
+"oh, god, kill me now.",Complain,Text+Video+Audio
+"whoa, well done.",Praise,Text
+everybody write down Text+Video+Audio the employees you're attracted to.,Arrange,Text+Video
+i will compile a spreadsheet of any matches and post it above the microwave.,Plan,Text+Video
+"nope, we're not doing that.",Oppose,Text
+can you ask her out again for a different night?,Confirm,Text+Video+Audio
+i was just asking as a joke anyway.,Explain,Text
+"without kids, what's the point of life?",Complain,Text+Video+Audio
+i can't believe you'd want to bring someone into this crazy world.,Criticize,Text
+i wasn't harassing her.,Explain,Text+Video+Audio
+"it was wrong to harass you, and if you want, i will quit right now.",Apologise,Text+Video+Audio
+"i like your sweater, and i think you're pretty.",Praise,Text
+"oh, god, what have i done?",Complain,Text
+"dina, i am trying to keep a positive attitude today, so help me out, okay?",Ask for help,Text
+"yeah, sure. sorry.",Apologise,Text
+what? no offense.,Doubt,Text+Video
+"oh, shut the door. you're letting the air out.",Arrange,Text
+"look, i'm just taking a break from the heat.",Explain,Text+Video
+"yeah, it is a lot cooler in here.",Agree,Text
+she's got a terrible cold.,Inform,Text
+"you sound terrible-shrill, but in a different way.",Care,Text+Video+Audio
+"uh-huh. hey, ames, can you hold on a sec?",Asking for opinions,Text+Video+Audio
+"hey, sweetie!",Greet,Text
+"you just get well soon, okay?",Comfort,Text
+"so according to your wellness chart, you should shave that mustache.",Advise,Text+Video+Audio
+you'll thank me later.,Flaunt,Text+Video+Audio
+"hey! what up, my--hm--mateo?",Greet,Text
+"who you seeing? oh, god.",Care,Text
+"okay, look, i saw you at the movie theater yesterday with jeff.",Inform,Text
+can we please not talk about this here?,Prevent,Text
+"talk about what, mateo? the fact that i saw you making out with sandra's boyfriend?",Criticize,Text+Video+Audio
+okay.,Prevent,Text+Video+Audio
+he's not her boyfriend. he's my boyfriend.,Inform,Audio
+that's us at the pool in his hotel.,Introduce,Text
+that's us as nick nolte and barbara streisand in  prince of tides.    what about sandra?,Introduce,Text+Audio
+she's just been saying she's dating him to get attention.,Inform,Audio
+sad. yes.,Agree,Text+Video+Audio
+"well, could you just please not say anything to anyone?",Ask for help,Text
+it wouldn't be good if this got out.,Inform,Audio
+"jeff's banging mateo, and sandra's insane.",Inform,Audio
+don't tell anyone though.,Warn,Text
+she's a maniac.,Complain,Text
+that's so gross.,Complain,Text+Video+Audio
+"wait, you guys have a wine club?",Doubt,Text
+"look, this reText+Video+Audioy is none of your business, you know.",Oppose,Text+Video+Audio
+"it you knew the whole story, you wouldn't think she was a maniac.",Explain,Text
+the whole story is that she did date jeff.,Inform,Text
+"it was very intense, and then they broke up.",Inform,Text
+"yup, they broke up. it happened on a tuesday.",Agree,Text+Video+Audio
+"no.   that is a good question, and we asked her that question, and what she said made a lot of sense.",Oppose,Text
+she told us that...,Inform,Text
+she's pregnant.,Inform,Text
+sandra? that is wonderful.,Praise,Text
+or manufacturing?,Advise,Text+Video+Audio
+"okay, no baby shower, guys.",Oppose,Text+Video+Audio
+"you're making a big deal out of this, and she doesn't even know if she's gonna keep it.",Criticize,Text+Video
+"no, you don't mean she's gonna--",Oppose,Text
+"oh, and childbirth is so easy.",Taunt,Text+Video+Audio
+and that is our skit on the abortion debate.,Introduce,Text+Video+Audio
+can we get a doctor? where's that nurse?,Ask for help,Text+Video
+"wow, you're smoking now?",Doubt,Text+Video+Audio
+"no, i'm just holding it.",Oppose,Text
+it's nice.,Praise,Text
+yeah?,Acknowledge,Text+Video+Audio
+i'm sorry about everything earlier.,Apologise,Text
+i've been off today.,Inform,Text
+going from two gText+Video+Audioons of juice a day to nothing has been messing with my head.,Complain,Text
+"yeah, i get it.",Agree,Text+Video+Audio
+i'm sorry too.,Apologise,Text
+"i just get sensitive, because sometimes i think you're smarter than me.",Explain,Text+Video
+i've come to deliver the fair maiden sandra to good king jeff.,Inform,Text
+roach situation in the break room is getting worse.,Inform,Audio
+"so clean up your crumbs, and heather, stop hording yogurt lids in your locker.",Arrange,Text
+"i know that, because we had that oscar pool.",Explain,Text
+i am talking about the new cloud 9 integrity awards.,Inform,Text
+"the winner from each store gets an unframed certificate, and attends a luncheon with an Text+Video+Audio-you-can-eat buffet.",Inform,Text
+"anyway, uh, the recommendation forms are here, and-which brett will be happy to help you with-in case you think of someone you work with, or maybe work for, who you think has shown integrity in the workplace.",Inform,Text+Video
+you can't push yourself for an award.,Prevent,Text
+"no, you're-you're not getting it.",Oppose,Text
+"well, i'm probably not eligible, since i'm dating jeff.",Flaunt,Text+Video+Audio
+"oh, jonah, so sweet, so dumb.",Taunt,Text+Video+Audio
+they're in the new place. we're just getting boxes.,Explain,Text+Video+Audio
+"hey, princess.",Greet,Text
+took me two minutes to box up everything i own.,Flaunt,Text+Video+Audio
+"i don't know, maybe your heart medicine, so that your body doesn't reject your new valve?",Advise,Text
+yep.,Acknowledge,Text
+"this is where i need to be, amelia...",Emphasize,Text+Video+Audio
+you probably saved his life.,Praise,Text
+"hm, who saw that coming?",Complain,Audio+Video
+"eh, you know, it wasn't that big a deal.",Comfort,Text
+"how crazy would that be? garrett, integrity award winner.",Taunt,Text+Video
+"well, on the off chance that i'm right, why don't we do this?",Advise,Text
+"attention, cloud 9 employees, do not recommend me for the integrity award.",Inform,Text
+"if you would like to reward me for rescuing a dog, feel free to bring baked goods by customer service, preferably homemade.",Inform,Audio
+thank you.,Thank,Text
+"and no lemon squares, or anything with oatmeal.",Inform,Text
+save that crap for somebody who did not rescue a dog.,Inform,Audio
+"anyway, thanks for making jeff send him.",Thank,Text
+"sure. i'm a good man to know, so let me know if you need anything else.",Flaunt,Text+Video+Audio
+you reText+Video+Audioy schlonged me with this whole dog scam.,Criticize,Text
+why are you doing this?,Criticize,Text
+leonard: this is it.,Introduce,Text
+tell him about our iq.,Arrange,Text
+"well, your ex-boyfriend sends his regards and i think the rest is fairly self-explanatory.",Explain,Text+Video+Audio
+i'm so sorry.,Apologise,Text
+i reText+Video+Audioy thought if you guys went instead of me he wouldn't be such an ass.,Explain,Text+Video+Audio
+"reText+Video+Audioy, thank you so much for going and trying.",Thank,Text
+you just-you're so terrific.,Praise,Text
+"why don't you put some clothes on, i'll get my purse, and dinner is on me, okay?",Invite,Text+Video+Audio
+"you're not done with her, are you?",Confirm,Text
+"any ideas, raj?",Asking for opinions,Text
+i know a wonderful little sushi bar that has karaoke.,Introduce,Text
+"oh, that sounds like fun.",Praise,Text
+does it have peanut oil?,Care,Text+Video+Audio
+"since it's not bee season, you can have my epinephrine.",Joke,Text+Video+Audio
+thailand has had the fork since the latter half of the 1 9th century.,Introduce,Text+Audio
+"hey, raj.",Greet,Text
+"still not talking to me, huh?",Confirm,Text
+"don't take it personText+Video+Audioy, it's his pathology.",Comfort,Text
+"if it gets here and i’m not here, could you sign for it and put it in?",Ask for help,Text
+you realize that scene was rife with scientific inaccuracy?,Confirm,Text+Video+Audio
+"yes, i know, men can't fly.",Acknowledge,Text+Video+Audio
+she's 2 feet above the ground.,Emphasize,Text+Video+Audio
+i'm just gonna go wash up.,Leave,Text
+i have 2600 comic books in there.,Flaunt,Text
+chText+Video+Audioenge accepted.,Agree,Text+Video+Audio
+we're locked out.,Complain,Audio+Video
+why not?,Doubt,Text
+archimedes would be so proud.,Joke,Text+Video+Audio
+do you have any ideas?,Asking for opinions,Text
+"yes, but they Text+Video+Audio involve a green lantern and a power ring.",Joke,Text+Video+Audio
+"okay, yeah, no problem. just come up here, help me pull and turn.",Arrange,Text
+men do things for women without expecting sex.,Oppose,Text+Video+Audio
+i'm doing this to be a good neighbor.,Explain,Text
+"oh, god, my fingers!",Complain,Text
+a little messy?,Doubt,Text
+explain to me a system where a tray of flatware on a couch is valid?,Doubt,Text+Video+Audio
+i'm just inferring that this is a couch because the evidence suggests the coffee table's having a tiny garage sale.,Taunt,Text+Video+Audio
+did it occur to you that not everyone has the compulsive need to sort organize and label the entire world around them?,Asking for opinions,Text+Video+Audio
+no.,Oppose,Text
+this is not anyone's home. this is a swirling vortex of entropy.,Taunt,Text+Video+Audio
+because it was immaculate.,Explain,Text+Video
+"Text+Video+Audio right, just a few more feet and.... here we are, gentlemen, the gates of elzebub.",Introduce,Text+Video+Audio
+don't panic. this is what the last 97 hours have been about.,Comfort,Text
+"warriors, unsheathe your weapons. magic wielders, raise your wands.",Arrange,Text
+"raj, blow the gates.",Arrange,Text
+don't just stand there. slash and move.,Arrange,Text+Video+Audio
+stay in formation.,Arrange,Text
+"oh, he's got me.",Complain,Text+Video+Audio
+"sheldon, he's got raj. use your sleep spell.",Arrange,Text
+he's selling the sword of azeroth on ebay.,Inform,Audio
+you betrayed us for money? who are you?,Criticize,Text
+don't you people read character descriptions?,Doubt,Text
+wanna log on to second life and go swimming?,Invite,Text+Video+Audio
+i just built a virtual pool.,Inform,Audio
+no. i can't look at you or your avatar right now.,Oppose,Text
+excuse me.,Leave,Text+Video+Audio
+"stealing snail mail, very old school. i like it.",Praise,Text+Video
+how do i look?,Asking for opinions,Text+Video
+no. the dark crescent-shaped patterns under your arms conceal it nicely.,Oppose,Text
+"perfect, that gives you two hours and 1 5 minutes for that dense molecular cloud of aramis to dissipate.",Inform,Audio
+"by the way, you didn't join us because you stuffed yourself with a chicken-carbonara sub at quizno's.",Inform,Audio
+why would i join you?,Doubt,Text
+"oh, no, well, now, there's always the possibility that alcohol and poor judgment on her part might lead to a nice romantic evening.",Comfort,Text+Video+Audio
+"you're right. alcohol, poor judgment. it could go well.",Agree,Text
+"you could have stopped at,  it could go well.  if i could have, i would have.",Complain,Audio+Video
+i'm having a panic attack.,Explain,Text+Video+Audio
+"oh, okay. well, then, calm down.",Comfort,Text+Video
+would you just sit down?,Advise,Text+Video+Audio
+"now, try to increase your alpha-wave activity.",Advise,Text+Video+Audio
+it's relaxation through brainwave manipulation.,Explain,Text
+"it was sparsely sourced, but i think the science is valid.",Explain,Text+Video+Audio
+"i can't. if i don't show up, she'll still be expecting you.",Oppose,Text+Video+Audio
+why would she be expecting me?,Doubt,Text
+"no, robbie, robbie. you're not listening to us.",Oppose,Text+Video+Audio
+let me break this down for everyone.,Explain,Text+Video+Audio
+this is strictly sex. no one stays over and we keep an even tText+Video+Audioy in terms of orgasms.,Explain,Text
+"in a relationship, you know things about the other person.",Oppose,Text+Video+Audio
+"i don't know anything about dina, nor do i care to.",Explain,Text+Video+Audio
+that's where the power comes from.,Explain,Text+Video+Audio
+okay. how do you want to do this?,Asking for opinions,Text
+i guess just start with a punch in the face?,Advise,Text
+"yeah, yeah, okay.",Agree,Text+Video+Audio
+maybe--maybe close your eyes.,Advise,Text
+"uh, on second thought, open your eyes.",Arrange,Text
+okay.,Acknowledge,Text
+"no, see, now you're just staring at me and--and that's weird.",Oppose,Text+Video+Audio
+"well, i wasn't.",Oppose,Text
+you could just stomp on his head.,Advise,Text
+what if i just kind of go like this?,Advise,Text
+i'd rather be deported.,Joke,Text
+"mateo, it's not that easy to just punch somebody that you're not fighting with.",Inform,Audio
+why isn't pacifism a straight guy thing?,Doubt,Text
+so... what are you gonna do now?,Asking for opinions,Text
+just--just talk to jeff.,Advise,Text+Video+Audio
+"yeah, maybe.",Acknowledge,Text+Video+Audio
+i'm sorry i didn't come through for you.,Apologise,Text
+"yeah, you reText+Video+Audioy blew it.",Agree,Text+Video+Audio
+"okay, so, everyone wash their hands, not just for cacas, but also for wee-wees.",Inform,Text
+"and if you need help wiping, well, just come see me, okay?",Inform,Audio
+absolutely.,Agree,Text+Video+Audio
+i'm surprising jerusha with a photo of Text+Video+Audio the kids we've ever fostered.,Plan,Text
+how old's this one?,Asking for opinions,Text+Video+Audio
+cool.,Praise,Text
+what's going on with little homey over here?,Care,Text+Video
+"uh, this is attachment therapy for timur's displacement/rage issues.",Introduce,Text+Video+Audio
+stop!,Prevent,Text
+stop it!,Prevent,Text
+stop! stop eating.,Warn,Text+Video+Audio
+"hey, kristen.",Greet,Text
+"oh, sorry.",Apologise,Text
+"sorry, it's reText+Video+Audioy dry.",Apologise,Text
+"yeah, we are.",Agree,Text
+"wait, why?",Doubt,Text
+he seems nice.,Praise,Text
+"like, um, he talks way too much about cheese.",Explain,Text
+great. cool.,Praise,Text
+"well, i just--i just wanted to make sure that you were aware of the-the cheese and the-the films.",Explain,Text
+"wait, the meth?",Doubt,Text+Video+Audio
+"crystal meth, he smokes a ton of it.",Warn,Text+Video+Audio
+is that-is that a deal-breaker?,Doubt,Text+Video
+there is free candy in toy department.,Inform,Text
+"hey, baby.",Greet,Text
+come get this candy.,Inform,Audio
+"so, bo, what makes you interested in a career at cloud 9?",Asking for opinions,Text
+"oh, sure, sure--money.",Agree,Text
+"we've got the baby, and, you know, we're saving up for a wedding, and it's reText+Video+Audioy expensive.",Explain,Text+Video+Audio
+and he's good with people.,Praise,Text
+"okay, uh, where do you see yourself in the future?",Care,Text+Video+Audio
+he means--where do you see yourself at cloud 9?,Explain,Text
+"um, glenn is in charge of hiring.",Warn,Text+Video+Audio
+"yeah, i got--i got lost and stuff, so...",Explain,Text
+thank you.,Thank,Text
+"you know, there's, like, a lot of dangerous people out there.",Explain,Text
+"you know, people spend so much time watching the coasts.",Explain,Text
+you know where they're gonna strike first?,Asking for opinions,Text
+"yeah, what's up, truth?",Doubt,Text+Video+Audio
+"ha, who knew? here i thought you were nothing more than a worthless dirt bag.",Taunt,Text+Video
+"careful, leonard. liquid nitrogen, 320 degrees below zero.",Warn,Text+Video+Audio
+why are you smashing a flash-frozen banana?,Doubt,Text
+because i got a bowl of cheerios and i couldn't find a knife.,Explain,Text
+what are you doing?,Doubt,Text+Video+Audio
+just extending the intimacy.,Explain,Text
+"hey, do you wanna slip over to the radiation lab and share a decontamination shower?",Invite,Text
+"okay, what exactly do you think's going on between us?",Asking for opinions,Text
+oh.,Acknowledge,Text
+okay.,Acknowledge,Text
+i'm sorry. i'm sorry.,Apologise,Text
+"hey, look. it's dr. stud.",Greet,Text
+doctor what?,Doubt,Text
+"well, how did you know about it?",Care,Text+Video+Audio
+"well, that part's true.",Agree,Text
+i'm fine.,Comfort,Text+Video+Audio
+i am so sorry about what happened.,Apologise,Text
+"yes, it is. that's why i broke up with him.",Explain,Text
+he always does stuff like that.,Complain,Text+Video+Audio
+so why was he at your party?,Care,Text+Video+Audio
+"and i'm an idiot, because i always believe guys like that.",Complain,Text
+"nothing, you're perfect.",Comfort,Text+Video+Audio
+ecch. i'm not perfect.,Oppose,Text
+"yes, you are.",Comfort,Text+Video+Audio
+"you reText+Video+Audioy think so, don't you?",Confirm,Text
+are you sure that your being drunk and your being angry with kurt doesn't have something to do with what's going on here?,Confirm,Text+Video+Audio
+"boy, you're reText+Video+Audioy smart.",Praise,Text
+"yeah, i'm a freaking genius.",Taunt,Text+Video+Audio
+"leonard, you are so great.",Praise,Text
+"because if Text+Video+Audio guys were like me, the human race couldn't survive.",Joke,Text+Video+Audio
+i should probably go.,Leave,Text
+thank you.,Thank,Text
+what are you doing?,Doubt,Text+Video+Audio
+penny's still sleeping.,Warn,Text+Video+Audio
+why don't you have breakfast in bed?,Advise,Text
+because i am neither an invalid nor a woman celebrating mother's day.,Explain,Text
+what time is it?,Care,Text
+i slept Text+Video+Audio day?,Doubt,Text
+"no, it's 6:30 in the morning.",Oppose,Text
+i now have a bowl of shredded wheat paste.,Complain,Audio+Video
+hi. christy.,Greet,Text
+"so, christy, what are your plans?",Asking for opinions,Text
+"well, howard said he'd take me shopping in beverly hills.",Plan,Text+Video+Audio
+"not that i don't love having you, but it's a little crowded.",Explain,Text
+"penny, you're always welcome to stay with us.",Invite,Text
+"oh, terrific. now we're running a cute little b & b.",Taunt,Text+Video+Audio
+"what is that, like a mexican deli?",Confirm,Text+Video
+"i'm sorry, i should have mentioned this earlier.",Apologise,Text
+oh. that's so cool.,Praise,Text
+my first jew.,Flaunt,Text+Video+Audio
+"okay, i'll go pack my stuff.",Leave,Text
+"howard, can't you see she's using you?",Doubt,Text
+and this is leonard and sheldon's apartment.,Introduce,Text
+"leonard, may i present, live from new delhi, dr. and mrs. v. m. koothrappali?",Introduce,Text
+hi.,Greet,Text
+"sorry, papa.",Apologise,Text
+he lives with leonard.,Introduce,Text
+"yeah. no, we're not like haroon and tanvir.",Oppose,Text
+"papa, please don't start.",Prevent,Text
+"that's my life, my friends. good to see you. say bye.",Leave,Text+Video+Audio
+a spring wedding?,Doubt,Text+Video+Audio
+your parents don't consider this meddling.,Comfort,Text+Video+Audio
+while arranged marriages are no longer the norm indian parents continue to have an involvement in their children's love lives.,Explain,Text+Video
+why are you telling me about my own culture?,Doubt,Text
+you seemed confused.,Explain,Text+Video+Audio
+my parents are trying to marry me off to a stranger. what am i going to do?,Asking for opinions,Text+Video+Audio
+romantic love as the basis for marriage has only existed since the 19th century.,Introduce,Text+Video+Audio
+"up until then, arranged marriages were the norm and it served society quite well.",Introduce,Text+Video+Audio
+"me too. of course, it speaks to me culturText+Video+Audioy.",Agree,Text+Video
+i need guinea pigs.,Ask for help,Text+Video
+"okay, there's a lab animal supply company in reseda you could try.",Advise,Text
+"but if your research is going to have human applications, i suggest white mice.",Advise,Text
+their brain chemistry is far closer to ours.,Explain,Text
+with certain obvious exceptions.,Oppose,Text+Video+Audio
+"so, leonard, how about it?",Asking for opinions,Text
+um.... raj is going through some stuff right now and he'd like to take up drinking.,Explain,Text+Video+Audio
+this drink is an example of how liquids with different specific gravities interact in a cylindrical container.,Introduce,Text
+thank you.,Thank,Text
+"okay, raj, what'll it be?",Asking for opinions,Text
+how about a grasshopper? i make a mean grasshopper.,Advise,Text
+"okay, can you please order a cocktail? i need to practice mixing drinks.",Ask for help,Text
+that's rum and coke without the rum.,Introduce,Text
+yes.,Agree,Text+Video
+yes.,Agree,Text+Video
+bartenders are supposed to have people skills.,Taunt,Text+Video
+are you talking to me?,Doubt,Text+Video
+is there another penny here?,Doubt,Text+Video+Audio
+i was going to be the indira gandhi of particle astrophysics.,Plan,Text+Video+Audio
+it's amazing.,Praise,Text
+how can i be a gynecologist? i can barely look a woman in the eye.,Complain,Text
+you know what? i'm not going to let my parents control my future.,Inform,Audio
+it's time for a showdown.,Plan,Text+Video+Audio
+somebody give me a computer with a webcam.,Ask for help,Text+Video+Audio
+"okay, calm down.",Comfort,Text+Video
+no one can make you get married.,Comfort,Text+Video+Audio
+"why don't you meet this girl, see what happens?",Advise,Text
+haven't you been listening? i cannot talk to women.,Complain,Text+Video+Audio
+"raj, honey you say you can't talk to women but you've been talking to me.",Comfort,Text+Video+Audio
+you're right. i-i am talking to you.,Agree,Text
+"hello, penny. how are you?",Greet,Text
+it's a sweet green miracle.,Praise,Text
+happiness?,Doubt,Text
+freedom?,Doubt,Text
+this warm glow inside of me that promises everything's going to be Text+Video+Audio hunky dunky?,Doubt,Text
+"yeah, that.",Agree,Text+Video
+why don't you bring her to my restaurant so i can keep an eye on you?,Advise,Text
+okay.,Acknowledge,Text
+"what's the plan? let's say he meets her, he likes her, they get married.",Asking for opinions,Text
+"maybe you should keep your eye on the bText+Video+Audio, papa.",Advise,Text
+"oh, now you're a funnyman? this is not funny, mr. funnyman.",Criticize,Text
+"dr. and mrs. koothrappali, in Text+Video+Audio fairness, it wasn't entirely raj's fault.",Inform,Audio
+"you, you are the one who ruined everything.",Criticize,Text
+turn us. turn us.,Arrange,Text
+"go ahead, tell my parents why they won't have any grandchildren.",Arrange,Text
+friends don't do that to each other.,Criticize,Text+Video+Audio
+"Text+Video+Audio right, noted.",Acknowledge,Text+Video+Audio
+i'm not an alcoholic.,Oppose,Text+Video+Audio
+"it was just this one time, papa, i swear.",Explain,Text+Video+Audio
+don't embarrass him in front of his friends.,Prevent,Text
+Text+Video+Audio right. carry us outside.,Arrange,Text
+we want to talk to you in private.,Inform,Text
+i have to go.,Leave,Text
+"okay, well, good night.",Leave,Text
+hold on.,Prevent,Text
+"we ate, she lectured me on the link between gum disease and heart attacks nothing i didn't already know, and i came home.",Inform,Text
+so you're not gonna see her again?,Doubt,Text+Video+Audio
+why would i see her again?,Doubt,Text+Video
+okay.,Acknowledge,Text
+the x tens are online.,Inform,Text
+it's a little loud.,Complain,Text+Video
+"san francisco, lisbon, halifax: voilà.",Introduce,Text+Video
+"okay, thanks.",Thank,Text
+no. you don't get it.,Oppose,Text
+"howard, enable public access.",Arrange,Text
+public access enabled.,Inform,Text
+see?,Introduce,Text+Video+Audio
+no.,Oppose,Text
+"someone in sichuan province, china is using his computer to turn our lights on and off.",Inform,Text
+"huh. well, that's handy.",Taunt,Text+Video+Audio
+oh! they found the remote-control cars.,Inform,Text
+i promised my mother.,Inform,Text
+it's from the institute for experimental physics.,Inform,Audio
+"okay, if i may drill down to the bedrock of my question why did you throw it out?",Asking for opinions,Text+Video+Audio
+because i have no interest in standing in the rose room of the pasadena marriott in front of a group of judgmental strangers who wouldn't recognize genius if it were standing in front of them giving a speech.,Explain,Text+Video
+forget the parties? what a nerd.,Taunt,Text
+"leonard, don't take this the wrong way, but the day you win a nobel prize is the day i begin my research on the drag coefficient of tassels on flying carpets.",Taunt,Text+Video+Audio
+"ha, ha, ha. the only thing missing from that insult was your mama.",Taunt,Text
+you can't. i'm the lead author.,Oppose,Text
+"come on, the only reason you're the lead author is because we went alphabeticText+Video+Audioy.",Oppose,Text+Video+Audio
+"excuse me, i designed the experiment that proved the hypothesis.",Complain,Text+Video+Audio
+it doesn't need proving.,Oppose,Text+Video
+so the entire scientific community is just supposed to just take your word?,Doubt,Text
+"i'm going to the conference, presenting our findings.",Plan,Text
+you forbid it?,Doubt,Text
+"you know, like in the classic sci-fi movie scanners?",Explain,Text+Video+Audio
+how about this one?,Advise,Text+Video+Audio
+"it says,  i know my physics, but i'm still a fun guy.  oh.",Joke,Text+Video+Audio
+they don't. that's why i saved this one.,Explain,Text
+that's the bottle city of kandor.,Introduce,Text
+uh-huh.,Acknowledge,Text
+"you see, kandor was the capital city of the planet krypton.",Introduce,Text+Audio
+it was miniaturized by brainiac before krypton exploded and then rescued by superman.,Introduce,Text
+"oh, nice.",Praise,Text
+"here, why don't you put these on while i find a shirt and sport coat?",Advise,Text+Video+Audio
+"no, no. scientists do not compromise.",Oppose,Text
+that's my original series battlestar galactica flight suit.,Introduce,Text
+"oh, why didn't you wear it on hText+Video+Audiooween?",Advise,Text+Video+Audio
+because it's not a costume. it's a flight suit.,Explain,Text
+is this your only tie?,Confirm,Text
+"ah, technicText+Video+Audioy, yes.",Agree,Text+Video
+"oh, sweetie, i don't even think it works as one.",Oppose,Text+Video
+i said no. put it down.,Arrange,Text
+you should just talk to him. i'm sure you guys can work this out.,Advise,Text+Video
+excuse me. little idea?,Doubt,Text+Video+Audio
+don't you ever speak to me again.,Prevent,Text+Video+Audio
+i'm gonna ask one more time.,Inform,Audio
+"we did the work together, let's present the paper together.",Advise,Text+Video+Audio
+let's go.,Leave,Text
+do you think penny will come here and take care of us?,Asking for opinions,Text+Video
+"can you go to the kitchen and get me the turkey baster labeled,  mucus?",Ask for help,Text
+under the sink. yellow tupperware bowl.,Inform,Audio
+why wouldn't the sonora desert make a perfectly good promised land?,Doubt,Text
+so we have a sociText+Video+Audioy awkward genius in a room of attractive age-appropriate women.,Explain,Text+Video+Audio
+anyone else see the flaw in this plan?,Doubt,Text+Video+Audio
+like what? we can't get 15-year-old girls drunk.,Oppose,Text
+how about that one?,Asking for opinions,Text
+"okay. uh.... oh, hey, how about her?",Asking for opinions,Text
+how about her?,Asking for opinions,Text
+one of us should go talk to her.,Advise,Text
+i can't just go up and talk to her.,Refuse,Text+Video+Audio
+"howard, you talk to her.",Arrange,Text
+"why don't we do it your way, then?",Advise,Text
+"could i have everyone's attention, please?",Inform,Audio
+what a wonderful occasion this is.,Praise,Text
+mr. kim was not only the valedictorian at stanford university he is also the youngest recipient of the prestigious stevenson award.,Introduce,Text
+"and now, without any further ado let me introduce the man of the hour, mr. dennis kim.",Introduce,Text
+would you like to tell us about your upcoming research?,Asking for opinions,Text
+"oh, no, thanks. i'm going to the mText+Video+Audio with emma.",Refuse,Text
+did anyone see how he did it?,Doubt,Text+Video
+"don't worry, i've got this.",Comfort,Text
+thank you.,Thank,Text
+forget the mission. how did that little yutz get a girl on his own?,Doubt,Text
+"so smart, it's off-putting.",Taunt,Text+Video
+"yeah, let's go with that.",Agree,Text
+why'd you set it for the day before yesterday?,Doubt,Text
+because i wanna go back and keep myself from getting a time machine.,Explain,Text
+can i go back and prevent you from explaining that to me?,Doubt,Text+Video+Audio
+are you upset about something?,Care,Text
+what was your first clue?,Asking for opinions,Text+Video
+"well, it was a number of things. first, the late hour.",Explain,Text
+good for me.,Leave,Text+Video+Audio
+i disagree.,Oppose,Text
+are you expecting an example involving a real-life time machine?,Doubt,Text+Video+Audio
+that's absurd.,Leave,Text+Video+Audio
+"sorry, raj, my mind is made up.",Apologise,Text
+no. i can't let you do this.,Prevent,Text
+"sheldon, get out of my way.",Warn,Text
+if you do not get out of my way i will open it.,Warn,Text
+"okay, man, be cool.",Comfort,Text
+what the hell's going on?,Care,Text
+"okay, okay, look, if this is about yesterday, leonard i am reText+Video+Audioy sorry about what i said. i was just upset.",Apologise,Text
+thanks.,Thank,Text
+excuse me.,Greet,Text
+"bye, guys.",Leave,Text
+"come on, shelly.",Invite,Text+Video
+i want you to know i'm very proud of you.,Praise,Text
+you tell people i'm a rocket scientist?,Confirm,Text+Video+Audio
+"a rocket scientist, how humiliating.",Complain,Text+Video
+"well, if i had a gun there, would you have shot yourself?",Joke,Text+Video+Audio
+"no, after my tongue has swollen to the size of a brisket.",Oppose,Text
+"oh, god, oh, god, oh, god-the laundry is out of the hamper.",Inform,Audio
+"okay, we don't have that in stock but i can special-order it for you.",Inform,Text
+"we're late for leonard's birthday party and for another, i told him to cText+Video+Audio security.",Inform,Text
+my friend is having Text+Video+Audioergic reaction to peanuts.,Ask for help,Text+Video+Audio
+please help me.,Ask for help,Text
+he's coming. screen saver.,Arrange,Text+Video+Audio
+"oh, hey, leonard.",Greet,Text
+"sheldon, how could you just sit there and let them spy on me?",Criticize,Text
+what are you talking about? the date went fine.,Doubt,Text
+where could i have gone wrong?,Doubt,Text+Video
+i didn't even have to refer to my impromptu conversation starters.,Flaunt,Text+Video+Audio
+that woman across the hText+Video+Audio is into me.,Flaunt,Text+Video+Audio
+let's go to the tape.,Advise,Text+Video
+"nice close-up, by the way.",Praise,Text
+that's not a bad sign.,Oppose,Text+Video+Audio
+please. you might as well have been two iguana with no dewlap enlargement.,Taunt,Text
+"i'm not there, because i'm taking things slow.",Explain,Text
+"which, by the way, compared to you guys, approaches warp speed.",Complain,Audio+Video
+and take down that camera.,Arrange,Text
+"yeah, fyi, the hot water is inadequate on machine 2, so colors only.",Advise,Text+Video+Audio
+why don't you just take your clothes down to the river and beat them with a rock?,Taunt,Text+Video+Audio
+"sheldon, may i ask you a question?",Asking for opinions,Text+Video+Audio
+because i've come to learn that such inquiries are inappropriate.,Explain,Text
+"oh! well, a few years ago he did go out with a woman who had a ph.d. in french literature.",Inform,Audio
+so.... do you think that if leonard and i keep dating he'll eventuText+Video+Audioy get bored with me?,Asking for opinions,Text+Video
+no.,Oppose,Text
+no.,Oppose,Text
+why would you lie about that?,Asking for opinions,Text+Video+Audio
+he was going on about this college and that grad school and i didn't want him to think i was some kind of stupid loser.,Explain,Text
+you thought the opposite of  stupid loser  was  community-college graduate?,Doubt,Text
+"well, i'm sorry.",Apologise,Text
+what?,Doubt,Text
+"secret-keeping is a complicated endeavor. one has to be concerned not only about what one says, but about facial expressions, autonomic reflexes.",Explain,Text
+when i try to deceive i myself have more nervous tics than a lyme disease research facility.,Explain,Text+Video
+"okay, look, if leonard finds out that i lied, i will absolutely die of embarrassment.",Inform,Text
+"look, i'm asking you as a friend.",Ask for help,Text+Video+Audio
+"if you're not doing anything friday night, i thought we could go see a movie.",Invite,Text+Audio
+"you know, i think i have the dinner shift on friday.",Refuse,Text+Video+Audio
+the manager hasn't posted the schedule. how about i let you know?,Explain,Text+Video+Audio
+i have no information about your interactions with penny nor do i have any method of learning such things.,Leave,Text+Video+Audio
+"i just think you need to be careful how you phrase things, sir.",Advise,Text
+"why do you drag me into matters which have nothing to do with me but exist between you and penny, a person to whom i barely speak?",Complain,Audio+Video
+what's wrong with your face?,Care,Text
+there's no reason to bring my looks into this.,Criticize,Text+Video+Audio
+"i said, good day.",Leave,Text
+good day?,Doubt,Text+Video+Audio
+oh.,Acknowledge,Text
+"good night, sheldon.",Leave,Text
+"penny, hold on.",Prevent,Text
+you sure things can't work out with you and leonard?,Confirm,Text+Video+Audio
+"oh, sweetie, i'm sorry.",Apologise,Text
+"oh, gee, well, thank you for that.",Thank,Text
+no. that response is unacceptable to me.,Oppose,Text
+wait a minute. why am i doing Text+Video+Audio the giving here?,Doubt,Text+Video
+because love trumps hate.,Explain,Text
+"oh, now you're just making stuff up.",Oppose,Text+Video+Audio
+"okay. good night, sheldon.",Leave,Text
+"penny, are you experiencing some sort of difficulty?",Care,Text
+yeah.,Acknowledge,Text
+"Text+Video+Audio right, then.",Leave,Text+Video+Audio
+would it be possible for you to do this a little more quietly?,Advise,Text+Video+Audio
+that baldwin lock on your door uses traditional edge-mounted cylinders whereas the key for your volkswagen uses a center-cylinder system.,Explain,Text
+"thank you, sheldon.",Taunt,Text+Video+Audio
+point of inquiry: why did you put your car key in the door lock?,Doubt,Text
+i'll tell you why. today i had an audition.,Explain,Text+Video+Audio
+"before i could start, they told me i look too midwest for the part.",Complain,Text+Video
+too midwest. what the hell does that even mean?,Complain,Text
+i haven't gotten a single acting job. i've accomplished nothing.,Complain,Text
+and when i was walking up those stairs a fly flew in my mouth and i ate it.,Complain,Text
+"oh, son of a bitch.",Complain,Audio+Video
+"but returning to your key conundrum, you should cText+Video+Audio a locksmith.",Advise,Text
+would you prefer to wait in our apartment?,Invite,Text+Video+Audio
+"no, i'd rather sit on this freezing floor, sobbing like a 3-year-old.",Refuse,Text+Video+Audio
+just when i think i've gotten the hang of sarcasm.,Taunt,Text+Video
+"oh, leonard, there you are.",Greet,Text
+i just got here.,Inform,Audio
+good. perfect timing.,Praise,Text
+"howard, help me out here.",Ask for help,Text
+"now, how do you propose i get home?",Asking for opinions,Text
+you're just gonna have to find someone else to take you home.,Inform,Audio
+sorry.,Apologise,Text
+"well, as it turns out, it's also a klingon word.",Agree,Text+Video+Audio
+judge's ruling?,Doubt,Text
+did you pay your cable bill?,Doubt,Text+Video+Audio
+"what do you mean,  ohh?  like she didn't know we were nerds?",Taunt,Text+Video+Audio
+they're gorgeous.,Praise,Text
+"oh, look, there's the future mrs. wolowitz.",Introduce,Text
+"no wait, that's the future mrs. wolowitz.",Introduce,Text+Video+Audio
+is qochbe spelled with a  qo  or a  ko?  why is that mrs. wolowitz crying?,Doubt,Text
+"oh, that's anaïs. none of the other girls in the house like her.",Introduce,Text
+house? what house?,Doubt,Text
+you're telling me that i'm within driving distance of a house filled with aspiring supermodels?,Confirm,Text+Video+Audio
+"yeah, i guess.",Agree,Text
+what are you gonna do?,Asking for opinions,Text+Video
+i'll just do my laundry another night.,Plan,Text
+another night?,Confirm,Text+Video+Audio
+"woman, you are playing with forces beyond your ken.",Warn,Text+Video+Audio
+how is deep space nine better than saturn 3?,Doubt,Text
+in what sense is that a compromise?,Doubt,Text
+"i'll tell you what. how about we go rock, paper, scissors?",Advise,Text
+"anecdotal evidence suggests that in a game of rock, paper, scissors players familiar with each other will tie 75 to 80 percent of the time due to the limited number of outcomes.",Explain,Text+Video
+"i suggest rock, paper, scissors, lizard, spock.",Advise,Text
+"noticed the eye patch, did you?",Confirm,Text
+i got a whole list of them. who wants to be my wingman?,Invite,Text+Video+Audio
+"oh, did you get pink eye again?",Doubt,Text+Video+Audio
+"yeah, just move your stupid scooter before i pick it up and throw it in the dumpster.",Arrange,Text
+"yeah, i'm sorry, but i'm not going to watch the clone wars tv series until i've seen the clone wars movie.",Apologise,Text
+what'd i do?,Doubt,Text
+"hello? hey, howard.",Greet,Text
+how can five not be worse than one?,Doubt,Text+Video
+"first of Text+Video+Audio, that's a comparison of quality, not intensity.",Inform,Audio
+"secondly, star trek i is orders of magnitude worse than star trek v.",Inform,Audio
+are you joking?,Doubt,Text
+star trek v is the standard against which Text+Video+Audio badness is measured.,Emphasize,Text+Video+Audio
+you could try cText+Video+Audioing aaa.,Advise,Text
+"but based on nasa's latest timetable, they won't get there for 35 years.",Inform,Text
+"plus, i understand you have to be next to the vehicle with your card when they arrive.",Inform,Text
+"erase the hard drives, grab the tapes, wipe our fingerprints off every surface and run.",Arrange,Text
+why wasn't that plan a?,Doubt,Text
+"well, of course, ben. i meant my first granddaughter.",Explain,Text+Video
+"have, um, you thought any more about you and rachel?",Asking for opinions,Text
+what? when have i ever touched myself in front of you guys?,Doubt,Text+Video
+"you know, you reText+Video+Audioy should see someone about that.",Advise,Text
+i wanna go talk to rachel for a minute. are you gonna be okay alone for a bit?,Confirm,Text+Video+Audio
+"phoebe, there is no secret, okay? i didn't propose.",Oppose,Text+Video
+i am a doctor.,Emphasize,Text+Video+Audio
+you know what? i'm just gonna go and talk to rachel myself.,Plan,Text
+"oh, my god. she thinks we're engaged.",Complain,Text
+perhaps because you gave her an engagement ring?,Explain,Text+Video+Audio
+"you know, ross, doctors are supposed to be smart.",Taunt,Text+Video
+huh. i might be losing interest in this.,Leave,Text+Video+Audio
+"look. look, my mom gave me that ring because she wanted me to propose to rachel.",Explain,Text
+"but Text+Video+Audio i wanted to do was see if she maybe, kind of wanted to start things up again.",Explain,Text
+"oh, what beautiful lukewarm sentiment.",Taunt,Text+Video
+i didn't want to rush into anything. it seemed like she didn't want to either.,Explain,Text+Video
+"what, did she find the ring in my jacket, assume i was gonna propose throw it on and just start telling people?",Doubt,Text
+"no, no. she said you actuText+Video+Audioy proposed to her.",Oppose,Text
+"well, i didn't. i didn't propose.",Oppose,Text
+unless... did i?,Doubt,Text
+"the numbers we're seeing in chicago, new york and london are solid.",Inform,Text
+it says to try holding the baby close to your body and then swing her rapidly from side to side.,Introduce,Text+Video+Audio
+okay.,Acknowledge,Text
+"it's been hours, and it won't stop crying.",Complain,Text
+"ma'am, uh, do you have a minute?",Confirm,Text+Video+Audio
+i kind of have some bad news. i don't think i can move to tulsa.,Inform,Text
+"um, i kind of fell asleep in the meeting this morning.",Explain,Text
+"so when i said i'd move to tulsa, i didn't reText+Video+Audioy know what i was saying.",Explain,Text
+you fell asleep?,Confirm,Text
+but only because i was up Text+Video+Audio night worried about this meeting.,Explain,Text
+"see, here's the thing.",Explain,Text+Video+Audio
+"i went home and told my wife about tulsa, and she won't go.",Explain,Text+Video
+"look, carol. can i cText+Video+Audio you carol?",Confirm,Text+Video+Audio
+why would i when your name is elaine?,Doubt,Text
+sorry. oh!,Apologise,Text
+what a great picture of your son. strapping.,Praise,Text
+"that's a picture of your daughter, isn't it?",Confirm,Text
+"well, she's lovely. i like a girl with a strong jaw.",Praise,Text
+i'll cText+Video+Audio you from tulsa.,Leave,Text+Video+Audio
+"well, it looks like you guys got it under control, so i'm just gonna go.",Leave,Text
+Text+Video+Audio right.,Acknowledge,Text
+nothing works with this child!,Complain,Text
+"oh, god, what am i gonna do, you guys? i can't even comfort my own baby.",Complain,Text+Video
+you'll get better. think about your first day at work.,Comfort,Text
+"that couldn't have been easy, but you figured that out.",Comfort,Text
+"yeah, i don't think dressing provocatively is going to help me here!",Complain,Audio+Video
+you must be a firebText+Video+Audio in bed!,Praise,Text+Video+Audio
+i'm kidding.,Joke,Text
+"oh, my god! you got her to stop crying!",Praise,Text
+"that's your new job, day or night. she starts crying, i need you here.",Ask for help,Text+Video+Audio
+"so okay. hey, super aunt? see you later. ha, ha.",Leave,Text
+"okay, so listen, i'm gonna go lay down.",Leave,Text
+what?,Doubt,Text
+"the book says whenever she's sleeping, i should be sleeping.",Explain,Text
+so...   thank you.,Thank,Text
+no.,Oppose,Text
+we're moving to tulsa.,Inform,Audio
+"oh. no, ross, this is not good.",Complain,Text
+"okay? i never reText+Video+Audioy wanted to marry joey, okay?",Explain,Text
+okay.,Acknowledge,Text
+"you know what i reText+Video+Audioy, reText+Video+Audioy want?",Asking for opinions,Text+Video
+"oh, that's, uh, because we had a bit of a fText+Video+Audioing out.",Explain,Text
+mike hit my mom with a car.,Explain,Text+Video+Audio
+"well, wait. is your mom okay?",Care,Text
+what?,Doubt,Text
+do you not know each other?,Doubt,Text
+because i forgot about our date. i'm so sorry.,Apologise,Text
+"i'm sorry too. and just to be clear, i didn't hit his mother with a car.",Apologise,Text
+you are unbelievable. i spent so much time finding the perfect girl for you.,Complain,Text+Video+Audio
+mary ellen is reText+Video+Audioy smart and cute and loose.,Praise,Text
+"oh, who are you kidding?",Doubt,Text
+"god, this is humiliating!",Criticize,Text+Video+Audio
+"i'm so sorry. if you don't like this guy, i can find you a better one.",Apologise,Text+Video
+i'm out of here.,Leave,Text+Video+Audio
+"oh. hey, ross.",Greet,Text
+i'm so glad someone's here. could you zip me up?,Ask for help,Text
+can you believe no one between my apartment and here offered to do that for me?,Complain,Text
+"oh, yeah? now, how's that going? is it getting serious?",Asking for opinions,Text+Video+Audio
+"you know, i reText+Video+Audioy admire your whole dating attitude.",Praise,Text
+"um, there's nothing wrong with you.",Comfort,Text+Video
+"i mean, you don't strike me as the type of person that wants to get married anyway.",Explain,Text
+phoebe.,Greet,Text
+how do i look?,Asking for opinions,Text+Video
+you look great.,Praise,Text
+i can't tell whether she's hot or not. what do you think?,Asking for opinions,Text
+"joey, i am not going to objectify women with you.",Refuse,Text+Video+Audio
+"hey, why don't you fly out there and surprise him?",Advise,Text
+yeah. we'll have a little second honeymoon at the tulsa ramada.,Plan,Text
+"oh, and you know what you should bring?",Advise,Text+Video+Audio
+your black see-through teddy with the attached garters.,Advise,Text+Video+Audio
+excuse me?,Greet,Text+Video+Audio
+"uh, i said that i think you're hot.",Praise,Text+Video+Audio
+"i'll try that. hi, i'm joey.",Greet,Text
+i'm hayley.,Greet,Text+Video+Audio
+reText+Video+Audioy? great.,Praise,Text
+"if it gets much worse, you could die.",Warn,Text
+are you sure that's what he was doing?,Doubt,Text+Video
+do you know how many times i've seen him jump up like that?,Doubt,Text
+"ew, are you talking about my brother?",Confirm,Text+Video+Audio
+"what's the big deal? you forgot, she forgot.",Comfort,Text+Video+Audio
+i never have an off night. okay?,Emphasize,Text+Video+Audio
+"but even then, i'm better than most.",Flaunt,Text
+"honey, why don't you just let it go and ask her out again?",Advise,Text
+"yeah, you're both so slutty, you don't remember who you slept with.",Criticize,Text
+you're made for each other.,Taunt,Text+Video
+"Text+Video+Audio right, well, i'll go out with her again and i'll try to get past it.",Plan,Text
+no salt! bloaty!,Leave,Text+Video+Audio
+"you don't think sharks are sexy, do you?",Confirm,Text
+no.,Oppose,Text
+"wait a minute. wait, what was the little mermaid?",Doubt,Text
+"hi, honey, i'm home.",Greet,Text
+hi.,Greet,Text
+why don't you sit down.,Invite,Text+Video+Audio
+because i have a little surprise for you.,Inform,Text
+why am i watching a bunch of sharks swimming around?,Doubt,Text+Video
+do you want me to get into the tub and thrash?,Asking for opinions,Text
+"no, they don't.",Oppose,Text
+"oh, my god. when you came in, i switched the channel.",Explain,Text
+i was just watching regular porn.,Explain,Text
+you are an amazing wife.,Praise,Text
+"reText+Video+Audioy, you are amazing. you were actuText+Video+Audioy gonna do this for me?",Confirm,Text
+wow. hi.,Greet,Text
+"i'm here to explain to the people who gave us our grant why it's a positive thing that we've spent Text+Video+Audio their money and, uh, accomplished, uh, nothing.",Explain,Text
+damn it.,Complain,Text
+"Text+Video+Audio right, i'll cText+Video+Audio the cab company.",Plan,Text
+thank you.,Thank,Text
+are you kidding?,Doubt,Text
+"you know, when you don't see someone for a long time and you kind of build them up in your head, you start thinking:",Explain,Text
+no.,Oppose,Text
+"i mean, i don't know. i was looking in his eyes and i was just thinking,  oh, my god, it's david. david's here.  he's just so irresistible.",Explain,Text
+hey.,Greet,Text
+i need you to set me up for a joke.,Ask for help,Text
+"ooh, i don't know, chandler. i'm not so good with remembering lines.",Refuse,Text+Video+Audio
+why are we doing this?,Asking for opinions,Text+Video+Audio
+so how many guys have your key?,Doubt,Text+Video+Audio
+"no, no, no. it's not as bad as it looks.",Explain,Text+Video+Audio
+i was saying goodbye to an old friend.,Explain,Text
+"oh, uh, we just, uh, happen to wear the same shade.",Explain,Text
+"no, um, david and i did used to go out.",Explain,Text
+stop it. stop it. before someone gets reText+Video+Audioy hurt.,Prevent,Text
+Text+Video+Audio right.,Agree,Text+Video+Audio
+"but if i ever do come back from minsk, well, you just better watch out.",Warn,Text
+i'm sorry. i'm so sorry.,Apologise,Text
+wow. you blow my mind.,Praise,Text
+it's like the cheapest college ever.,Praise,Text+Video+Audio
+"oh, hi, come on in. i'm catherine, the listing agent.",Greet,Text+Video+Audio
+"hi, i'm joey. this is chandler.",Greet,Text
+so how come richard's selling the place? went bankrupt?,Asking for opinions,Text+Video
+"uh, is there anything we should know about the place?",Asking for opinions,Text
+"no, we're not together. we're definitely not a couple.",Oppose,Text
+"what, i'm not good enough for you?",Doubt,Text
+get there faster!,Arrange,Text
+no.,Oppose,Text
+"oh, god. is that veal?",Doubt,Text
+"no, that's okay. that's okay. i mean, i am a vegetarian except for veal. yeah. no. veal i love. heh.",Comfort,Text+Video+Audio
+"it's easy to remember, and it doesn't invite a lot of questions.",Introduce,Text+Video+Audio
+"you weren't at the parade, because you had a family emergency.",Explain,Text
+"i wasn't at the parade, because i had a family emergency.",Explain,Text
+what happened?,Care,Text
+we thought it might be nice to use the fancy china for dessert too.,Advise,Text+Video+Audio
+"hey, dude, you okay? sorry about before.",Apologise,Text+Video+Audio
+right. remember in high school when i died and didn't give you my baby?,Confirm,Text
+"okay, i went to the zoo yesterday, now i'm a koala bear.",Joke,Text+Video+Audio
+you didn't come and visit me when i was in the hospital having the baby!,Complain,Text+Video+Audio
+you didn't come see me in the hospital when i was getting my lips done!,Complain,Audio+Video
+because you don't want me to be happy.,Explain,Text
+of your lack of responsibility? your immaturity?,Criticize,Text+Video+Audio
+your total disregard for other people's feelings?,Criticize,Text
+you've always been like this.,Complain,Audio+Video
+"you had to have everything, and i couldn't have anything.",Complain,Audio+Video
+"like in junior high, when you stole timmy from me.",Complain,Text+Video
+"i mean, do you even realize how much that hurt me?",Confirm,Text+Video+Audio
+"timmy was my boyfriend, and you made out with him!",Complain,Audio+Video
+i cannot believe that i invited you here today!,Complain,Text
+"yeah, well, you know what i cannot believe? that my so-cText+Video+Audioed sister gets a 30% discount from ralph lauren, and i still have to pay retail?",Complain,Text
+you bitch.,Criticize,Text
+"too far, amy. too far.",Warn,Text+Video+Audio
+put the plates in the boxes! put the plates in the boxes!,Inform,Audio+Video
+forget the bubble wrap! there isn't time!,Inform,Text+Video+Audio
+let's throw some jell-o on them!,Joke,Text+Video+Audio
+"Text+Video+Audio right, that is it! this is our apartment, and you cannot behave this way!",Prevent,Text
+"if you can't act your age, you shouldn't be here at Text+Video+Audio.",Criticize,Text
+"now, i want you to apologize to each other and mean it.",Inform,Text
+"dude, well done.",Praise,Text
+"yeah? well, thanks.",Thank,Text
+so... so now do i get joey?,Confirm,Text+Video
+thank you. it was so beautiful!,Thank,Text
+i'm gonna go to joey's and get the pies.,Leave,Text+Video+Audio
+"actuText+Video+Audioy, not pies. it's just pie.",Emphasize,Text+Video+Audio
+and i'm sorry.,Apologise,Text
+"well, what do you know? i guess i'll be the one who dies first.",Taunt,Text+Video+Audio
+hey. so i'm gonna put the plates back.,Plan,Text+Video+Audio
+i think you're right. we shouldn't use these plates for a long time.,Agree,Text
+hey. i did it.,Greet,Text+Video+Audio
+i told my producer i had a family emergency. he totText+Video+Audioy bought it.,Inform,Text
+what?! something happened with the plates?,Doubt,Text
+"oh, reText+Video+Audioy? well, thank you.",Thank,Text
+"okay, stop. stop looking at me like that.",Prevent,Text
+so are you excited about your first night away from emma?,Asking for opinions,Text
+"actuText+Video+Audioy, i invited mike over.",Inform,Text
+"oh, that's so cute. ross and mike's first date.",Taunt,Text+Video+Audio
+"i don't know. but you know, we have a lot in common, you know?",Explain,Text+Video+Audio
+yeah.,Acknowledge,Text
+okay. heh.,Acknowledge,Text
+"yeah, yeah.",Acknowledge,Text
+"yeah, i'm sorry. i don't reText+Video+Audioy like to talk about it.",Apologise,Text
+"fascinating, isn't it?",Confirm,Text
+hello? ross' place. mike speaking.,Greet,Text
+it's for you.,Inform,Audio
+i don't understand what just happened here.,Doubt,Text+Video+Audio
+"so, what did you guys do?",Care,Text+Video+Audio
+"see you, guys.",Leave,Text
+"rachel, lock the door. lock the door, seriously.",Arrange,Text
+"wait, wait. wait, sorry. did he cText+Video+Audio? did that guy cText+Video+Audio?",Confirm,Text
+hello?,Greet,Text
+"uh, no, she's not here right now. can i take a message?",Confirm,Text+Video
+bill from the bar?,Confirm,Text
+"so, uh... so how was it?",Care,Text
+did you guys...? you guys have a good time?,Care,Text+Video
+we had so much fun. it felt so good to be out.,Praise,Text
+"uh, rach?",Greet,Text+Video+Audio
+yeah?,Acknowledge,Text+Video+Audio
+here's something blue and new.,Introduce,Text
+you are so efficient. i love you.,Praise,Text
+we need something old.,Inform,Text
+i don't think so.,Oppose,Text
+we'll bring it back. just put it under your dress.,Plan,Text+Video+Audio
+"hey, look, you guys. it's snowing.",Inform,Text
+wendy's a fat-girl name.,Introduce,Text+Video+Audio
+"yeah. it was a stupid job, and i could not stand leaving you.",Complain,Text
+and why should i be the only one who doesn't get to do what he reText+Video+Audioy wants to do?,Complain,Text+Audio
+"no, i think that this is what you wanna do. i think it's great.",Praise,Text+Audio
+thanks.,Thank,Text
+"chandler, your being here is the best christmas present i could ever imagine.",Praise,Text
+aw.,Acknowledge,Text
+how did you know?,Doubt,Text
+"well, while you were on your baby vacation, i was doing your job.",Explain,Text
+"uh, rach, uh, we have a code brown situation.",Inform,Text
+"honey, could you please take care of it for me?",Ask for help,Text
+"so i go have a baby, and they send some guy in to do my job?",Doubt,Text
+"well, there was talk of shutting down ralph lauren altogether.",Inform,Audio
+i'm not a temp. i was transferred here from another department.,Oppose,Text+Video+Audio
+"oh, and what department was that? the, uh, jerk department?",Taunt,Text+Video+Audio
+"well, did they mention that i'm rubber and you're glue?",Taunt,Text+Video+Audio
+"ah, rachel. i see you've met gavin.",Greet,Text
+"so now, uh, super gavin, when i come back uh, where do you plan on flying off to?",Asking for opinions,Text
+"oh, wow. super ass-kissing power.",Taunt,Text+Video+Audio
+"incidentText+Video+Audioy, when, uh, are you coming back?",Asking for opinions,Text
+sure.,Agree,Text
+i wasn't staring.,Oppose,Text
+they've elected me to talk to you about the baby talk.,Inform,Text
+i think it's sweet.,Praise,Text
+why not?,Doubt,Text
+because it took months to find a good nanny.,Explain,Text
+"and i wouldn't want anything to, you know, drive her away.",Explain,Text
+"now that you told me i can't have her, makes me want her even more!",Explain,Text+Video+Audio
+"look, joey, come on now. for me, please.",Ask for help,Text
+fine.,Acknowledge,Text
+take me home.,Arrange,Text
+"where you going, joe?",Care,Text
+"actuText+Video+Audioy, uh, i'd rather be alone. you know, i reText+Video+Audioy need to organize my thoughts.",Refuse,Text+Video+Audio
+your thoughts?,Doubt,Text+Video+Audio
+"Text+Video+Audio right, fine. i only have one thought.",Acknowledge,Text
+it's about the hot nanny. i gotta see her.,Inform,Audio
+"oh, she's my girlfriend. that's not just how we do it here.",Introduce,Text+Video+Audio
+but you would have so much fun. and you have a reText+Video+Audioy nice voice.,Praise,Text
+"yeah, i do rock that one.",Acknowledge,Text+Video+Audio
+isn't there just a little part of you that wants to get up there?,Confirm,Text+Video+Audio
+"no, no, no, i admire a man who can cry.",Oppose,Text
+"oh. sorry, that's my phone.",Apologise,Text
+"oh, my god, this is the worst date ever.",Complain,Text
+"oh, thank god! emma, there you are!",Thank,Text+Video+Audio
+"uh, we were playing peekaboo. she loves it when i'm dramatic. heh.",Explain,Text
+could we have our free crab cakes now?,Confirm,Text
+and we want our free crab cakes.,Inform,Text
+i have such fat hands!,Complain,Text
+you knew this Text+Video+Audio along and you never told me?,Complain,Text+Video+Audio
+absolutely amazing.,Praise,Text
+"wait, wait, wait! congratulations. you did it.",Prevent,Text+Video+Audio
+"joey, why did you tell chandler that monica was getting a boob job?",Criticize,Text+Video+Audio
+very cool.,Praise,Text
+"because the more i thought about it, the more i realized i don't think marriage is necessarily the right path for you.",Explain,Text
+what do you mean?,Doubt,Text
+"you know, sometimes your words, they hurt.",Complain,Text+Video
+"hey, where do you guys want this?",Asking for opinions,Text
+"i mean, not for me, because i'm only pretending to hold it, but for these guys.",Explain,Text
+"no, but you don't want to get married either, right?",Confirm,Text
+right.,Agree,Text
+what? you want to get married?,Confirm,Text+Video+Audio
+"if you wanted to get married, why didn't you say something before?",Doubt,Text
+because i didn't know how much i wanted it.,Explain,Text
+"and i love you, and i wanted to live with you.",Inform,Text
+can we at least try living together? you might change your mind about marriage.,Advise,Text
+are you gonna change yours?,Confirm,Text+Video
+no.,Oppose,Text
+yeah. okay.,Acknowledge,Text
+"okay, so, uh... good bye.",Leave,Text
+"i'm so sorry, pheebs.",Apologise,Text
+we're Text+Video+Audio sorry.,Apologise,Text
+look on the bright side.,Comfort,Text
+"i mean, at least you won't have to live with this ugly chair.",Joke,Text+Video+Audio
+"that was here already, huh?",Confirm,Text
+i love you.,Comfort,Text+Video+Audio
+she was just crawling around and she found him so i just let her sleep with him.,Explain,Text
+"joey, you're sure? i mean, i know how much you love him.",Doubt,Text+Video+Audio
+"yeah. well, why wouldn't she? he's a wonderful person.",Agree,Text+Video+Audio
+hey. ross.,Greet,Text
+"look, i just wanted to apologize.",Apologise,Text
+"actuText+Video+Audioy, i don't need to, because your little  ross is dead  joke didn't work.",Explain,Text+Video+Audio
+"nobody cText+Video+Audioed, nobody wrote anything, nobody cares that i'm dead.",Complain,Text+Video
+i can't believe this. not even my geology lab partner. and i carried that guy.,Complain,Text
+"Text+Video+Audio right. look, let's think about this, okay?",Comfort,Text+Video+Audio
+that people are gonna post condolences on a website?,Doubt,Text
+this isn't about people not caring that you're dead.,Comfort,Text+Video+Audio
+exactly!,Agree,Text
+"ross, what are you doing?",Doubt,Text+Video+Audio
+you're having a memorial service for yourself?,Doubt,Text+Video
+"sorry, so is that picture of you and the policeman.",Apologise,Text
+"monet painted quickly, and usuText+Video+Audioy outdoors as his elusive subject was light itself.",Explain,Text+Video+Audio
+"now, do you have any idea what you just said?",Confirm,Text+Video+Audio
+"i gotta say, i'm reText+Video+Audioy impressed you were able to memorize Text+Video+Audio this so quickly.",Praise,Text
+i'm an actor. i can memorize anything.,Flaunt,Text
+"oh, god, do you think she heard? it'd be so bad if she heard.",Asking for opinions,Text+Video+Audio
+what?,Doubt,Text
+"oh, my god!",Complain,Audio+Video
+i'm meeting with professor sherman about my being the keynote speaker.,Plan,Text+Video
+"he, um... he fell asleep.",Complain,Audio+Video
+you have to get that job.,Emphasize,Text+Video+Audio
+what am i supposed to do? he's out cold.,Ask for help,Text
+thanks.,Thank,Text
+okay.,Acknowledge,Text
+"so, um, tell me, how'd you guys meet?",Care,Text+Video+Audio
+do you or any of your blood relatives have diabetes?,Care,Text+Video+Audio
+no.,Oppose,Text
+"uh, heart disease? alzheimer's? gout?",Care,Text+Video+Audio
+we're just making conversation.,Explain,Text
+this ravioli's delicious.,Praise,Text
+i notice you're enjoying that ravioli with a beautiful set of teeth.,Praise,Text
+did you have braces as a child?,Care,Text+Video+Audio
+i'm gonna take off now.,Leave,Text
+"you're gonna let me go home, aren't you?",Confirm,Text
+sure you don't want to stay a little longer?,Invite,Text+Video+Audio
+"no, i should get home. i'm kind of tired.",Leave,Text+Video+Audio
+are you always tired?,Care,Text+Video+Audio
+he does seem pretty perfect.,Praise,Text
+no.,Oppose,Text
+why not? just because his great-grandmother was obese?,Doubt,Text
+"no, that's not it.",Oppose,Text
+"no, he's not.",Oppose,Text
+"thank god, because i don't wanna do this either.",Thank,Text
+how do you feel about that?,Asking for opinions,Text
+so this is it? we're reText+Video+Audioy gonna adopt?,Confirm,Text
+yeah.,Agree,Text+Video+Audio
+"um, we just want to give you a heads up.",Inform,Audio
+owen didn't know he's adopted and monica told him.,Inform,Text
+how would you like it if someone told the triplets that you gave birth to them?,Asking for opinions,Text
+i'm gonna go tell emma she was an accident.,Leave,Text+Audio
+"hey, sweetie.",Greet,Text
+"hey, stop staring at my wife's legs.",Prevent,Text
+she went to one of those spray-on tan places.,Inform,Text
+you got a spray-on tan?,Doubt,Text
+"what? you do? like, with the toe separators?",Doubt,Text
+why? why?,Doubt,Text+Video
+"i mean, it looks reText+Video+Audioy good. i wonder if i should get one.",Explain,Text
+hey.,Greet,Text
+and she always brags about Text+Video+Audio the famous people she's met.,Taunt,Text+Video+Audio
+thanks for dinner.,Thank,Text
+"i'm sorry. again, i don't know what happened. i must be nervous.",Apologise,Text
+okay.,Acknowledge,Text
+"what? oh, my god. i'm so sorry.",Apologise,Text
+joey? are you okay?,Care,Text
+we are not friends with phoebe anymore.,Inform,Text
+"well, aren't you a treat.",Praise,Text
+"honey, i got us that room at the woodford inn this weekend.",Inform,Text
+that place in vermont? you can take a hint.,Doubt,Text+Video+Audio
+can't you have the party when we get back?,Doubt,Text
+"well, can't you just go to vermont the next day?",Doubt,Text
+"and, i mean, you know, you guys, this is a big deal.",Explain,Text
+so i'm gonna take off.,Leave,Text
+and we paid for a room that we're supposed to be in right now!,Complain,Audio+Video
+"no, no, no. no. no.",Oppose,Text
+"we can make them race, and whoever comes in last stays.",Advise,Text
+"yeah, let's do that!",Agree,Text
+that sounds more fun than the thing we were gonna do in vermont!,Praise,Text
+"phoebe, you get the bear. joey, you get the robot.",Arrange,Text
+and the race is going to go from here to here.,Inform,Text
+"now, the one who comes in last stays!",Inform,Text
+"okay, ladies and gentlemen, wind your toys.",Inform,Audio
+what are you barking at?,Criticize,Text+Video+Audio
+"well, how is that gonna help?",Criticize,Text+Video+Audio
+i bought you! how did i forget that that's Text+Video+Audio you do?,Criticize,Text
+"good job, alan.",Praise,Text
+"no. no, no. wait.",Prevent,Text
+the rules clearly stated that the last one to cross the finish line was the loser.,Explain,Text+Video+Audio
+"hey, joe. how's the second draft of the letter coming?",Care,Text
+"great. i'm finished. in fact, i just dropped it off at the agency.",Inform,Audio
+"no can do, amigo.",Refuse,Text
+"no, i didn't use the computer. it felt more personal to handwrite it.",Explain,Text+Audio
+see you later.,Leave,Text
+"oh, my god. oh, my god. that letter is gonna go in our file.",Complain,Text+Video+Audio
+we're never gonna get a kid.,Complain,Text
+we're gonna be one of those old couples that collects orchids or has a lot of birds.,Complain,Text+Video+Audio
+it's okay. it's okay. you know what?,Comfort,Text
+i will just cText+Video+Audio the agency and tell them to throw out the letter.,Plan,Text
+"hello, this is chandler bing.",Greet,Text
+thank you. goodbye.,Thank,Text
+"we're screwed, aren't we?",Confirm,Text+Video+Audio
+they thought joey was a child?,Confirm,Text+Video+Audio
+you pierced her ears?,Doubt,Text
+doesn't it make her nose look smText+Video+Audioer?,Asking for opinions,Text+Video
+"if i had told you, then it wouldn't have been a surprise, now would it?",Explain,Text+Video+Audio
+i think she looks cute.,Praise,Text
+"hi, emma. oh. why is she wearing her hat so low?",Doubt,Text+Video
+because there are so many terrible sights in this world.,Explain,Text
+like war. or that thing in joey's refrigerator. remember?,Confirm,Text
+hi.,Greet,Text
+what...?,Doubt,Text
+did she do this to her?,Confirm,Text+Video+Audio
+i told you we shouldn't have left emma with her!,Criticize,Text+Video+Audio
+okay? you are so irresponsible! i am never letting you babysit again!,Criticize,Text
+okay.,Acknowledge,Text
+Text+Video+Audio i wanted to do was help you try to figure out what to do with your life.,Explain,Text
+i am going to be a baby stylist.,Plan,Text
+"i'm gonna help babies learn how to accessorize what colors to wear, what clothes are slimming.",Plan,Text
+"i'm sorry, man.",Apologise,Text
+"but, uh, my bosses didn't go for it. stupid sons of bitches.",Criticize,Text+Video+Audio
+"look, it's one thing not to cast me, but to lie to me?",Doubt,Text
+i got her from monica. she sold it to me for a very reasonable price.,Explain,Text+Video+Audio
+"hey, what? whoa. what?",Doubt,Text
+"well, legend has it, joey, that she comes alive when you're asleep.",Joke,Text+Video
+she climbs out of the frame and then drags her half-a-body across the floor just looking for legs to steal.,Joke,Text
+and then with her one good hand she slowly reaches up and turns your doorknob.,Joke,Text+Video+Audio
+get that legless witch out of here!,Leave,Text+Video+Audio
+stand up straight.,Arrange,Text
+big smile.,Arrange,Text+Video+Audio
+hello. is this the creepy residence?,Greet,Text
+"we're waiting for the adoption lady. but, hey, i'm glad you're here.",Inform,Audio
+"no, no, no. we're not having a big reception.",Oppose,Text
+we took the wedding money we were gonna spend and donated it to a children's charity.,Explain,Text+Video+Audio
+i'm sorry. i can't imagine giving up my one wedding day like that.,Apologise,Text
+"hi, i'm laura. i'm here for your adoption interview.",Greet,Text
+"hi, i'm monica. and this is chandler.",Introduce,Text
+we're so glad that you're here.,Greet,Text+Video+Audio
+"well, not actuText+Video+Audioy to death. that's just a figure of speech.",Explain,Text
+are any other couples in the building adopting?,Confirm,Text+Video+Audio
+is that that couple on the first floor?,Confirm,Text
+because we should get a baby before them.,Explain,Text
+oh.,Acknowledge,Text
+i went on a date with a guy who lived in this building. it didn't end very well.,Complain,Audio+Video
+"that wouldn't, by any chance, be joey tribbiani?",Confirm,Text+Video+Audio
+"we had a great night. in the morning, he promised he'd cText+Video+Audio and he didn't.",Complain,Text+Video+Audio
+rat bastard!,Criticize,Text
+"well, i'm sorry i brought it up.",Apologise,Text
+so are either one of you planning on staying at home?,Asking for opinions,Text
+what was that?,Doubt,Text
+i must say this seems like a lovely environment to raise a child in.,Praise,Text
+why don't i show you the baby's room.,Invite,Text+Video+Audio
+"from now on,  bert  will be our code word for danger.",Inform,Text
+you slept with our social worker and never cText+Video+Audioed her back.,Criticize,Text
+"okay, okay.",Leave,Text+Video+Audio
+and we don't wanna buy your bat!,Refuse,Text+Video+Audio
+what are you doing here?,Doubt,Text+Video+Audio
+Text+Video+Audio right. okay. uh... wow. yeah...,Acknowledge,Text
+you have got some nerve coming back here.,Warn,Text+Video+Audio
+i gave you my number. you never cText+Video+Audioed me.,Explain,Text
+"you're a beautiful woman. smart, funny.",Praise,Text
+"well, maybe i'm wrong. i'm sorry.",Apologise,Text
+i waited a long time! i can't wait anymore.,Leave,Text+Video+Audio
+i'm sorry that you had to see that. i'm so embarrassed.,Apologise,Text
+and i've got to say i think you're going to make excellent parents.,Praise,Text

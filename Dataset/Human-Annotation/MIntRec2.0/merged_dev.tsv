@@ -1,0 +1,222 @@
+Dialogue_id	Utterance_id	Text	Label	Start_timestamp	End_timestamp	Source	speakername	Video_Link	Modality
+1197	18	i actually came in here hoping to have a mature conversation about us.	Explain	00:28:39,385	00:28:43,597	friends	Rachel	https://drive.google.com/file/d/1lCwUu12cnNtopyIQB8nD4GA9ZcwWO9Fn/view	Text
+840	19	i-no, no. no, we're not a couple. we're singles.	Oppose	00:14:46,635	00:14:49,429	bigbang	Penny	https://drive.google.com/file/d/18_XpjwvBNCQCOxkqTFsHkldGcjX7DVEb/view	Text
+516	9	oh, my god, just bang already.	Complain	00:15:42,141	00:15:43,109	superstore	Nico	https://drive.google.com/file/d/1fKje2LQVVLGQQaiqoQLB39eiKgXaqwVI/view	Video+Text
+1259	16	okay, then why are you all dressed up?	Doubt	00:11:02,900	00:11:05,361	friends	Monica	https://drive.google.com/file/d/1glwlDp09Q9TbNKlADz1e-9OlgxUVlnYg/view	Text
+476	3	oh, sorry, did you just say,  we can all  improve?	Confirm	00:02:41,729	00:02:45,699	superstore	Amy	https://drive.google.com/file/d/1GWDLprL06StvxhRX9aOZ1NbAsQ0gTVf9/view	Text
+1259	5	i saw the article on your coffee table. i memorized the title to freak you out.	Explain	00:09:44,447	00:09:49,618	friends	Phoebe	https://drive.google.com/file/d/1YT73LvSRgm7hpC-g9YJLVi0aAksul4O5/view	Text
+2	16	got it. i'll just find out on reddit.	Plan	00:03:22,135	00:03:24,738	superstore	Jonah	https://drive.google.com/file/d/1IteTEGkDsbz8D002DI3pE-D9X-1Gh2nK/view	Text
+296	3	yeah, yeah, yeah, that's probably it.	Acknowledge	00:13:34,487	00:13:36,532	superstore	Jonah	https://drive.google.com/file/d/1TRn3XdGhontWlFpxzL0bsPbcL_JT-20s/view	Video+Text
+167	0	okay, as soon as we hit $80,000, drop the balloons, hit the music, get a candid picture of me celebrating with everybody to send to corporate.	Arrange	00:04:53,093	00:04:59,266	superstore	Jeff	https://drive.google.com/file/d/1YsEcBK56f4FL77zUZwZ7wTdcFxpP301c/view	Text
+612	8	oh, and lastly, let's give a big cloud 9 welcome to amy's better half, adam dubanowski.	Introduce	00:02:24,478	00:02:30,684	superstore	Glenn	https://drive.google.com/file/d/1EC2QxeqtlHqnAQtWVQxGFfF_wcSZT9xC/view	Text
+808	3	my apologies. what's your plan?	Asking for opinions	00:18:07,920	00:18:10,171	bigbang	Sheldon	https://drive.google.com/file/d/1NQNjmLbN4Q_wI0acazHpUeLWciP5ruZ2/view	Text
+1239	61	how are you gonna feel when you win and lose your friends?	Asking for opinions	00:11:14,383	00:11:17,219	friends	Rachel	https://drive.google.com/file/d/1RG0Ci-RED-BW824R5UQuWGS8mUhn3c4g/view	Text
+1239	58	i was with you the whole time. when did you even get those?	Doubt	00:10:59,034	00:11:03,163	friends	Joey	https://drive.google.com/file/d/1bvjDKDGAK0qsTl27DptjBkpgU1MgvxlE/view	Text
+970	49	i'll walk you to your car. you're in structure 3, level c, right?	Leave	00:04:33,690	00:04:37,150	bigbang	Howard	https://drive.google.com/file/d/1-Bn0X39pDfY7kcgA7rbqVG8QD8KF9MBh/view	Video+Text
+588	21	wait. you know about that?	Care	00:03:19,817	00:03:22,586	superstore	Nico	https://drive.google.com/file/d/1ruB4k2uRNi79uVN5UrOw4iRSAQF8i9mZ/view	Na
+1197	2	wait a minute. you haven't even told her you are a doctor yet?	Confirm	00:25:57,181	00:26:00,309	friends	Rachel	https://drive.google.com/file/d/1q3yeVzS-PekHlLndECeYErNhPPmRPJJr/view	Text
+911	13	you calling me a puffy animal?	Doubt	00:14:04,176	00:14:06,427	bigbang	big bang person4	https://drive.google.com/file/d/1r5H4IdlXgnzkWKwF8HlHJHaWLo7X52uF/view	Text
+87	14	uh, someone's flattering himself.	Taunt	00:06:21,181	00:06:23,483	superstore	Amy	https://drive.google.com/file/d/1NYLWweIv0mQyi32KQq5oUhyMObCC7gvx/view	Text
+244	15	uh-huh.	Acknowledge	00:16:26,553	00:16:28,555	superstore	Amy	https://drive.google.com/file/d/1mkTu32VVrFs_tWdqa4XXxe9fVJ7Mf-r4/view	Text
+728	2	so what do we do next? do we--do we call the cops?	Asking for opinions	00:02:32,780	00:02:34,982	superstore	Jonah	https://drive.google.com/file/d/1iLxFmegEIOudoCIpJhsiufq-apg58w1m/view	Text
+728	12	okay, yeah, you're way underqualified.	Taunt	00:02:50,898	00:02:53,901	superstore	Dina	https://drive.google.com/file/d/1eUP7MvzpRHK4KnQixKMQSRccrOROho7s/view	Audio+Video+Text
+386	2	yeah, i want to surprise jerusha with some baby stuff at the party that can work for a boy or girl.	Plan	00:15:40,874	00:15:47,533	superstore	Glenn	https://drive.google.com/file/d/1z75SYQLJWaTxLfR94q5Kd68GBRAHrkHq/view	Text
+1294	49	oh, my god, i'm still with charlie, aren't i?	Confirm	00:22:44,988	00:22:47,490	friends	Ross	https://drive.google.com/file/d/1crs4pQPjwjQRQBYkXnDwlyT2ReFCm7Lh/view	Text
+440	11	no, no, i'm-i'm sorry.	Apologise	00:10:17,985	00:10:19,353	superstore	Jonah	https://drive.google.com/file/d/1iKejn6ktqBeDP5V0vXLzA1uVOe0i6Roi/view	Text
+911	15	you're in trouble.	Warn	00:14:23,112	00:14:24,362	bigbang	Sheldon	https://drive.google.com/file/d/1hJm8ANDZGj64tIA8ynNvM0ruHyGHJQUd/view	Text
+916	22	penny, we make such a good team.	Praise	00:05:11,394	00:05:13,186	bigbang	Leonard	https://drive.google.com/file/d/12BoTm0vFcc_KEvBuVXpymRSgty7mJe8Z/view	Text
+1126	13	phoebe, these are our friends tom and sue engel.	Introduce	00:10:03,686	00:10:07,147	friends	friends person3	https://drive.google.com/file/d/1LbmFO_bb30eenLvkImyzQ8A-iXbjAuOT/view	Text
+923	0	now, raj, jump in the tank.	Arrange	00:20:14,546	00:20:16,047	bigbang	Leonard	https://drive.google.com/file/d/11QgPYR6kO1u-S2HhQN-UMpqxWBTyMlOI/view	Text
+816	4	what's he talking about?	Doubt	00:08:15,411	00:08:17,245	bigbang	Penny	https://drive.google.com/file/d/1IGPayIU9NcchASdb3unFV-WPi_fX1huI/view	Text
+1126	30	no, don't get me wrong. no, not in like a sissy way.	Explain	00:12:49,351	00:12:52,896	friends	Phoebe	https://drive.google.com/file/d/1ut_3ZPPb9MOYMEBafhxz30HYciW0Zeoa/view	Audio+Video+Text
+401	23	no, don't worry. it's--it's yours.	Comfort	00:12:21,240	00:12:23,285	superstore	Amy	https://drive.google.com/file/d/1uO9THO5N2u5tqChgrBSWt8wyyBWbVs2k/view	Text
+990	35	a cat is placed in a box with a sealed vial of poison that will break open at a random time.	Introduce	00:15:26,258	00:15:31,971	bigbang	Sheldon	https://drive.google.com/file/d/1ehLA82zdbSUKTWqNIs6URBdghjRg_aTR/view	Video+Text
+299	17	if you needed a raise, why didn't you come see me?	Advise	00:17:38,469	00:17:40,863	superstore	Glenn	https://drive.google.com/file/d/1IxgQ9FxHnKDgcXCRftTpNqEqgBFDQFAC/view	Audio+Video+Text
+916	8	okay, i got this. lock and load, boys.	Invite	00:04:08,998	00:04:12,167	bigbang	Penny	https://drive.google.com/file/d/1ygyOsrNT8G9pUruo1peDPO7DwAxOORpF/view	Na
+476	6	you need both, you know?	Advise	00:02:56,710	00:02:57,778	superstore	Jonah	https://drive.google.com/file/d/1ZfKP14My351S8b5oj5vFNnpCPA8jZEGY/view	Text
+1294	18	hey.	Greet	00:19:01,932	00:19:03,141	friends	Ross	https://drive.google.com/file/d/1B3eJsG-0doqEYRpPBo_ur7y3UyzcZHmV/view	Text
+476	2	observe how things work. we'll meet later and discuss ways that we can all improve.	Leave	00:02:37,558	00:02:41,695	superstore	Jeff	https://drive.google.com/file/d/1l-PhZ8CxuhTYMU1dp_jdVAZnDEPmdeLX/view	Na
+818	1	i have to say i slept splendidly.	Flaunt	00:11:02,036	00:11:05,372	bigbang	Sheldon	https://drive.google.com/file/d/1MpRjyFk2CB9EJ3PqmTvp8Ul66IVhlpe1/view	Text
+955	20	so you got a little competition. i really don't see what the big deal is.	Comfort	00:05:55,104	00:05:58,482	bigbang	Penny	https://drive.google.com/file/d/1Xx9PAUeW8BtC1MDWTWT1nDkYrhKN6mxm/view	Audio+Text
+1132	22	we see them every day. and truthfully, you don't seem connected to the baby.	Explain	00:11:02,328	00:11:06,581	friends	Rachel	https://drive.google.com/file/d/1y8lcd0odjWD4s_Z6jiFloMpPjZm00uW7/view	Text
+1259	4	renyard's theory of species variegation?	Doubt	00:09:41,694	00:09:44,280	friends	Ross	https://drive.google.com/file/d/138AYAiHUM2dZ2T2LvKnFjjAu2MIQB-B9/view	Text
+1241	5	so excuse me for being a little skittish.	Apologise	00:14:17,774	00:14:22,070	friends	Phoebe	https://drive.google.com/file/d/1nwzatMvsKiOKusMwhERCojePU7PeZyui/view	Text
+986	30	no, you did better than that. you helped me see it on my own.	Praise	00:07:06,676	00:07:09,761	bigbang	Penny	https://drive.google.com/file/d/1pse88kEHf4MRq_UZ5KqEDveDbRyCp61J/view	Video+Text
+830	17	i'm not sure that i do. um.... is that one 36-hour experience or is that 36 hours spread out over say, one glorious summer?	Doubt	00:18:44,832	00:18:56,050	bigbang	Leonard	https://drive.google.com/file/d/1M6UdhrrzAuiCGd3hFOg1dPNg-KxOvz-g/view	Text
+1334	1	what's going on?	Doubt	00:14:52,057	00:14:53,516	friends	friends person1	https://drive.google.com/file/d/1u5HHMN0sGjn9Y8ZX9rrQtIbl0pY1hTrF/view	Audio+Text
+920	21	not only are there children starving in india, there's an indian starving right here.	Complain	00:15:37,686	00:15:42,106	bigbang	Rajesh	https://drive.google.com/file/d/1zszAReHZrohLkh17_oYOJZN87ph68J6L/view	Video+Text
+401	18	so i thought since you get a discount.	Explain	00:11:57,564	00:11:59,174	superstore	Adam	https://drive.google.com/file/d/1Ob_t3AW3u7lFXr2ofwSGPF6Tt_cm6WBd/view	Text
+440	14	the...green card store?	Doubt	00:10:31,131	00:10:33,567	superstore	Jonah	https://drive.google.com/file/d/1ull3CBUTdXu5M_lNC7CiCb-TMC6cAzDV/view	Text
+840	17	it pissed our dog off to no end.	Joke	00:14:38,836	00:14:40,795	bigbang	big bang person1	https://drive.google.com/file/d/1pCxCUgfbEQBD2fvq2kT4MF6poyT0po2R/view	Audio+Text
+970	23	she's my twin sister.	Explain	00:02:03,414	00:02:04,665	bigbang	Sheldon	https://drive.google.com/file/d/1rxGz_bUZI_FTkZYcyEyLOI2yZ5OHRMsG/view	Audio+Video+Text
+916	46	i use the bathroom from 7 to 7:20.	Plan	00:07:25,903	00:07:28,447	bigbang	Sheldon	https://drive.google.com/file/d/1xbyEzo3Bwm7hVyCAYqaPU7aWDrPc5139/view	Audio+Video+Text
+358	0	so, i just managed to get us a reservation tonight at the italian place with the irish name that you love.	Inform	00:10:39,268	00:10:45,579	superstore	Jonah	https://drive.google.com/file/d/1SNeqde4yPkiu7M1MUYL-rKlNMFQgYUAq/view	Text
+588	2	a lot of people died so you could vote.	Inform	00:02:23,961	00:02:25,629	superstore	Dina	https://drive.google.com/file/d/1Fvzqehz2Yip98rEQzG3hrncWTaZ6QP1A/view	Video+Text
+990	22	no one would say that. a light-year is a unit of distance, not time.	Explain	00:14:22,945	00:14:26,573	bigbang	Sheldon	https://drive.google.com/file/d/1VGnlAiKQ5iHGVt7m0dSjSwzJVBEscX-H/view	Text
+1239	6	ross, you don't have emma! rachel, you don't have emma!	Inform	00:03:41,388	00:03:44,058	friends	Joey	https://drive.google.com/file/d/1gVcsZDl6IgkB0ZPD93j_jEcmBp_-iav-/view	Text
+970	30	so, missy, what brings you all the way from texas?	Care	00:03:24,412	00:03:26,663	bigbang	Leonard	https://drive.google.com/file/d/1ds44NbXi3ODAQkXGa29LS7ej2VJE3pt3/view	Text
+440	15	yeah, they sell green cards and knockoff handbags and bootleg  spider-man  dvds.	Introduce	00:10:33,567	00:10:38,939	superstore	Nico	https://drive.google.com/file/d/1wkRTLYLfqCpWNmpIVJssDfhyz28pEoz0/view	Text
+818	7	granted, my methods may have been somewhat unorthodox but the end result will be a measurable enhancement to penny's quality of life.	Explain	00:11:19,470	00:11:26,935	bigbang	Sheldon	https://drive.google.com/file/d/1O_tZIbHPoc8e_7UtfFjKQO56EDMYnCeU/view	Audio+Text
+1263	19	what?	Doubt	00:19:44,338	00:19:45,922	friends	Rachel	https://drive.google.com/file/d/1D3_oKQw0ovzfCk3veSmPhHFgzwDB02xx/view	Text
+165	4	it has all of the channels.	Introduce	00:04:14,154	00:04:17,257	superstore	Kelly	https://drive.google.com/file/d/1M2qXG4epdCEV3EFu18dKQ2ahyW46yNfH/view	Text
+44	9	not you, your mom.	Explain	00:03:51,514	00:03:53,283	superstore	Cheyenne	https://drive.google.com/file/d/1EtumbxsKBGj0IJjylv8lzno4nwNP6y6Y/view	Na
+556	4	you cannot go out with that guy.	Inform	00:14:27,633	00:14:28,900	superstore	Amy	https://drive.google.com/file/d/1woD_5Rypjjr0XxJIIst1_AxBMVvJEHYQ/view	Audio+Text
+916	49	i suggest no liquids after 11p.m.	Advise	00:07:35,037	00:07:37,289	bigbang	Sheldon	https://drive.google.com/file/d/1d2i2DuZK5Tm50JpW36TxOjDMnSo9fDTC/view	Text
+321	15	i got my eye on you guys.	Leave	00:19:50,166	00:19:51,515	superstore	superstore person1	https://drive.google.com/file/d/1qhe_U24IoVxZEbPyBuoPRiaWVotu9Ehs/view	Video
+1187	21	sounds like you need to think about what you want and talk to gavin.	Advise	00:05:30,372	00:05:33,917	friends	Monica	https://drive.google.com/file/d/1C0ZZJfQy2b8uewrQ2PYW6y4Yf2Dlor4Z/view	Text
+1239	2	you assume because i was heavy that's the only way i could win something?	Doubt	00:03:19,575	00:03:23,078	friends	Monica	https://drive.google.com/file/d/16vnst0I5VRjtl0aZu6xmGM1HYhTY311v/view	Text
+167	7	right.	Acknowledge	00:05:37,537	00:05:39,172	superstore	Amy	https://drive.google.com/file/d/1SU0CxxsOPJS-jcLqksSsTwE3poWTPkn9/view	Audio+Text
+293	17	what, no, i don't want to poach.	Oppose	00:09:18,492	00:09:20,233	superstore	Glenn	https://drive.google.com/file/d/1zmqOVPBJqIoVS0UOxdFgt-iC625mdYcU/view	Text
+1229	0	because i told everyone he slept with dinosaurs.	Explain	00:06:44,058	00:06:47,228	friends	Chandler	https://drive.google.com/file/d/17w3mAkkGBRYa8u2g8rlGNbZkwmCKW8le/view	Text
+599	8	you too. as well.	Greet	00:14:31,954	00:14:34,757	superstore	Amy	https://drive.google.com/file/d/1-Rcck-xqOvP92FPMFcZwY6y5WC4R2tPd/view	Audio+Video+Text
+1239	66	cool. then i want mine too! and if i win i'm gonna put it all into a very low-yield bond!	Plan	00:12:08,687	00:12:14,401	friends	Ross	https://drive.google.com/file/d/1tmjM7BAc2OAAtS6Idc9BtUw5v5Ww9CPp/view	Text
+916	2	sure, cut the foreigner in half. there's a billion more where he came from.	Joke	00:03:29,626	00:03:33,587	bigbang	Rajesh	https://drive.google.com/file/d/1LSMncFceNiqn6pTIXiNvhXUtIv136oDk/view	Audio+Text
+986	0	no, no.	Oppose	00:04:28,226	00:04:29,685	bigbang	Leonard	https://drive.google.com/file/d/16eJlIPmwyaKNvIrprzD2A6uTMkNEzKBD/view	Text
+87	4	okay, yeah, great.	Acknowledge	00:05:42,675	00:05:44,211	superstore	Amy	https://drive.google.com/file/d/1q5H5wG6bFXb1CuSQVfWDo6eI0ppFscni/view	Text
+768	10	you know, uh, juice actually isn't that healthy.	Inform	00:05:02,570	00:05:05,773	superstore	Jonah	https://drive.google.com/file/d/1IWy3SNgf-Yqkcx8ztaGb5dFdr4fPMFbB/view	Audio+Video+Text
+476	11	how about they stop limiting our hours or docking our pay for bathroom breaks?	Complain	00:03:21,034	00:03:26,106	superstore	Amy	https://drive.google.com/file/d/11ClqXq1WCgPlIjt4x_D6NKwlH6xJF5B5/view	Audio+Video+Text
+92	0	hello. glenn sturgis speaking.	Greet	00:09:57,464	00:09:59,499	superstore	Glenn	https://drive.google.com/file/d/1RoCe8zsgxFE_rlNpKT1BeFUcDEmmai55/view	Text
+165	0	you should go with this one.	Advise	00:03:44,925	00:03:46,960	superstore	Kelly	https://drive.google.com/file/d/1VMYsfXiTLL-FmDdr6aSK53Lofl-zOOXq/view	Text
+588	15	okay.	Acknowledge	00:02:59,697	00:03:02,633	superstore	Cheyenne	https://drive.google.com/file/d/1OQTFd18M4D82lnxhvBTdvUx9s2OL5WdD/view	Text
+599	16	wow, a new apartment. a new man.	Praise	00:15:03,786	00:15:06,789	superstore	Amy	https://drive.google.com/file/d/1bKouKVuiQmJT_Z_KRivZ2qbpgy89PB50/view	Text
+757	10	yeah, 'cause you were being like an uptight teacher.	Taunt	00:10:14,207	00:10:16,309	superstore	Marcus	https://drive.google.com/file/d/16KR8_28heKWz68f4sY5mRkSwwPiJG7fZ/view	Text
+970	44	look, you're here, and we have plenty of room.	Invite	00:04:15,755	00:04:18,048	bigbang	Leonard	https://drive.google.com/file/d/1GU8LO_fTddSqLL0KQY4Z2OmbGyGL0-Ov/view	Text
+432	2	uh, why don't we just start over?	Advise	00:20:11,771	00:20:14,991	superstore	Amy	https://drive.google.com/file/d/1HNWHldCc9ofJ4ie-OavfxQ9Zp-ZpUlvc/view	Text
+599	7	it's nice to meet you.	Greet	00:14:30,953	00:14:31,921	superstore	superstore person1	https://drive.google.com/file/d/1ZlRBO12ZdGasVH9bs3LBjwFdqcC2jeP1/view	Text
+34	0	you really got this firing thing down.	Praise	00:14:08,648	00:14:10,350	superstore	Garrett	https://drive.google.com/file/d/1XSRucOS-j_y3bPgf_Di18ywSNnCP16wR/view	Text
+830	20	well, chafing, right?	Confirm	00:19:01,014	00:19:03,224	bigbang	Leonard	https://drive.google.com/file/d/1VWSI-vZffXiZFzLvnfzqep8BH_MXc-Sd/view	Text
+1294	28	so you took off my pants and shoes?	Confirm	00:20:29,811	00:20:32,939	friends	Ross	https://drive.google.com/file/d/1tgWYCfOxifE5l4_dZwDij1SbxKdSQcjW/view	Audio+Text
+1132	28	everyone, we're using our fancy china and it's very expensive, so please be careful.	Inform	00:11:47,873	00:11:54,671	friends	Monica	https://drive.google.com/file/d/1FZmwYlNnK_m3b5lc19kmBWfj5pMe9ao8/view	Text
+516	0	okay, everybody calm down.	Comfort	00:15:07,607	00:15:09,108	superstore	Dina	https://drive.google.com/file/d/1sdfF_4qPS-SQ52RNghCnnQhg4QTKltKH/view	Text
+911	1	oh, hey, guys. you having a good time?	Greet	00:13:00,613	00:13:02,405	bigbang	Penny	https://drive.google.com/file/d/1H-QlYdafK-CPjDRL4AnLQSKIu-4fh-ru/view	Text
+1112	5	he is without a doubt the funniest guy i have ever met.	Praise	00:00:44,461	00:00:47,254	friends	Monica	https://drive.google.com/file/d/1lJTtSC2RqGDRO0L1xqNhVq37egY7WjY-/view	Text
+955	14	just eat, sheldon. you'll feel better.	Comfort	00:05:27,618	00:05:29,494	bigbang	Leonard	https://drive.google.com/file/d/15JjoVS_PJ5BnkSqBlbTkcYdvPsIA6OPs/view	Text
+916	0	ugh. i cannot believe christy let howard into my apartment.	Complain	00:03:03,725	00:03:08,604	bigbang	Penny	https://drive.google.com/file/d/15wM71Ovnq3EyC4cUYplZqPL4yw3BUB5D/view	Text
+454	9	we're not on strike.	Oppose	00:03:42,022	00:03:43,090	superstore	Amy	https://drive.google.com/file/d/1kGlKDCbXpYh2KAZGpwTBEqaqxNPusOdX/view	Text
+87	7	jonah, relax. it's fine.	Comfort	00:05:59,326	00:06:01,194	superstore	Amy	https://drive.google.com/file/d/16SRFL5QlMY0b_tkYrAU1nzW87-S_Jgg8/view	Text
+986	7	not that i need to know the details of your sex life.	Explain	00:05:16,065	00:05:18,650	bigbang	Leonard	https://drive.google.com/file/d/12ujiSOrWb85d1HnJL2bcb5L-FO6zfWzf/view	Text
+728	11	you?	Taunt	00:02:49,029	00:02:50,864	superstore	Dina	https://drive.google.com/file/d/1dEzXxgQXiYZ69bDV8xk2ovr305f6v9ls/view	Audio+Video+Text
+1285	1	which is like the highest level of hotness.	Praise	00:18:34,530	00:18:37,240	friends	Joey	https://drive.google.com/file/d/1xGzYgf6L24QUPuO0fSEUzaew5r-J0w1_/view	Text
+87	18	oh, she filmed herself microwaving ramen and she got 100 people to view it.	Taunt	00:06:32,092	00:06:37,630	superstore	Amy	https://drive.google.com/file/d/1kH0VwBFb56A2qYDt6lkLHgGUM8OorngV/view	Audio+Video+Text
+202	9	you are gonna leave your baby at the mercy of a person whose judgment is so bad she moved from hawaii to st. louis?	Taunt	00:18:12,793	00:18:19,198	superstore	Dina	https://drive.google.com/file/d/1XBuEBOjgtHwo5XDCMvGYc5sb6kzbM3Ev/view	Audio+Video+Text
+990	7	there are a number of options and.... i'm really not familiar enough with the cushion densities air-flow patterns and dispersion of sunlight to make an informed choice.	Explain	00:12:56,942	00:13:07,118	bigbang	Sheldon	https://drive.google.com/file/d/1cW1yIZUqre1rz49cssLXlGMUi_9LZyeG/view	Text
+440	0	look what i found over in menswear.	Inform	00:09:34,575	00:09:37,211	superstore	Glenn	https://drive.google.com/file/d/1NBuSYjnflV-peHQijHTnc31EVxAaDU0r/view	Audio+Video+Text
+757	3	but you don't tell me when to smile, marcus.	Criticize	00:09:50,450	00:09:52,519	superstore	Amy	https://drive.google.com/file/d/1jpQv10cJ_5CCrM56Tv2fh6K6yD42pkgu/view	Video+Text
+293	0	thank you for coming in, jeff.	Thank	00:08:02,938	00:08:05,593	superstore	Jeff	https://drive.google.com/file/d/1kmSslpnEXCR8vwS0fTDGYuiix6yM-smZ/view	Text
+105	9	there's no smell. it smells like a regular house.	Oppose	00:02:14,501	00:02:16,937	superstore	Amy	https://drive.google.com/file/d/1l_LGRKLv-2HnmxADYP9wWbcR_MIphLRM/view	Text
+290	8	uh, well, you know, jeff offered me a job at target for a dollar more an hour.	Inform	00:04:47,569	00:04:52,443	superstore	Garrett	https://drive.google.com/file/d/1uCIhbz3o8Xz7SeisrBPdCDAjXFc0IWKV/view	Text
+105	3	well, i mean, i'm yours. you're my number four.	Explain	00:01:59,419	00:02:01,922	superstore	Dina	https://drive.google.com/file/d/1iZ-yN3IcDHSEcxrj4Z3Y-F-Tl4s6gRH1/view	Video+Text
+588	11	nobody paid those horses to die.	Leave	00:02:41,912	00:02:43,781	superstore	Dina	https://drive.google.com/file/d/1AQ8k1oOM2OpdM3dWOBHtIMLur4HRQ_by/view	Video
+1132	27	seriously?	Doubt	00:11:38,531	00:11:40,073	friends	friends person1	https://drive.google.com/file/d/1l7kXoL_9kk6ZkfMMHCfxsOXkZWi3m1pV/view	Text
+1241	3	weird your psychic didn't mention anything about the scary pigeon.	Taunt	00:14:08,723	00:14:12,477	friends	Ross	https://drive.google.com/file/d/1QiUkb6btlfoZy3OA18WVG3e2DdTUNg2b/view	Text
+1259	8	we have so much in common, and she's just cool, you know? and funny.	Praise	00:09:56,250	00:10:00,546	friends	Ross	https://drive.google.com/file/d/13gsnofJoVQ47KgVwm_zi8gxN0zywoCR6/view	Text
+2	14	we just break their spirit so the world doesn't.	Explain	00:03:13,894	00:03:16,429	superstore	Amy	https://drive.google.com/file/d/1KARqlgaOftwaikqcmr1ujaJMI2PyTSbA/view	Text
+1285	22	no, that's david.	Introduce	00:21:15,148	00:21:17,316	friends	Rachel	https://drive.google.com/file/d/1BMqMNzlOEir9h9dVOxSCs-lY7aRd-tN9/view	Text
+990	28	do you have anything to say that has anything to do with, you know, what i'm talking about?	Asking for opinions	00:14:55,394	00:15:00,064	bigbang	Penny	https://drive.google.com/file/d/11x1Ja_0NhNnHz_uR0mKG_Kl2ZwWVBjZQ/view	Text
+335	12	i mean, people love your scarves.	Comfort	00:11:39,459	00:11:42,026	superstore	Glenn	https://drive.google.com/file/d/10yusdktH5kveBcPAWKfaDrQaEpY6KAs_/view	Na
+296	1	glenn asked you to do a display?	Confirm	00:13:20,342	00:13:22,301	superstore	Nico	https://drive.google.com/file/d/1rNyb4og_2VVHt6z1ducBJ-qXBqu1t_Jh/view	Audio+Video+Text
+599	18	yeah. thanks.	Thank	00:15:08,891	00:15:11,528	superstore	superstore person1	https://drive.google.com/file/d/1QBHw-MZkygJtE2yUSHhzjgHly_HEsb4L/view	Text
+1337	5	hello?	Greet	00:21:56,940	00:21:58,316	friends	Chandler	https://drive.google.com/file/d/1MAx85tFD8sOnpq1vAmZaudBHjc1sZIAF/view	Text
+202	10	yes, i am.	Agree	00:18:19,231	00:18:20,833	superstore	Glenn	https://drive.google.com/file/d/1i6Y8U7wFishAR8XCg6pkBLVrFb0-rcZS/view	Text
+87	19	fine. then do it.	Acknowledge	00:06:43,103	00:06:44,504	superstore	Jonah	https://drive.google.com/file/d/12FIcnGfg434jpbTM1UwS7288lQIBAeaW/view	Text
+768	12	fruit juice is loaded with sugar.	Inform	00:05:11,712	00:05:14,382	superstore	superstore person1	https://drive.google.com/file/d/1vYFhjT5blqHjlip3DTaHUAB9T9UvlYRr/view	Text
+816	2	penny?	Greet	00:08:06,611	00:08:07,944	bigbang	Sheldon	https://drive.google.com/file/d/1CkFl8c5hC3kvbOg0t5S6tO7ZVb6DkiND/view	Audio+Video+Text
+588	22	yeah, but don't worry.	Comfort	00:03:22,620	00:03:23,587	superstore	Cheyenne	https://drive.google.com/file/d/10w_iX1vXg40x_cp9RjLi37dp4TvGV13_/view	Text
+401	21	yo, amy. i left that baby stuff by your locker.	Inform	00:12:06,573	00:12:08,705	superstore	Bo	https://drive.google.com/file/d/12SY_6eL5WRKjEKV1W_5r7dAqq8hLyk1l/view	Text
+867	0	okay.	Acknowledge	00:06:27,180	00:06:28,782	superstore	Cheyenne	https://drive.google.com/file/d/1JKFyP--XwAALXOUBrxgUH0axtO9BUldl/view	Text
+615	1	yeah, sure. no problem.	Agree	00:05:04,905	00:05:07,074	superstore	Adam	https://drive.google.com/file/d/1QLD64XARnsr8Zn9M5Ims2-vGokaY27m7/view	Text
+955	17	i'm confused. did sheldon stop giving milk?	Doubt	00:05:37,378	00:05:41,173	bigbang	Penny	https://drive.google.com/file/d/1PZdBr8SAfE3GfQ1TiYxD9EVOw1AOJOk4/view	Text
+916	57	please don't come to my funeral. have a good night.	Leave	00:08:14,076	00:08:16,912	bigbang	Sheldon	https://drive.google.com/file/d/1a5mp3DcCenhyzpfSpZvLp_pAxvDQZrAP/view	Text
+590	17	you're crazy, lady.	Oppose	00:05:59,209	00:06:00,744	superstore	Garrett	https://drive.google.com/file/d/1N-7LqAIW6jXZtn3569zmNEHbGLUHc1Kb/view	Video+Text
+202	7	yeah, i'm really excited.	Agree	00:18:02,949	00:18:05,217	superstore	Sandra	https://drive.google.com/file/d/1mHe1BeuNR7gRAe0h01fQ1guO0mYtpfBh/view	Text
+401	15	you left a message saying we needed to talk in person.	Explain	00:11:50,818	00:11:53,299	superstore	Adam	https://drive.google.com/file/d/1Pg5DdJpe6YYfKjkIO6uvL5ylZ6fLyDQZ/view	Text
+588	25	oh, you can't just get one of those  i voted  stickers and say that you voted?	Advise	00:03:34,632	00:03:39,670	superstore	Cheyenne	https://drive.google.com/file/d/1sA6Lv-5EtYprsyCgHi-uYMb5t4gOL1bP/view	Na
+986	29	i'm pretty sure i never said that.	Oppose	00:07:03,506	00:07:06,091	bigbang	Leonard	https://drive.google.com/file/d/1U6pIv7CXguL8qQZTkkQ9F6qSZOmP2Qjj/view	Text
+244	1	this is just a witch's broom. why would they recall this?	Doubt	00:15:06,473	00:15:09,141	superstore	Amy	https://drive.google.com/file/d/1w9V6XLIB09DKtGLGzkKsN655ZZgl9dW1/view	Text
+66	7	my entire apartment got destroyed.	Complain	00:01:58,186	00:01:59,687	superstore	Jonah	https://drive.google.com/file/d/1zAFMrv8OsPALXQv377o7PtKQyVdQVcs4/view	Text
+916	10	okay, it's not good sportsmanship to shoot somebody who's just re-spawned.	Criticize	00:04:22,178	00:04:25,764	bigbang	Sheldon	https://drive.google.com/file/d/17CosW1okGHHajoXFd7LFITbPuCdJwyyn/view	Text
+955	12	oh, god, now even you're smarter than me.	Complain	00:05:18,234	00:05:20,902	bigbang	Sheldon	https://drive.google.com/file/d/1uKOKE9O8LSUWT4-4RKafD0xD5SydOwBx/view	Audio+Text
+1126	16	so i moved to the city where, um, i lived in a burned-out buick lesabre for a while.	Introduce	00:10:21,203	00:10:26,833	friends	Phoebe	https://drive.google.com/file/d/1LG_0jIPCIq1ZzpS3Kzhf63RzVZq3lBbY/view	Na
+830	14	and this thing with doug would just be rebound sex.	Explain	00:18:25,687	00:18:28,523	bigbang	Penny	https://drive.google.com/file/d/1kLAg9UX4uJ4WpN7OLM8x3-vw4GdtgCDk/view	Audio+Video+Text
+818	19	i'm very, very sorry.	Apologise	00:12:27,830	00:12:28,830	bigbang	Leonard	https://drive.google.com/file/d/11dsgREGkcIfXhEqALLLfutlOMV1NynMD/view	Text
+1259	7	oh, my god. she's great.	Praise	00:09:53,622	00:09:56,083	friends	Ross	https://drive.google.com/file/d/1orwNHs-oAaPA00w9OvV3aZSg94XU-Gff/view	Text
+66	14	there's just no way you're doing any of that.	Oppose	00:02:38,959	00:02:40,928	superstore	Cheyenne	https://drive.google.com/file/d/16GS1D-arNjRuPqv6pHTxzbXytyNi8_0m/view	Text
+928	0	drinks do not work that way.	Oppose	00:12:45,347	00:12:47,682	bigbang	Penny	https://drive.google.com/file/d/1hHCAhbVLnt9NqKzQkNcC7xFUM9Q7t7x2/view	Text
+335	3	earlier i was selling a lot, but now people are returning things.	Complain	00:11:01,247	00:11:06,382	superstore	superstore person1	https://drive.google.com/file/d/1mrL8UaXJhWOvQsa4PeEWyqUC3WaQ1E58/view	Audio+Text
+779	15	uh, that is correct.	Agree	00:17:54,867	00:17:57,637	superstore	Garrett	https://drive.google.com/file/d/1axQZPA0DjzJLiqTRpj9E1pHam7Cd4bmk/view	Text
+1126	24	why don't you go talk to my mom?	Advise	00:12:04,515	00:12:06,349	friends	friends person1	https://drive.google.com/file/d/1MDNpzofALOmvYeu3wakgwdQxBMzNobvZ/view	Text
+970	13	buddy?	Doubt	00:01:20,288	00:01:22,456	bigbang	Sheldon	https://drive.google.com/file/d/1VjalTu4YIot9fOjYuBdM8nDPTKZ_D-Uq/view	Audio+Video+Text
+1229	8	i'm so gonna get back at ross.	Plan	00:07:23,139	00:07:25,933	friends	Chandler	https://drive.google.com/file/d/1LgK-ejfKjU9gfU-m3SW3LMLFycNFIj9w/view	Audio+Video+Text
+1294	12	i have an early class in the morning.	Explain	00:18:24,061	00:18:26,729	friends	friends person1	https://drive.google.com/file/d/1lWGx7lhMwyKm3olI0ZqVlrkopp4EQ_ck/view	Audio+Video+Text
+105	15	okay, why don't you go change?	Advise	00:02:31,284	00:02:35,022	superstore	Dina	https://drive.google.com/file/d/1gNpX_Q0CH98bLpiCWFqLbEX3mkmsNhc6/view	Text
+281	8	i stole a pack of sour cherry bubblicious.	Inform	00:07:48,301	00:07:52,239	superstore	Myrtle	https://drive.google.com/file/d/1i3WfJ83PUY8V3WmZB6zfkEVOzgFvR2BN/view	Text
+1132	7	thank you, amy.	Thank	00:09:45,001	00:09:47,210	friends	Ross	https://drive.google.com/file/d/1v0hFk8zSrXHcgyQg16NUuLtvwmWhT-NQ/view	Text
+92	8	a class a stinker!	Criticize	00:10:28,395	00:10:29,996	superstore	Glenn	https://drive.google.com/file/d/1jh2nRgh6-uEOrj7vOssLgeNJyWkRAz86/view	Text
+757	6	marcus, no.	Prevent	00:10:01,294	00:10:02,562	superstore	Jonah	https://drive.google.com/file/d/1jFiFtd0BEMufarY6Gx7VNBcEd7Pupxml/view	Text
+471	2	yeah, it was tough, but principles.	Emphasize	00:19:00,840	00:19:04,110	superstore	Nico	https://drive.google.com/file/d/1ZWxo8vJz3deE0BqlMwxwOnroCk0sXo_W/view	Text
+990	10	you go ahead and talk while i figure it out.	Inform	00:13:14,627	00:13:18,046	bigbang	Sheldon	https://drive.google.com/file/d/1TEPHGLBK0Bt2hrh_kfUNPOR9YAaxTwlw/view	Text
+1337	4	she gave us a great report and we're officially on the waiting list.	Inform	00:21:35,043	00:21:38,296	friends	Monica	https://drive.google.com/file/d/1OoDLmu6XlZzBdLcHbF2huQ0ZCJI_XFXb/view	Text
+516	4	they are equally as dangerous.	Warn	00:15:18,885	00:15:20,420	superstore	Garrett	https://drive.google.com/file/d/1iRcC9ZHiBuSFtvHS43HZx0z9xxPnW54w/view	Text
+986	19	ah, okay.	Acknowledge	00:06:12,538	00:06:14,289	bigbang	Leonard	https://drive.google.com/file/d/1P_wj9_sUdlrAlB2-UUao-hBt3GZDkuHs/view	Text
+68	1	it's so christmas, huh?	Praise	00:03:53,577	00:03:55,613	superstore	Glenn	https://drive.google.com/file/d/19PveWiFYPxBDn0JoxCgOroXaLK9Iqp_-/view	Video+Text
+1285	12	yeah.	Acknowledge	00:19:43,557	00:19:45,016	friends	Phoebe	https://drive.google.com/file/d/160HucF76BWeqEi1ykDwPj22pHT65KkNZ/view	Text
+167	14	trust me.	Leave	00:06:02,062	00:06:04,264	superstore	Jeff	https://drive.google.com/file/d/1KZyuJSzU3Qh4oGhR2zMF2If_AiWLI8_I/view	Video
+916	47	plan your ablutions and bodily functions accordingly.	Plan	00:07:28,614	00:07:31,074	bigbang	Sheldon	https://drive.google.com/file/d/16qz6JMtSRNHHsEKwUcujnxg6qj3118jP/view	Text
+757	2	what's wrong with that? you have a nice smile.	Doubt	00:09:45,995	00:09:47,964	superstore	Marcus	https://drive.google.com/file/d/1b0YTLkOe2nYkYO1twS-qhSFTotoYE0mP/view	Audio+Video+Text
+87	0	hey, um, i might need a ride home later today.	Ask for help	00:05:33,200	00:05:36,169	superstore	Amy	https://drive.google.com/file/d/1zaLwPCLQxh0SWpn-oo2d2joICqWN4pRU/view	Video+Text
+440	9	are you--mateo, you're an american citizen, right?	Confirm	00:10:11,679	00:10:14,882	superstore	Jonah	https://drive.google.com/file/d/1a7-XZf-Iv9PzyXeHicmTxeEQNoWNNqwX/view	Text
+1241	40	it's your boss.	Introduce	00:18:39,828	00:18:40,870	friends	Monica	https://drive.google.com/file/d/19FtwnYMzzkf5mVlid79b1s5gb38u-cGY/view	Video+Text
+1239	28	how are you gonna feel if we actually do win?	Asking for opinions	00:06:36,647	00:06:38,857	friends	Rachel	https://drive.google.com/file/d/1rHmTC-SUUffqLeZEtvlaI2o_e_ry-TkK/view	Text
+692	0	what?	Doubt	00:06:34,287	00:06:35,823	superstore	Dina	https://drive.google.com/file/d/1PMflWg_vYL9U4ni2zkLjWZkt89Rx2AwO/view	Text
+1241	9	it is so unfair. it's like that time they promoted saundra over me at work.	Complain	00:15:15,874	00:15:20,795	friends	Rachel	https://drive.google.com/file/d/1W5dbnsomNog2e1NdyztxrBSTbsTXp2Cu/view	Text
+476	4	sure, but... everything is a two-way street.	Agree	00:02:49,069	00:02:52,039	superstore	Jeff	https://drive.google.com/file/d/1zVv2RBPLOYeoezgumrRJdfBZ9yIfNTTi/view	Text
+44	8	i'm so sick of basic people.	Complain	00:03:49,146	00:03:51,481	superstore	Cheyenne	https://drive.google.com/file/d/1QWwgJNpr-_da_zklT9KV6MF-6liBXONQ/view	Text
+288	10	i'm going to need that back, actually.	Plan	00:01:02,257	00:01:04,172	superstore	Amy	https://drive.google.com/file/d/1_0qKVj4e71imFJJw3o0IDNJ6lIMW0LYk/view	Audio+Video+Text
+818	10	no, i do not have a sarcasm sign.	Oppose	00:11:44,078	00:11:46,621	bigbang	Leonard	https://drive.google.com/file/d/1pNmaur1w-XNntECeVXHi69sLGD7WQRDX/view	Text
+1239	4	they're towing a car.	Inform	00:03:34,715	00:03:37,301	friends	Ross	https://drive.google.com/file/d/1ce7EZa7RaTl_W8QEGFFkjca6Y-VKEbFc/view	Text
+1187	8	nope. nope. it's not working on me.	Oppose	00:04:06,413	00:04:09,875	friends	Monica	https://drive.google.com/file/d/16KMCMil1hJjVn0u7IbK78cYRy9IraPS5/view	Text
+612	11	anyway, if you have any questions about amy, come see me.	Inform	00:02:48,369	00:02:51,071	superstore	Adam	https://drive.google.com/file/d/1lcuCEljR-SOvQzoyyTlD0tY-HqEFb1Uz/view	Text
+516	15	they got the same brain-to-body ratio as humans.	Inform	00:16:07,066	00:16:09,469	superstore	Garrett	https://drive.google.com/file/d/1IzmqYXvjBdOfpcl_XYkIgA6KO4psH4bh/view	Text
+87	8	i think it's great. it's great.	Praise	00:06:01,228	00:06:02,662	superstore	Amy	https://drive.google.com/file/d/1C5tPD-pXIS8nUdSDUFt0rb-jgULa05OT/view	Text
+1229	16	unbelievable. my classmates are gonna think i'm dead.	Complain	00:07:58,299	00:08:01,594	friends	Ross	https://drive.google.com/file/d/1SSyrCKUgmtv8xWY6eLA7DKIR5Eu06bzR/view	Text
+2	4	i feel like i barely did anything my first day.	Complain	00:02:35,723	00:02:38,158	superstore	Jonah	https://drive.google.com/file/d/1LLMnEn0G0fZ2WDDNcx0Xia7R203Oxv4I/view	Text
+1294	26	i think i'm gonna stay here and make sure he's okay.	Plan	00:19:43,515	00:19:46,517	friends	Joey	https://drive.google.com/file/d/1ESBS3ccPNblwBDeilzRZM3GrZkc_bKGX/view	Text
+187	17	i used to think kangaroos were real.	Inform	00:04:29,402	00:04:31,304	superstore	Marcus	https://drive.google.com/file/d/1DmBzJ1VfxORinFzH1CN2EA1Lorb2RCDV/view	Text
+299	22	nope, not one. i checked.	Oppose	00:17:55,617	00:17:57,880	superstore	Cheyenne	https://drive.google.com/file/d/1XCeVBJZaRetVeJ1sOMayaxVALYVuDzwz/view	Text
+588	27	you are so much smarter than what i tell people.	Praise	00:03:44,708	00:03:47,344	superstore	Nico	https://drive.google.com/file/d/12ZVG0hVae4p9tBVpCq85s00H4ZD3Fgmk/view	Audio+Video+Text
+493	3	don't try to flip this, okay?	Prevent	00:16:38,431	00:16:39,632	superstore	Jonah	https://drive.google.com/file/d/1Gj8q9e4r2cnYCztz_8CSfCwOkRnITpQI/view	Text
+970	41	oh, i don't think so. shelly doesn't like company.	Oppose	00:04:04,244	00:04:07,204	bigbang	big bang person1	https://drive.google.com/file/d/1rLuwt51fnzXLH_QyjgQ-WUyeidgkMHd6/view	Text
+493	2	why do you care if people like you?	Doubt	00:16:34,961	00:16:36,696	superstore	Dina	https://drive.google.com/file/d/1aVG42L5QTFEwvJvAIMDNT4ciZM0xw77x/view	Text
+768	3	i've seen, like, seven, but i'm not sure it counts, 'cause it was all at once.	Inform	00:04:40,781	00:04:44,485	superstore	Glenn	https://drive.google.com/file/d/1tFIZLDnIlQCEL3VcE9qZZxtsRmfLX-T4/view	Text
+453	11	no, thank you.	Prevent	00:02:46,717	00:02:47,851	superstore	Jeff	https://drive.google.com/file/d/1Omg_sjVEhU_kQMki1CwdGehcTaQqqIm7/view	Audio+Video+Text
+1294	52	you sure about this?	Doubt	00:23:00,754	00:23:02,546	friends	Joey	https://drive.google.com/file/d/1RYQ3n9E6W2e3yJqCpjHXEIE47qCttxca/view	Text
+612	15	is it because you fart a lot?	Joke	00:03:04,452	00:03:05,753	superstore	Nico	https://drive.google.com/file/d/1uMQaNXnApAlKc3x4P0Yq-fLHyrAZA1yi/view	Video+Text
+1294	46	i think so.	Agree	00:22:20,172	00:22:22,256	friends	Joey	https://drive.google.com/file/d/15A3krukcYinFZ4BQRkCd3G5gHCkcTutp/view	Text
+167	9	you know what, there's a lot of liars out there, okay?	Warn	00:05:43,110	00:05:46,346	superstore	Jeff	https://drive.google.com/file/d/11HVPz2l56oQXBnSq9XuDk1fX6y6fuMGM/view	Video+Text
+1090	1	dr. gettleman is finishing up with a patient. he'll be out shortly.	Inform	00:11:46,205	00:11:49,416	friends	friends person1	https://drive.google.com/file/d/1Knr6ANI551W5uTFPTTNfbRNRPJhE7O62/view	Text
+293	4	but if you start trying to pooch my people, then we are going to have a problem.	Warn	00:08:23,959	00:08:29,095	superstore	Glenn	https://drive.google.com/file/d/1lrX4dYAWSI_TwfoHLK9kCeGE-wFrixgu/view	Text
+970	4	why would they be looking for test subjects here?	Doubt	00:00:28,570	00:00:30,821	bigbang	Rajesh	https://drive.google.com/file/d/1w-QOLc_-uGiWI_9bxwNiwt-dQRUtoWBX/view	Text
+1126	10	oh. why don't you come meet our friends?	Invite	00:09:40,538	00:09:43,915	friends	friends person2	https://drive.google.com/file/d/1EaCDiW4fVCY7AHZRvv1q-z4w2EgmZp8j/view	Text
+768	15	i seem to have wound up with two copies at my house.	Inform	00:05:31,131	00:05:33,934	superstore	Glenn	https://drive.google.com/file/d/1lbQ7jI0jkVEw1FsUrk5Rn2H4-umYEa6d/view	Text
+830	26	actually, it's centripetal force, which is an inward force generated by the glass acting on the olive. ooh.	Explain	00:19:33,964	00:19:40,761	bigbang	Leonard	https://drive.google.com/file/d/1PIAFr0eNYWVgjRH1TLvTgsAcyFM3VYLg/view	Text
+525	7	no.	Oppose	00:04:15,873	00:04:16,840	superstore	Nico	https://drive.google.com/file/d/10-wyJN2g6fpJVFAuMxC8cjNG5s-DLFA0/view	Text
+1337	0	hello?	Greet	00:21:19,987	00:21:21,320	friends	Monica	https://drive.google.com/file/d/1aeiPOvpNZmuuAPYdnvwBPVCgnndOQwpX/view	Text
+1132	1	this is chandler, joey, phoebe, and you know mon.	Introduce	00:08:31,093	00:08:34,554	friends	Rachel	https://drive.google.com/file/d/1tHNVFj3fS-np91kIS9QFS0NF_jEbTfwJ/view	Text
+590	15	ooh.	Acknowledge	00:05:55,839	00:05:56,807	superstore	Jonah	https://drive.google.com/file/d/1v9GvhXO6UmF9DIuv-EuTbfaWQEkd-vbt/view	Text
+1197	8	score.	Praise	00:27:14,383	00:27:16,344	friends	Rachel	https://drive.google.com/file/d/1RNv97wYu9P_xpfuZjQ53GnnYXCO7OmrQ/view	Na
+658	16	wait, we're just gonna leave?	Doubt	00:17:07,053	00:17:10,022	superstore	Garrett	https://drive.google.com/file/d/14hQYVdkFYmXr5zOClQLDt6HYGrGcKuHP/view	Text
+867	3	hey, bobbie sue-bobbie sue?	Greet	00:06:49,102	00:06:53,040	superstore	Cheyenne	https://drive.google.com/file/d/1qjwO9ZZxEoruBqDQalVMUFfRrmam7uu8/view	Text
+480	3	it's a new word. my friend's cousin made it up.	Introduce	00:06:06,033	00:06:08,135	superstore	Marcus	https://drive.google.com/file/d/1qIF2wyS40UX1YwxTfVpF8SxLdX-Kqxcw/view	Text
+281	19	that is going on my wall right next to the picture of me with the guy who played balki.	Plan	00:08:56,636	00:09:01,308	superstore	Dina	https://drive.google.com/file/d/1LQOdX5487ovseISnq_e2pB7fp85qwEZQ/view	Video+Text
+990	11	okay.	Acknowledge	00:13:18,923	00:13:19,964	bigbang	Penny	https://drive.google.com/file/d/1VFvBdkqtwD_uiPVXU1S6I8Zx5mlZPHYw/view	Video+Text
+1294	20	you know what, ross, i think, uh, we're gonna take off too.	Leave	00:19:07,604	00:19:10,690	friends	Rachel	https://drive.google.com/file/d/1_tOS5OSxAXvwxW_2QOzqhYJG6srZUjEB/view	Text
+92	6	his name's mateo.	Introduce	00:10:23,856	00:10:26,459	superstore	Glenn	https://drive.google.com/file/d/1uiPNER7A2AZUIkKO26WhXuZ7c1B0XNCN/view	Text
+454	14	we need to get glenn's job back.	Inform	00:04:06,814	00:04:08,916	superstore	Amy	https://drive.google.com/file/d/1P3vh1r3wmIkAHpjVff7pez6z7ELwKII4/view	Text
+590	16	a rogue pamphlet?	Doubt	00:05:56,840	00:05:59,176	superstore	Garrett	https://drive.google.com/file/d/1VOujvWJcFyvEJd4XQ70ieY1cy2kqAzYG/view	Text
+600	1	rats gave birth in the nacho cheese.	Inform	00:15:33,383	00:15:36,586	superstore	superstore person1	https://drive.google.com/file/d/143qKLZ-dX9UhtOWzmxkQh_z3He1wiRIo/view	Audio+Text
+818	4	a well-known folk cure for insomnia is to break into your neighbor's apartment and clean.	Taunt	00:11:10,127	00:11:14,881	bigbang	Leonard	https://drive.google.com/file/d/1Z9GrRuk9taSDZsHWt4HJ89Vy5zF_OhRO/view	Video+Text
+202	13	we're about to get this thing going!	Inform	00:18:30,877	00:18:32,244	superstore	Dina	https://drive.google.com/file/d/1wMOtItCW3Gd3wW5LHG6A-XYNvZjAuSAa/view	Text
+66	0	come on, i don't know if it's a bulb or a stripped wire.	Complain	00:01:28,622	00:01:31,892	superstore	Glenn	https://drive.google.com/file/d/1sJy_23uxorfxqd3Fz0vZpne2HKA8oqtH/view	Video+Text
+916	23	maybe we could enter a couple of  halo  tournaments sometime.	Invite	00:05:13,354	00:05:16,148	bigbang	Leonard	https://drive.google.com/file/d/1x1sA62GWytOPE-E8Urgv_JNyNQpL-FTw/view	Text
+238	1	no one cares. you're not special.	Criticize	00:08:39,519	00:08:41,321	superstore	Sandra	https://drive.google.com/file/d/1zl3lQoRTg0njPBdn2JpIvHj-8aWYtWpw/view	Video+Text
+462	1	i just gotta hook it up to the valve.	Plan	00:11:30,823	00:11:32,759	superstore	Jonah	https://drive.google.com/file/d/1L-j0V-CNVNo2vYRYYtOsadgrgMONJSFz/view	Text

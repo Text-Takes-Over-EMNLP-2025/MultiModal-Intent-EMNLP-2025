@@ -1,0 +1,1107 @@
+Dialogue_id	Utterance_id	Text	Label	Start_timestamp	End_timestamp	Source	speakername
+2	0	hey. don't distract jonah.	Prevent	00:02:19,907	00:02:22,075	superstore	Amy
+2	1	go collect the clothes from the dressing rooms, then fold them, hang them, put them on the racks, and i'll come show you how to scrub down the bathrooms.	Arrange	00:02:23,977	00:02:28,882	superstore	Amy
+2	2	lose the attitude. go.	Arrange	00:02:30,483	00:02:31,852	superstore	Amy
+2	4	i feel like i barely did anything my first day.	Complain	00:02:35,723	00:02:38,158	superstore	Jonah
+2	5	she just has such an attitude since the divorce.	Explain	00:02:40,260	00:02:42,095	superstore	Amy
+2	6	that's why i'm making her work here.	Explain	00:02:42,129	00:02:43,697	superstore	Amy
+2	8	and you're not worried that if you're too hard on her, adam gets to be the good guy?	Doubt	00:02:45,132	00:02:49,436	superstore	Jonah
+2	9	what? no.	Oppose	00:02:49,469	00:02:51,038	superstore	Amy
+2	12	and that was something you wanted?	Confirm	00:02:58,746	00:03:00,480	superstore	Amy
+2	13	although that might be because he doesn't send me long, pointless texts about book club.	Explain	00:03:05,385	00:03:09,823	superstore	Jonah
+2	14	we just break their spirit so the world doesn't.	Explain	00:03:13,894	00:03:16,429	superstore	Amy
+2	15	huh.	Acknowledge	00:03:16,463	00:03:18,198	superstore	Jonah
+2	16	got it. i'll just find out on reddit.	Plan	00:03:22,135	00:03:24,738	superstore	Jonah
+33	0	it's been brought to my attention that there has been some bullying in the store.	Inform	00:11:53,880	00:11:58,218	superstore	Jeff
+33	1	i have spoken to the person responsible, but i would like to remind everybody that cloud 9 has a zero tolerance policy against bullying of anyone under any circumstance.	Inform	00:11:58,251	00:12:06,526	superstore	Jeff
+33	4	okay, can we just forget about hitler?	Advise	00:12:13,533	00:12:15,268	superstore	Jeff
+33	5	no, we can't ever forget about hitler.	Oppose	00:12:15,302	00:12:17,937	superstore	Cheyenne
+33	6	okay, bullying's not just beating people up.	Explain	00:12:26,679	00:12:28,781	superstore	Jeff
+33	7	it's--it's any behavior that's hostile or intimidating.	Introduce	00:12:28,815	00:12:31,384	superstore	Jeff
+33	12	okay, i meant other examples of bullying, not name-calling.	Explain	00:13:05,752	00:13:09,622	superstore	Jeff
+33	14	how about being excluded socially?	Confirm	00:13:14,327	00:13:16,296	superstore	Amy
+33	15	sure, especially if they're purposely targeting an individual.	Emphasize	00:13:16,329	00:13:19,432	superstore	Jeff
+33	16	yes, that is bullying, sandra.	Agree	00:13:48,595	00:13:52,031	superstore	Jeff
+34	0	you really got this firing thing down.	Praise	00:14:08,648	00:14:10,350	superstore	Garrett
+34	1	i think he's gonna make a fine associate.	Praise	00:14:10,383	00:14:12,352	superstore	Glenn
+34	2	stop. ow, you're breaking my arm.	Prevent	00:14:12,385	00:14:15,755	superstore	superstore person4
+44	0	that one's my favorite.	Introduce	00:03:31,294	00:03:32,763	superstore	Nico
+44	2	thanks.	Thank	00:03:34,732	00:03:36,033	superstore	Cheyenne
+44	4	uh-huh, that's great. um...	Praise	00:03:39,202	00:03:41,071	superstore	superstore person1
+44	5	how about a kitty cat?	Advise	00:03:41,104	00:03:43,073	superstore	superstore person1
+44	8	i'm so sick of basic people.	Complain	00:03:49,146	00:03:51,481	superstore	Cheyenne
+44	9	not you, your mom.	Explain	00:03:51,514	00:03:53,283	superstore	Cheyenne
+44	10	no, my cousin is getting married in the philippines, and literally everyone i know is going except for me.	Complain	00:03:53,316	00:03:58,088	superstore	Nico
+44	11	aw, you should totally go.	Advise	00:03:58,121	00:04:00,123	superstore	Cheyenne
+44	12	i can't exactly leave the country, remember?	Complain	00:04:00,157	00:04:02,760	superstore	Nico
+44	13	oh, right, because you're...	Agree	00:04:02,793	00:04:04,962	superstore	Cheyenne
+44	14	do you know what  undocumented  means?	Asking for opinions	00:04:06,329	00:04:10,167	superstore	Cheyenne
+44	15	because you're undocumented.	Explain	00:04:10,200	00:04:12,235	superstore	Cheyenne
+44	16	this is so unfair.	Complain	00:04:12,269	00:04:14,738	superstore	Nico
+66	0	come on, i don't know if it's a bulb or a stripped wire.	Complain	00:01:28,622	00:01:31,892	superstore	Glenn
+66	2	my grandmother would kill me for saying this, make such a big deal out of christmas.	Taunt	00:01:37,565	00:01:42,403	superstore	Nico
+66	3	christmas is pretty disappointing and overhyped.	Complain	00:01:44,305	00:01:45,873	superstore	Nico
+66	5	it's about looking back on the year we shared and celebrating it.	Explain	00:01:52,246	00:01:55,649	superstore	Glenn
+66	6	yeah, let's celebrate the year a tornado hit the store.	Taunt	00:01:55,683	00:01:58,152	superstore	Dina
+66	7	my entire apartment got destroyed.	Complain	00:01:58,186	00:01:59,687	superstore	Jonah
+66	8	my boyfriend wound up in a coma.	Complain	00:02:03,591	00:02:05,493	superstore	Sandra
+66	11	i feel like i can get wilder. oh, god.	Flaunt	00:02:20,974	00:02:23,644	superstore	Amy
+66	12	no. i mean, maybe.	Oppose	00:02:25,279	00:02:27,248	superstore	Amy
+66	13	i don't know. i just mean, like...	Explain	00:02:27,281	00:02:29,517	superstore	Amy
+66	14	there's just no way you're doing any of that.	Oppose	00:02:38,959	00:02:40,928	superstore	Cheyenne
+66	15	you guys can call me  craymie.  uh, no, thanks.	Joke	00:02:46,267	00:02:48,769	superstore	Amy
+68	1	it's so christmas, huh?	Praise	00:03:53,577	00:03:55,613	superstore	Glenn
+68	2	but i'm actually trying to limit my carbs right now.	Prevent	00:03:57,581	00:03:59,617	superstore	Nico
+68	3	so just-just try it.	Invite	00:03:59,650	00:04:01,719	superstore	Glenn
+87	0	hey, um, i might need a ride home later today.	Ask for help	00:05:33,200	00:05:36,169	superstore	Amy
+87	1	do you happen to know where kelly lives?	Ask for help	00:05:36,203	00:05:38,005	superstore	Amy
+87	4	okay, yeah, great.	Acknowledge	00:05:42,675	00:05:44,211	superstore	Amy
+87	6	you know, it hasn't actually been that long.	Explain	00:05:57,557	00:05:59,292	superstore	Jonah
+87	7	jonah, relax. it's fine.	Comfort	00:05:59,326	00:06:01,194	superstore	Amy
+87	8	i think it's great. it's great.	Praise	00:06:01,228	00:06:02,662	superstore	Amy
+87	11	i just mean, like,  ah, i can't peel this orange.  it's not exactly a ted talk.	Taunt	00:06:10,637	00:06:15,608	superstore	Amy
+87	12	i like her videos.	Praise	00:06:15,642	00:06:16,743	superstore	Jonah
+87	13	you're just jealous.	Criticize	00:06:19,046	00:06:21,148	superstore	Jonah
+87	14	uh, someone's flattering himself.	Taunt	00:06:21,181	00:06:23,483	superstore	Amy
+87	15	no, i meant jealous that everybody loves her videos.	Explain	00:06:23,516	00:06:27,054	superstore	Jonah
+87	16	yeah, i know that's what you meant.	Acknowledge	00:06:27,087	00:06:29,789	superstore	Amy
+87	18	oh, she filmed herself microwaving ramen and she got 100 people to view it.	Taunt	00:06:32,092	00:06:37,630	superstore	Amy
+87	19	fine. then do it.	Acknowledge	00:06:43,103	00:06:44,504	superstore	Jonah
+87	20	okay, well then, you're on, and i hope you like dead rats.	Taunt	00:06:48,808	00:06:52,245	superstore	Amy
+87	21	me winning bets.	Flaunt	00:06:55,615	00:06:57,784	superstore	Amy
+92	0	hello. glenn sturgis speaking.	Greet	00:09:57,464	00:09:59,499	superstore	Glenn
+92	1	well, hello, mr. nestle.	Greet	00:10:03,336	00:10:04,971	superstore	Glenn
+92	2	trace this call.	Arrange	00:10:05,004	00:10:05,772	superstore	Glenn
+92	3	yeah, i don't have that technology.	Oppose	00:10:05,805	00:10:07,940	superstore	Garrett
+92	4	okay, well, thank you for calling to tell us.	Thank	00:10:12,845	00:10:16,283	superstore	Glenn
+92	5	are you tracing this call?	Confirm	00:10:16,316	00:10:17,950	superstore	Glenn
+92	6	his name's mateo.	Introduce	00:10:23,856	00:10:26,459	superstore	Glenn
+92	7	and i think he's a real dummy!	Criticize	00:10:26,493	00:10:28,361	superstore	Glenn
+92	8	a class a stinker!	Criticize	00:10:28,395	00:10:29,996	superstore	Glenn
+92	11	mr. sturgis, i need to get back to work.	Inform	00:10:34,334	00:10:37,504	superstore	Jonah
+92	12	uh, okay, then.	Acknowledge	00:10:37,537	00:10:38,705	superstore	Glenn
+92	16	lost the trace.	Inform	00:10:49,015	00:10:50,617	superstore	Garrett
+105	0	oh, dina. you're three hours early.	Greet	00:01:50,010	00:01:53,613	superstore	Amy
+105	3	well, i mean, i'm yours. you're my number four.	Explain	00:01:59,419	00:02:01,922	superstore	Dina
+105	5	come on in.	Invite	00:02:04,024	00:02:05,425	superstore	Amy
+105	7	why don't you tackle the walls?	Advise	00:02:08,929	00:02:10,297	superstore	Dina
+105	9	there's no smell. it smells like a regular house.	Oppose	00:02:14,501	00:02:16,937	superstore	Amy
+105	14	yeah, no, i'm not wearing sweats to my party.	Oppose	00:02:25,378	00:02:28,315	superstore	Amy
+105	15	okay, why don't you go change?	Advise	00:02:31,284	00:02:35,022	superstore	Dina
+105	16	and i will do a quick vibrator sweep.	Plan	00:02:35,055	00:02:38,291	superstore	Dina
+132	0	i can't shower in the mornings because cliff, in the adjoining trailer, only takes baths.	Complain	00:07:32,980	00:07:37,217	superstore	Jonah
+132	2	oh, i-i thought you said something.	Explain	00:07:58,038	00:07:59,639	superstore	Jonah
+132	3	i didn't say anything.	Oppose	00:07:59,672	00:08:01,641	superstore	Garrett
+145	0	no talking during  game of thrones.  no cooking fish.	Warn	00:21:00,987	00:21:04,356	superstore	Garrett
+145	1	and leave me out of your coffee-making process.	Warn	00:21:04,390	00:21:06,192	superstore	Garrett
+145	3	i do not like fragrant soaps, on wednesday, my black friends come over, so do not be around.	Warn	00:21:08,928	00:21:14,166	superstore	Garrett
+165	0	you should go with this one.	Advise	00:03:44,925	00:03:46,960	superstore	Kelly
+165	1	it's 4k.	Introduce	00:03:46,994	00:03:47,795	superstore	Kelly
+165	2	oh, um, 4k televisions have 8.3 megapixels.	Introduce	00:03:50,130	00:04:01,909	superstore	Kelly
+165	3	wow. okay, i'll take it.	Agree	00:04:05,979	00:04:08,748	superstore	superstore person2
+165	4	it has all of the channels.	Introduce	00:04:14,154	00:04:17,257	superstore	Kelly
+167	0	okay, as soon as we hit $80,000, drop the balloons, hit the music, get a candid picture of me celebrating with everybody to send to corporate.	Arrange	00:04:53,093	00:04:59,266	superstore	Jeff
+167	1	music and balloons with no dancers?	Confirm	00:05:06,206	00:05:08,141	superstore	Marcus
+167	2	jeff. uh, new hat?	Greet	00:05:11,011	00:05:13,981	superstore	Jonah
+167	3	yeah. i splurged.	Flaunt	00:05:14,014	00:05:15,415	superstore	Jeff
+167	5	well, but earlier you said it would be better.	Doubt	00:05:30,130	00:05:32,465	superstore	Jonah
+167	6	that sounds amazing.	Praise	00:05:36,536	00:05:37,504	superstore	Marcus
+167	7	right.	Acknowledge	00:05:37,537	00:05:39,172	superstore	Amy
+167	8	is there any possibility that it could maybe get worse?	Doubt	00:05:39,206	00:05:43,076	superstore	Amy
+167	9	you know what, there's a lot of liars out there, okay?	Warn	00:05:43,110	00:05:46,346	superstore	Jeff
+167	11	and don't believe everything you hear.	Warn	00:05:48,916	00:05:50,483	superstore	Jeff
+167	12	that's why it's a paradox.	Explain	00:05:55,522	00:05:57,224	superstore	Jeff
+167	13	believe me. it's gonna be great.	Comfort	00:05:59,626	00:06:02,029	superstore	Jeff
+167	14	trust me.	Leave	00:06:02,062	00:06:04,264	superstore	Jeff
+167	15	man, i can't wait for it to be great.	Praise	00:06:04,297	00:06:08,001	superstore	Marcus
+176	0	i can't let you buy these.  why?	Prevent	00:14:21,494	00:14:23,863	superstore	Nico
+176	1	it's been recalled, sorry.	Apologise	00:14:23,896	00:14:25,598	superstore	Nico
+176	2	all right, now it's buzzing at me like it's mad at me.	Complain	00:14:25,632	00:14:28,000	superstore	Kelly
+187	0	mermaid treasure for the treasure hunt.	Introduce	00:03:28,041	00:03:29,777	superstore	Amy
+187	1	like, human garbage would be treasure to them.	Explain	00:03:34,081	00:03:36,984	superstore	Jonah
+187	4	they didn't go extinct.	Oppose	00:03:51,331	00:03:53,133	superstore	Marcus
+187	5	i don't think so.	Oppose	00:03:58,138	00:03:59,673	superstore	Jonah
+187	7	no, i believe in evolution.	Oppose	00:04:04,411	00:04:06,346	superstore	Jonah
+187	8	i'm just saying it's make believe--it's like unicorns.	Emphasize	00:04:06,379	00:04:09,182	superstore	Jonah
+187	9	we don't know that there were never unicorns.	Oppose	00:04:09,216	00:04:11,184	superstore	Sandra
+187	10	i read that we discover like 50 new species of frogs each year.	Introduce	00:04:11,218	00:04:14,888	superstore	Sandra
+187	15	no, you don't.	Oppose	00:04:26,333	00:04:28,035	superstore	Jonah
+187	16	yeah, i do.	Oppose	00:04:28,068	00:04:29,369	superstore	Kelly
+187	17	i used to think kangaroos were real.	Inform	00:04:29,402	00:04:31,304	superstore	Marcus
+202	0	we're not sleeping together.	Oppose	00:17:45,064	00:17:46,332	superstore	Dina
+202	1	that was just a negotiation tactic with glenn.	Explain	00:17:46,365	00:17:48,635	superstore	Dina
+202	2	oh, right.	Acknowledge	00:17:48,668	00:17:51,003	superstore	Marcus
+202	3	of course. smart.	Praise	00:17:51,037	00:17:53,272	superstore	Marcus
+202	4	dina, i'd like you to meet my new surrogate.	Introduce	00:17:57,343	00:18:00,212	superstore	Glenn
+202	5	she's ready to rock.	Inform	00:18:00,246	00:18:01,814	superstore	Glenn
+202	6	isn't that right, sandra?	Confirm	00:18:01,848	00:18:02,915	superstore	Glenn
+202	7	yeah, i'm really excited.	Agree	00:18:02,949	00:18:05,217	superstore	Sandra
+202	8	and i have no problem signing all the paperwork, so let's do it.	Inform	00:18:05,251	00:18:09,622	superstore	Sandra
+202	9	you are gonna leave your baby at the mercy of a person whose judgment is so bad she moved from hawaii to st. louis?	Taunt	00:18:12,793	00:18:19,198	superstore	Dina
+202	10	yes, i am.	Agree	00:18:19,231	00:18:20,833	superstore	Glenn
+202	12	that was just foreplay, all right?	Introduce	00:18:29,308	00:18:30,843	superstore	Dina
+202	13	we're about to get this thing going!	Inform	00:18:30,877	00:18:32,244	superstore	Dina
+202	14	sandra, lift your shirt.	Arrange	00:18:32,278	00:18:34,113	superstore	Glenn
+202	15	marcus, take off your shirt!	Arrange	00:18:34,146	00:18:35,815	superstore	Dina
+202	17	you both know what you're doing, so stop pretending!	Prevent	00:18:49,862	00:18:52,765	superstore	Nico
+202	19	of course i don't want to use sandra.	Agree	00:18:55,434	00:18:57,369	superstore	Glenn
+202	20	who would want to use sandra?	Complain	00:18:57,403	00:18:59,371	superstore	Glenn
+202	21	fine with me.	Agree	00:19:08,981	00:19:10,750	superstore	Dina
+202	22	all right.	Acknowledge	00:19:10,783	00:19:11,884	superstore	Glenn
+209	0	so, word on the street is you are horny and looking for love.	Confirm	00:03:25,372	00:03:30,778	superstore	Marcus
+209	2	shh, shh, look, here's what we're gonna do.	Advise	00:03:40,253	00:03:42,422	superstore	Marcus
+209	4	i will quit right now. no.	Inform	00:04:09,149	00:04:12,119	superstore	Marcus
+216	0	attention cloud 9 shoppers.	Inform	00:09:02,275	00:09:03,676	superstore	Jonah
+216	1	roma tomatoes are now $2.99 a pound.	Inform	00:09:03,710	00:09:07,380	superstore	Jonah
+216	2	that's for sure.	Acknowledge	00:09:11,718	00:09:12,819	superstore	Kelly
+238	0	hey, sandra.	Greet	00:08:12,625	00:08:14,127	superstore	Glenn
+238	1	no one cares. you're not special.	Criticize	00:08:39,519	00:08:41,321	superstore	Sandra
+238	2	this is ridiculous.	Complain	00:08:52,165	00:08:54,101	superstore	superstore person2
+244	1	this is just a witch's broom. why would they recall this?	Doubt	00:15:06,473	00:15:09,141	superstore	Amy
+244	2	oh, i remember this. here.	Introduce	00:15:09,175	00:15:11,944	superstore	Jonah
+244	3	oh, oh, i see it, got it, good recall.	Acknowledge	00:15:13,513	00:15:16,983	superstore	Amy
+244	4	that's very funny, but i can't--i need your help.	Ask for help	00:15:21,654	00:15:24,757	superstore	Amy
+244	5	stop!	Prevent	00:15:24,791	00:15:26,493	superstore	Amy
+244	9	that's enough of that.	Prevent	00:15:45,244	00:15:47,113	superstore	Jonah
+244	10	we actually drank these in the parking lot at the end of my first day here.	Introduce	00:16:02,562	00:16:06,999	superstore	Jonah
+244	11	oh, yeah, i remember that. god, that was a long time ago.	Agree	00:16:07,033	00:16:10,269	superstore	Amy
+244	13	i just thought you were like, naive and useless..	Criticize	00:16:16,576	00:16:20,713	superstore	Amy
+244	14	oh, okay, wow. i can take that.	Agree	00:16:23,049	00:16:24,817	superstore	Jonah
+244	15	uh-huh.	Acknowledge	00:16:26,553	00:16:28,555	superstore	Amy
+244	18	ah.	Acknowledge	00:16:48,207	00:16:51,010	superstore	Amy
+281	0	okay, so, i'm the one who's been stealing the shopping carts, uh, but they're not for me.	Inform	00:07:24,511	00:07:28,381	superstore	superstore person1
+281	4	i've been smoking weed in the stock room on wednesdays and fridays.	Inform	00:07:36,723	00:07:39,559	superstore	superstore person2
+281	5	right under our noses. how awful.	Complain	00:07:39,592	00:07:41,228	superstore	Dina
+281	6	and on mondays and thursdays, i just drink.	Inform	00:07:41,261	00:07:43,630	superstore	superstore person2
+281	8	i stole a pack of sour cherry bubblicious.	Inform	00:07:48,301	00:07:52,239	superstore	Myrtle
+281	12	nice.	Praise	00:08:19,199	00:08:20,067	superstore	Dina
+281	17	what is happening in this store?	Complain	00:08:48,261	00:08:50,130	superstore	Glenn
+281	18	now, you just keep that same face right there...	Arrange	00:08:52,565	00:08:54,834	superstore	Dina
+281	19	that is going on my wall right next to the picture of me with the guy who played balki.	Plan	00:08:56,636	00:09:01,308	superstore	Dina
+288	0	thank you all very much for this going away party.	Thank	00:00:09,117	00:00:11,772	superstore	Jeff
+288	1	i'm sorry, did you bring champagne for one person?	Confirm	00:00:18,953	00:00:22,043	superstore	Amy
+288	2	in a way, this is a celebration of us reuniting.	Inform	00:00:22,086	00:00:25,437	superstore	Nico
+288	5	frankly, i think this is a mismatch.	Criticize	00:00:29,180	00:00:31,661	superstore	Dina
+288	7	hey, why don't we all go around and tell our favorite jeff story?	Advise	00:00:34,403	00:00:38,625	superstore	Glenn
+288	10	i'm going to need that back, actually.	Plan	00:01:02,257	00:01:04,172	superstore	Amy
+288	11	even though we never actually dated, i spent several months telling people we did.	Joke	00:01:07,088	00:01:12,223	superstore	Sandra
+288	16	whoo, what a trip down memory lane, huh?	Praise	00:01:35,464	00:01:39,860	superstore	Glenn
+288	22	so uh, hope you're ready for some competition.	Joke	00:01:58,226	00:02:00,750	superstore	Jeff
+288	24	i'll clean your clock with arm and hammer.	Joke	00:02:04,711	00:02:06,626	superstore	Glenn
+290	2	sorry, dealing with some false advertising there.	Apologise	00:04:23,153	00:04:26,809	superstore	Glenn
+290	5	garrett, i'm sorry, i can't deal with this right now.	Apologise	00:04:40,127	00:04:41,998	superstore	Glenn
+290	7	sorry. hmm.	Apologise	00:04:45,132	00:04:47,525	superstore	Glenn
+290	8	uh, well, you know, jeff offered me a job at target for a dollar more an hour.	Inform	00:04:47,569	00:04:52,443	superstore	Garrett
+290	9	but you don't have to worry about it.	Comfort	00:04:52,487	00:04:54,924	superstore	Garrett
+290	10	because i told him that you would probably match it.	Explain	00:04:54,968	00:04:58,188	superstore	Garrett
+290	11	that bald little weasel!	Criticize	00:04:58,232	00:05:01,409	superstore	Glenn
+290	14	oh, hi jeff, it's glenn sturgis from cloud 9.	Introduce	00:05:12,986	00:05:16,772	superstore	Glenn
+290	15	we need to talk face to face, at your earliest convenience.	Invite	00:05:16,816	00:05:20,776	superstore	Glenn
+293	0	thank you for coming in, jeff.	Thank	00:08:02,938	00:08:05,593	superstore	Jeff
+293	4	but if you start trying to pooch my people, then we are going to have a problem.	Warn	00:08:23,959	00:08:29,095	superstore	Glenn
+293	5	did you mean  poach?	Confirm	00:08:29,138	00:08:30,748	superstore	Jeff
+293	7	because you're not my boss anymore.	Explain	00:08:37,538	00:08:39,540	superstore	Glenn
+293	8	you're just another schmo, like me, down here in the dirt with the rest of us.	Taunt	00:08:39,583	00:08:44,066	superstore	Glenn
+293	9	you don't like it, do you?	Confirm	00:08:45,589	00:08:47,635	superstore	Glenn
+293	12	stop spraying me with the bottle, i'm not lying!	Criticize	00:08:59,603	00:09:02,171	superstore	Jeff
+293	14	one more time.	Warn	00:09:04,565	00:09:06,349	superstore	Jeff
+293	15	spray me one more time.	Warn	00:09:06,393	00:09:08,569	superstore	Jeff
+293	16	you want to poach? let's poach.	Warn	00:09:14,488	00:09:18,448	superstore	Jeff
+293	17	what, no, i don't want to poach.	Oppose	00:09:18,492	00:09:20,233	superstore	Glenn
+296	1	glenn asked you to do a display?	Confirm	00:13:20,342	00:13:22,301	superstore	Nico
+296	3	yeah, yeah, yeah, that's probably it.	Acknowledge	00:13:34,487	00:13:36,532	superstore	Jonah
+299	2	well, you can tell me on your first day, then.	Invite	00:16:20,609	00:16:23,046	superstore	Glenn
+299	3	how would you like to work at the cloud 9 on ozark highlands?	Invite	00:16:23,090	00:16:26,702	superstore	Glenn
+299	5	isn't that the store where they found a foot?	Confirm	00:16:30,401	00:16:32,534	superstore	superstore person2
+299	12	no, i'm going to stay here, because--	Refuse	00:17:03,739	00:17:05,872	superstore	superstore person1
+299	13	hey, excuse me, miss.	Greet	00:17:09,963	00:17:11,704	superstore	Glenn
+299	14	hi, glenn.	Greet	00:17:13,793	00:17:15,359	superstore	Cheyenne
+299	15	sup, cheyenne.	Greet	00:17:15,403	00:17:17,884	superstore	Garrett
+299	17	if you needed a raise, why didn't you come see me?	Advise	00:17:38,469	00:17:40,863	superstore	Glenn
+299	18	i mean, i have a discretionary fund.	Explain	00:17:40,907	00:17:42,343	superstore	Glenn
+299	22	nope, not one. i checked.	Oppose	00:17:55,617	00:17:57,880	superstore	Cheyenne
+321	0	this red area here represents all the money the store spends on utilities.	Introduce	00:18:26,343	00:18:31,131	superstore	Amy
+321	1	amy, that is a big slice of pie.	Praise	00:18:31,174	00:18:33,960	superstore	Jonah
+321	3	i mean, i couldn't finish that.	Explain	00:18:35,265	00:18:36,876	superstore	Amy
+321	4	but when the store shifts over to led and motion sensors, then something happens to that slice of pie.	Introduce	00:18:36,919	00:18:43,404	superstore	Amy
+321	5	next slide. mm.	Arrange	00:18:43,447	00:18:44,623	superstore	Amy
+321	6	that slice gets a lot smaller.	Introduce	00:18:44,666	00:18:47,669	superstore	Amy
+321	8	i'm sorry, was that the donkey from  shrek?	Confirm	00:19:01,335	00:19:03,250	superstore	superstore person1
+321	11	that, i have to admit, is very impressive.	Praise	00:19:20,441	00:19:23,270	superstore	superstore person1
+321	12	oh, i just--i'm sorry. i can't justify keeping her.	Apologise	00:19:31,495	00:19:35,674	superstore	superstore person1
+321	14	very impressive, though, and very good work.	Praise	00:19:46,772	00:19:48,991	superstore	superstore person1
+321	15	i got my eye on you guys.	Leave	00:19:50,166	00:19:51,515	superstore	superstore person1
+328	0	you know, if you buy just one more scarf, you get a free other scarf.	Introduce	00:05:14,335	00:05:20,602	superstore	superstore person1
+328	1	um...	Acknowledge	00:05:20,645	00:05:22,038	superstore	Sandra
+335	0	hey, feel like getting some lunch?	Invite	00:10:52,934	00:10:55,197	superstore	Glenn
+335	1	oh, no, i'm not really hungry.	Refuse	00:10:55,241	00:10:58,896	superstore	superstore person1
+335	2	people aren't buying anything anymore.	Complain	00:10:58,940	00:11:01,203	superstore	superstore person1
+335	3	earlier i was selling a lot, but now people are returning things.	Complain	00:11:01,247	00:11:06,382	superstore	superstore person1
+335	6	i just can't help but kind of feel like a failure as a woman.	Complain	00:11:15,130	00:11:19,265	superstore	superstore person1
+335	7	you know, my lady parts are all dried up.	Complain	00:11:19,308	00:11:23,878	superstore	superstore person1
+335	8	my hair won't hold a perm.	Complain	00:11:28,926	00:11:31,407	superstore	superstore person1
+335	9	when is it jerusha's turn?	Complain	00:11:31,451	00:11:33,627	superstore	superstore person1
+335	10	oh, come on.	Comfort	00:11:33,670	00:11:36,238	superstore	Glenn
+335	11	it'll be fine. sales will pick up.	Comfort	00:11:36,282	00:11:39,415	superstore	Glenn
+335	12	i mean, people love your scarves.	Comfort	00:11:39,459	00:11:42,026	superstore	Glenn
+335	14	no, the--the same.	Oppose	00:11:47,597	00:11:49,947	superstore	Glenn
+335	15	look, it'll get better. i promise.	Comfort	00:11:49,991	00:11:53,516	superstore	Glenn
+358	0	so, i just managed to get us a reservation tonight at the italian place with the irish name that you love.	Inform	00:10:39,268	00:10:45,579	superstore	Jonah
+358	2	it wasn't easy, by the way. they don't have a host that takes reservations, so i had to track down the owner at a spin class.	Explain	00:10:48,799	00:10:54,065	superstore	Jonah
+369	0	it has a mouth! oh, great.	Praise	00:00:04,874	00:00:07,311	superstore	Glenn
+369	1	nobody does a fail video quite like a russian.	Taunt	00:00:07,855	00:00:10,553	superstore	Dina
+369	2	dina, take a look. it's perfect.	Praise	00:00:10,597	00:00:13,121	superstore	superstore person1
+369	3	okay.	Acknowledge	00:00:16,211	00:00:18,039	superstore	superstore person1
+376	1	oh, you've got to be kidding me.	Complain	00:05:26,695	00:05:28,305	superstore	Dina
+386	0	oh, hey, amy. i need your advice.	Ask for help	00:15:35,390	00:15:39,350	superstore	Glenn
+386	1	yeah, right now's not the best time--	Refuse	00:15:39,394	00:15:40,830	superstore	Amy
+386	2	yeah, i want to surprise jerusha with some baby stuff at the party that can work for a boy or girl.	Plan	00:15:40,874	00:15:47,533	superstore	Glenn
+399	0	i might do it again sometime.	Plan	00:08:59,777	00:09:01,953	superstore	Jonah
+399	2	excuse me.	Ask for help	00:09:04,173	00:09:05,435	superstore	superstore person1
+399	3	where can i find the dog food?	Ask for help	00:09:05,479	00:09:07,046	superstore	superstore person1
+401	0	you can't just not talk to me.	Criticize	00:10:46,493	00:10:47,711	superstore	Amy
+401	1	i'm not not talking to you.	Oppose	00:10:47,755	00:10:49,235	superstore	Jonah
+401	2	i just don't want to talk about yesterday.	Explain	00:10:49,278	00:10:51,106	superstore	Jonah
+401	5	uh, okay.	Acknowledge	00:10:54,718	00:10:55,763	superstore	Amy
+401	6	i got two minutes until my break. go.	Inform	00:11:13,172	00:11:15,565	superstore	Jonah
+401	10	hi, adam.	Greet	00:11:33,714	00:11:35,194	superstore	Amy
+401	11	hey, adam. uh, congratulations.	Greet	00:11:37,544	00:11:40,242	superstore	Jonah
+401	12	thanks, man.	Thank	00:11:40,286	00:11:41,678	superstore	Adam
+401	13	congratulations on what?	Doubt	00:11:41,722	00:11:43,332	superstore	Adam
+401	14	uh. so what are you doing here?	Care	00:11:48,468	00:11:50,774	superstore	Amy
+401	15	you left a message saying we needed to talk in person.	Explain	00:11:50,818	00:11:53,299	superstore	Adam
+401	16	i meant, like, after work.	Explain	00:11:53,342	00:11:54,952	superstore	Amy
+401	17	you said it was urgent. i needed batteries anyways.	Explain	00:11:54,996	00:11:57,520	superstore	Adam
+401	18	so i thought since you get a discount.	Explain	00:11:57,564	00:11:59,174	superstore	Adam
+401	19	well, i can't really use my discount on friends, so--	Refuse	00:11:59,218	00:12:02,264	superstore	Amy
+401	21	yo, amy. i left that baby stuff by your locker.	Inform	00:12:06,573	00:12:08,705	superstore	Bo
+401	22	that guy's got great timing.	Praise	00:12:11,491	00:12:13,014	superstore	Jonah
+401	23	no, don't worry. it's--it's yours.	Comfort	00:12:21,240	00:12:23,285	superstore	Amy
+401	24	okay, good. what?	Doubt	00:12:23,329	00:12:26,070	superstore	Adam
+401	25	yep. surprise.	Agree	00:12:26,114	00:12:28,203	superstore	Amy
+401	26	i'm sorry. how did this even--	Doubt	00:12:28,247	00:12:30,074	superstore	Adam
+401	30	this is--this is alex, our beverage rep.	Introduce	00:12:44,698	00:12:47,918	superstore	Amy
+401	31	or i mean, and other things, but we just haven't really discussed labels.	Explain	00:12:47,962	00:12:50,791	superstore	Amy
+401	32	no, no, no, no. you're fine where you are.	Prevent	00:12:52,551	00:12:53,944	superstore	Amy
+401	34	no, this is my ex-husband.	Introduce	00:12:58,978	00:13:00,501	superstore	Amy
+401	35	and we're having a baby together.	Inform	00:13:00,544	00:13:02,111	superstore	Adam
+427	0	hi, i am interested in your decision-making process for new products.	Inform	00:14:08,782	00:14:12,742	superstore	Marcus
+427	3	i am the founder and ceo of boob cheese, cheese from humans.	Introduce	00:14:17,443	00:14:21,403	superstore	Marcus
+432	0	so are we okay?	Care	00:20:05,591	00:20:08,811	superstore	Jonah
+432	2	uh, why don't we just start over?	Advise	00:20:11,771	00:20:14,991	superstore	Amy
+440	0	look what i found over in menswear.	Inform	00:09:34,575	00:09:37,211	superstore	Glenn
+440	1	a good old pair of american blue jeans pants.	Introduce	00:09:37,211	00:09:40,748	superstore	Glenn
+440	3	you guys are way too into brunch.	Taunt	00:09:57,330	00:09:59,933	superstore	Nico
+440	5	what are you-what are you talking about?	Care	00:10:04,037	00:10:05,206	superstore	Jonah
+440	9	are you--mateo, you're an american citizen, right?	Confirm	00:10:11,679	00:10:14,882	superstore	Jonah
+440	10	oh, just 'cause i'm asian, i can't be a citizen?	Doubt	00:10:14,882	00:10:17,985	superstore	Nico
+440	11	no, no, i'm-i'm sorry.	Apologise	00:10:17,985	00:10:19,353	superstore	Jonah
+440	12	it's just that i've read about so many situations where parents bring their kids into the country illegally, and then, you know, they don't even tell them that they're undocumented.	Explain	00:10:19,353	00:10:26,527	superstore	Jonah
+440	14	the...green card store?	Doubt	00:10:31,131	00:10:33,567	superstore	Jonah
+440	15	yeah, they sell green cards and knockoff handbags and bootleg  spider-man  dvds.	Introduce	00:10:33,567	00:10:38,939	superstore	Nico
+453	0	excuse me.	Greet	00:02:09,930	00:02:11,765	superstore	Jeff
+453	1	hi, i'm jeff sutton. i'm the district manager.	Introduce	00:02:11,799	00:02:13,801	superstore	Jeff
+453	2	could i see some id?	Confirm	00:02:13,834	00:02:15,803	superstore	Dina
+453	3	you photograph terribly. never model.	Taunt	00:02:20,941	00:02:22,910	superstore	Dina
+453	5	dina fox, assistant manager.	Introduce	00:02:24,177	00:02:25,913	superstore	Dina
+453	9	okay, i'm gonna have to let corporate know about that.	Inform	00:02:35,188	00:02:39,727	superstore	Jeff
+453	11	no, thank you.	Prevent	00:02:46,717	00:02:47,851	superstore	Jeff
+453	12	no push-ups are necessary today for this.	Prevent	00:02:47,635	00:02:49,470	superstore	Jeff
+453	13	maybe just run outside and grab whoever's in charge and ask them to come in for a meeting?	Advise	00:02:49,803	00:02:53,607	superstore	Jeff
+453	14	of course.	Agree	00:02:53,641	00:02:54,675	superstore	Dina
+453	15	i mean, that's what an assistant manager does, right?	Confirm	00:02:54,708	00:02:56,810	superstore	Dina
+453	17	oh, hi.	Greet	00:03:03,551	00:03:04,852	superstore	Jeff
+454	0	i'm here to talk to the heat.	Inform	00:03:12,092	00:03:13,727	superstore	Dina
+454	1	district manager jeff sutton wants a meeting.	Inform	00:03:15,095	00:03:17,297	superstore	Dina
+454	2	okay, yeah. we'll talk.	Agree	00:03:17,330	00:03:19,667	superstore	Amy
+454	3	all right, break room, ten minutes.	Inform	00:03:21,802	00:03:24,304	superstore	Dina
+454	4	if you're not there by then...	Warn	00:03:24,337	00:03:26,840	superstore	Dina
+454	7	why not try to get more than glenn's job back, right?	Advise	00:03:38,185	00:03:40,854	superstore	Jonah
+454	9	we're not on strike.	Oppose	00:03:42,022	00:03:43,090	superstore	Amy
+454	11	why not ask for things like-like, uh, better health insurance?	Advise	00:03:46,093	00:03:49,997	superstore	Jonah
+454	12	and we don't get paid for overtime, even when we work overtime.	Complain	00:03:50,030	00:03:52,966	superstore	Sandra
+454	14	we need to get glenn's job back.	Inform	00:04:06,814	00:04:08,916	superstore	Amy
+462	0	hey, how's the rat coming?	Care	00:11:27,720	00:11:29,689	superstore	Amy
+462	1	i just gotta hook it up to the valve.	Plan	00:11:30,823	00:11:32,759	superstore	Jonah
+462	2	because the news just got here, and i really want us to look professional.	Explain	00:11:35,728	00:11:38,765	superstore	Amy
+462	3	i'm gonna have you wait in your car, okay?	Arrange	00:11:40,633	00:11:42,602	superstore	Amy
+471	0	you stuck it out as long as you could.	Comfort	00:18:57,504	00:18:59,606	superstore	Amy
+471	1	you're one of the good ones.	Praise	00:18:59,639	00:19:00,807	superstore	Amy
+471	2	yeah, it was tough, but principles.	Emphasize	00:19:00,840	00:19:04,110	superstore	Nico
+476	0	it's just so nice to hear that you actually wanna listen to our concerns.	Thank	00:02:27,014	00:02:30,851	superstore	Amy
+476	1	i'd just like to take a walk around.	Leave	00:02:35,856	00:02:37,525	superstore	Jeff
+476	2	observe how things work. we'll meet later and discuss ways that we can all improve.	Leave	00:02:37,558	00:02:41,695	superstore	Jeff
+476	3	oh, sorry, did you just say,  we can all  improve?	Confirm	00:02:41,729	00:02:45,699	superstore	Amy
+476	4	sure, but... everything is a two-way street.	Agree	00:02:49,069	00:02:52,039	superstore	Jeff
+476	6	you need both, you know?	Advise	00:02:56,710	00:02:57,778	superstore	Jonah
+476	8	yeah, so here's what i'd like to do.	Agree	00:03:04,752	00:03:06,420	superstore	Jeff
+476	11	how about they stop limiting our hours or docking our pay for bathroom breaks?	Complain	00:03:21,034	00:03:26,106	superstore	Amy
+476	12	we are not the ones who need to improve here.	Oppose	00:03:26,139	00:03:28,141	superstore	Amy
+476	16	let's do that today.	Arrange	00:03:51,064	00:03:52,900	superstore	Amy
+476	17	okay, well, let's just be on our game, okay?	Advise	00:03:56,870	00:03:58,939	superstore	Amy
+476	18	okay, you got it.	Agree	00:03:58,972	00:04:01,108	superstore	Jonah
+476	19	attention cloud 9 shoppers, beef products from cloud 9 ranch are now 80% off, but maybe ask yourself why we would do that.	Inform	00:04:01,141	00:04:07,815	superstore	Garrett
+480	0	okay, we need to keep the line moving.	Inform	00:05:59,960	00:06:01,795	superstore	Amy
+480	2	uh, you can just say  hangry  now.	Joke	00:06:04,164	00:06:05,999	superstore	Marcus
+480	3	it's a new word. my friend's cousin made it up.	Introduce	00:06:06,033	00:06:08,135	superstore	Marcus
+480	4	i'll take rolls, veggies, and condiments.	Plan	00:06:09,803	00:06:12,005	superstore	Amy
+480	6	definitely. i'm a quick study, so--	Flaunt	00:06:23,917	00:06:26,053	superstore	Marcus
+480	7	well, maybe i should do-  marcus, that looks really bad.	Care	00:06:28,255	00:06:33,060	superstore	Amy
+480	11	you don't know?	Doubt	00:06:47,841	00:06:50,143	superstore	Amy
+480	12	why don't you check?	Advise	00:06:50,177	00:06:52,045	superstore	Amy
+480	13	we just need to put it in a cold, air-tight container, we'll get it to the hospital, they're reattach it.	Plan	00:07:11,231	00:07:15,836	superstore	Amy
+480	14	mm-hmm.	Acknowledge	00:07:18,171	00:07:20,040	superstore	Amy
+484	0	everyone's gonna wanna see photos of the baby, so...	Explain	00:10:25,358	00:10:28,528	superstore	Cheyenne
+484	1	okay, quick drive to the hospital.	Arrange	00:10:31,264	00:10:34,301	superstore	Amy
+493	2	why do you care if people like you?	Doubt	00:16:34,961	00:16:36,696	superstore	Dina
+493	3	don't try to flip this, okay?	Prevent	00:16:38,431	00:16:39,632	superstore	Jonah
+494	0	i am willing to take that chance.	Inform	00:17:09,562	00:17:11,798	superstore	Amy
+494	1	do you think i'm a memorable person?	Asking for opinions	00:17:11,831	00:17:13,533	superstore	Nico
+494	2	can you please stop asking questions and just go find the thumb?	Ask for help	00:17:13,566	00:17:16,102	superstore	Amy
+508	1	okay. i got it.	Acknowledge	00:10:21,304	00:10:22,839	superstore	Amy
+508	2	i'll clean it up.	Plan	00:10:22,872	00:10:24,641	superstore	Amy
+508	4	oh, hey, babe, what's up?	Care	00:10:35,318	00:10:36,419	superstore	Amy
+516	0	okay, everybody calm down.	Comfort	00:15:07,607	00:15:09,108	superstore	Dina
+516	1	it's just an open carry protest.	Inform	00:15:09,141	00:15:11,010	superstore	Dina
+516	2	gun owners are just exercising their second amendment rights.	Inform	00:15:11,043	00:15:13,546	superstore	Dina
+516	4	they are equally as dangerous.	Warn	00:15:18,885	00:15:20,420	superstore	Garrett
+516	6	no, he doesn't get to win.	Refuse	00:15:34,601	00:15:36,369	superstore	Amy
+516	9	oh, my god, just bang already.	Complain	00:15:42,141	00:15:43,109	superstore	Nico
+516	11	gross.	Complain	00:15:44,577	00:15:45,545	superstore	Jonah
+516	12	we're all feeling emotional, but we're gonna get through this safely together.	Comfort	00:15:47,046	00:15:52,652	superstore	Glenn
+516	13	and then we can go home to our loved ones.	Comfort	00:15:52,685	00:15:55,455	superstore	Glenn
+516	15	they got the same brain-to-body ratio as humans.	Inform	00:16:07,066	00:16:09,469	superstore	Garrett
+525	0	that's my baby sleeping.	Introduce	00:03:42,105	00:03:44,074	superstore	Cheyenne
+525	1	sleeping.	Introduce	00:03:45,208	00:03:46,777	superstore	Cheyenne
+525	3	oh. oh, my gosh, this next one's kind of funny.	Praise	00:03:51,114	00:03:54,885	superstore	Cheyenne
+525	4	especially you, garrett, since your brand is telling it like it is.	Emphasize	00:03:59,056	00:04:02,192	superstore	Nico
+525	5	oh, thank you for noticing.	Thank	00:04:02,225	00:04:03,193	superstore	Garrett
+525	7	no.	Oppose	00:04:15,873	00:04:16,840	superstore	Nico
+525	8	i am so sorry.	Apologise	00:04:16,874	00:04:17,908	superstore	Sandra
+525	9	why do you think he's into you?	Doubt	00:04:19,977	00:04:22,412	superstore	Garrett
+525	10	ooh, jeff is slutty.	Taunt	00:04:34,892	00:04:37,027	superstore	Garrett
+525	13	no, that wasn't it.	Oppose	00:04:49,139	00:04:50,140	superstore	Nico
+539	1	i gotta stop by the hotel first.	Plan	00:16:46,125	00:16:47,894	superstore	Jeff
+539	3	so that's-and after that, though, i was gonna hit the new italian place.	Plan	00:16:51,698	00:16:57,169	superstore	Jeff
+539	5	no, i was just wondering if you wanted to get dinner.	Invite	00:17:02,374	00:17:05,144	superstore	Jeff
+539	6	no, i mean, like, take you out to dinner to the italian place that i just mentioned.	Explain	00:17:09,048	00:17:14,053	superstore	Jeff
+539	7	you're asking me out on a date?	Confirm	00:17:16,923	00:17:18,190	superstore	Nico
+539	8	uh-huh.	Acknowledge	00:17:18,224	00:17:19,191	superstore	Jeff
+539	13	sure, why not?	Agree	00:17:34,240	00:17:35,274	superstore	Nico
+539	14	great.	Praise	00:17:35,307	00:17:36,776	superstore	Jeff
+539	15	oh, my god, i cannot wait to tell garrett that i was right about this.	Flaunt	00:17:36,809	00:17:39,946	superstore	Nico
+556	0	oh, that's okay.	Comfort	00:14:12,384	00:14:13,585	superstore	Cheyenne
+556	2	sure, i'll miss you.	Leave	00:14:20,292	00:14:21,660	superstore	superstore person4
+556	3	thanks.	Thank	00:14:21,693	00:14:22,861	superstore	Amy
+556	4	you cannot go out with that guy.	Inform	00:14:27,633	00:14:28,900	superstore	Amy
+556	5	and because he was your teacher.	Explain	00:14:31,837	00:14:33,405	superstore	Amy
+556	6	do you really need another reason?	Doubt	00:14:33,439	00:14:34,673	superstore	Amy
+556	8	no, it's terrible.	Oppose	00:14:41,580	00:14:42,814	superstore	Amy
+556	10	i'm probably just a little intimidated by his talent, and his looks, and, you know, his face.	Explain	00:14:47,453	00:14:53,492	superstore	Amy
+556	11	he's the whole package.	Praise	00:14:53,525	00:14:55,494	superstore	Amy
+556	12	oh, that's really nice of you to say.	Praise	00:14:55,527	00:14:57,796	superstore	Cheyenne
+556	14	i'm sorry, what?	Care	00:14:59,731	00:15:01,533	superstore	Amy
+556	15	bo doesn't like me?	Doubt	00:15:01,567	00:15:02,934	superstore	Amy
+556	16	yeah, he says you're a poser.	Agree	00:15:02,968	00:15:05,404	superstore	Cheyenne
+556	18	he really called me a poser?	Confirm	00:15:17,983	00:15:19,751	superstore	Amy
+556	19	yeah, a big one.	Agree	00:15:19,785	00:15:21,653	superstore	Cheyenne
+569	0	well, it's halloween, so everything's kind of out of the ordinary.	Explain	00:04:46,554	00:04:49,757	superstore	Janet
+569	1	it's janet.	Explain	00:04:52,593	00:04:54,294	superstore	Janet
+576	0	i have to be home in an hour to trick-or-treat with emma.	Plan	00:10:06,907	00:10:09,176	superstore	Amy
+576	1	don't tell dina.	Inform	00:10:19,687	00:10:22,222	superstore	Amy
+576	3	smart.	Praise	00:10:23,691	00:10:25,593	superstore	Garrett
+588	0	hey. i'm just reminding everyone to vote.	Inform	00:02:19,990	00:02:21,825	superstore	Dina
+588	1	we want a 100% employee turnout.	Inform	00:02:21,859	00:02:23,927	superstore	Dina
+588	2	a lot of people died so you could vote.	Inform	00:02:23,961	00:02:25,629	superstore	Dina
+588	3	also, a lot of horses died.	Inform	00:02:25,663	00:02:27,665	superstore	Dina
+588	5	oh, i'm not 18 yet.	Inform	00:02:29,567	00:02:30,934	superstore	Cheyenne
+588	6	you know, it's funny. i can drink, but i can't vote.	Inform	00:02:30,968	00:02:34,605	superstore	Cheyenne
+588	7	well, i'll be definitely getting my vote on.	Inform	00:02:34,638	00:02:37,007	superstore	Nico
+588	9	okay, good.	Acknowledge	00:02:38,676	00:02:39,643	superstore	Dina
+588	10	also, voting time is unpaid.	Inform	00:02:39,677	00:02:41,879	superstore	Dina
+588	11	nobody paid those horses to die.	Leave	00:02:41,912	00:02:43,781	superstore	Dina
+588	12	cheyenne, can you keep a secret?	Ask for help	00:02:45,949	00:02:47,718	superstore	Nico
+588	14	okay.   a few months ago, i found out that i'm actually undocumented.	Inform	00:02:49,853	00:02:57,628	superstore	Nico
+588	15	okay.	Acknowledge	00:02:59,697	00:03:02,633	superstore	Cheyenne
+588	17	it means that i'm an illegal alien.	Explain	00:03:04,367	00:03:07,771	superstore	Nico
+588	18	no, i'm-i'm human, who happens to live in the country illegally.	Explain	00:03:08,939	00:03:14,778	superstore	Nico
+588	19	oh. that's your secret?	Taunt	00:03:14,812	00:03:17,147	superstore	Cheyenne
+588	21	wait. you know about that?	Care	00:03:19,817	00:03:22,586	superstore	Nico
+588	22	yeah, but don't worry.	Comfort	00:03:22,620	00:03:23,587	superstore	Cheyenne
+588	23	i only told my baby, and she's not gonna tell anybody.	Comfort	00:03:23,621	00:03:26,924	superstore	Cheyenne
+588	25	oh, you can't just get one of those  i voted  stickers and say that you voted?	Advise	00:03:34,632	00:03:39,670	superstore	Cheyenne
+588	26	oh. yeah. right.	Agree	00:03:39,703	00:03:42,773	superstore	Nico
+588	27	you are so much smarter than what i tell people.	Praise	00:03:44,708	00:03:47,344	superstore	Nico
+588	28	aww, thank you.	Thank	00:03:47,377	00:03:49,680	superstore	Cheyenne
+588	29	so, do you love jeff?	Care	00:03:49,713	00:03:52,683	superstore	Cheyenne
+588	30	shut up. i don't know. maybe.	Leave	00:03:52,716	00:03:55,085	superstore	Nico
+590	0	it's totally slanted.	Introduce	00:05:12,763	00:05:14,231	superstore	Amy
+590	1	they're just pushing the pro-business, anti-worker candidates.	Introduce	00:05:14,264	00:05:17,034	superstore	Amy
+590	2	what? a corporation doing something unethical?	Doubt	00:05:17,067	00:05:20,704	superstore	Garrett
+590	3	to protect its interests?	Doubt	00:05:20,738	00:05:22,039	superstore	Garrett
+590	7	hey, marcus?	Greet	00:05:26,243	00:05:27,811	superstore	Amy
+590	8	he's pro-freedom and anti-bad guys, and those are two things i can get behind.	Explain	00:05:29,980	00:05:34,785	superstore	Marcus
+590	9	hey, are we still on for drinks tonight?	Invite	00:05:34,818	00:05:36,920	superstore	Marcus
+590	10	well, we'll figure it out later.	Leave	00:05:39,089	00:05:40,824	superstore	Marcus
+590	12	no, never mind. it's stupid.	Oppose	00:05:49,099	00:05:50,734	superstore	Amy
+590	13	no, i'm gonna say it.	Oppose	00:05:50,768	00:05:52,169	superstore	Amy
+590	14	we should make our own pamphlet with the truth.	Advise	00:05:52,202	00:05:55,806	superstore	Amy
+590	15	ooh.	Acknowledge	00:05:55,839	00:05:56,807	superstore	Jonah
+590	16	a rogue pamphlet?	Doubt	00:05:56,840	00:05:59,176	superstore	Garrett
+590	17	you're crazy, lady.	Oppose	00:05:59,209	00:06:00,744	superstore	Garrett
+590	18	i think that's a great idea, and i have layout experience.	Praise	00:06:00,778	00:06:03,847	superstore	Jonah
+590	20	everyone's busy.	Complain	00:06:17,995	00:06:19,863	superstore	Marcus
+599	2	surprise!	Greet	00:14:12,869	00:14:14,471	superstore	superstore person1
+599	3	oh, hey. hi.	Greet	00:14:14,504	00:14:16,773	superstore	Jonah
+599	4	you said you'd help me pick out some towels.	Explain	00:14:18,275	00:14:20,977	superstore	superstore person1
+599	5	oh, hi. i'm naomi.	Greet	00:14:21,010	00:14:22,779	superstore	superstore person1
+599	6	oh, naomi, this is amy. she's my boss.	Introduce	00:14:22,812	00:14:25,715	superstore	Jonah
+599	7	it's nice to meet you.	Greet	00:14:30,953	00:14:31,921	superstore	superstore person1
+599	8	you too. as well.	Greet	00:14:31,954	00:14:34,757	superstore	Amy
+599	9	yeah.	Acknowledge	00:14:35,825	00:14:36,893	superstore	Amy
+599	10	naomi works the cheese booth at the farmers market by my house.	Introduce	00:14:36,926	00:14:41,531	superstore	Jonah
+599	11	yes, the cheese booth, not the soap booth.	Oppose	00:14:41,564	00:14:43,600	superstore	superstore person1
+599	14	so do you have time now?	Invite	00:14:53,075	00:14:55,745	superstore	superstore person1
+599	15	yeah. of course that's cool.	Agree	00:15:01,918	00:15:03,753	superstore	Amy
+599	16	wow, a new apartment. a new man.	Praise	00:15:03,786	00:15:06,789	superstore	Amy
+599	18	yeah. thanks.	Thank	00:15:08,891	00:15:11,528	superstore	superstore person1
+599	19	okay. all right.	Leave	00:15:13,062	00:15:14,964	superstore	Jonah
+600	1	rats gave birth in the nacho cheese.	Inform	00:15:33,383	00:15:36,586	superstore	superstore person1
+600	2	thank you.	Thank	00:15:44,060	00:15:45,795	superstore	Nico
+605	1	i thought we should talk about all the stuff that went on today.	Advise	00:17:54,924	00:17:58,628	superstore	Glenn
+605	2	yeah. actually, i was thinking the same thing.	Agree	00:17:58,661	00:18:00,763	superstore	Dina
+612	0	i want you to stop parking in it.	Criticize	00:01:36,364	00:01:37,331	superstore	Glenn
+612	1	excuse me. all right, thank you.	Thank	00:01:45,439	00:01:46,474	superstore	Cheyenne
+612	2	okay, everyone. good morning!	Greet	00:01:49,577	00:01:52,446	superstore	Glenn
+612	3	let's settle down. um, 'tis the season.	Inform	00:01:52,480	00:01:55,783	superstore	Glenn
+612	4	and i'd like to give a permanent welcome to all our new temporary workers in the light blue vests.	Inform	00:01:55,816	00:02:02,323	superstore	Glenn
+612	5	now, i haven't put all the faces to the names yet, but i do know that you are reggie and--and we now have a black todd.	Inform	00:02:02,356	00:02:10,030	superstore	Glenn
+612	6	uh, you'll be white todd?	Confirm	00:02:11,665	00:02:13,634	superstore	Glenn
+612	7	and, uh, oh, and this sweetheart here is opal, who, at 90 years old, i think is the oldest employee we've ever had.	Introduce	00:02:13,667	00:02:21,509	superstore	Glenn
+612	8	oh, and lastly, let's give a big cloud 9 welcome to amy's better half, adam dubanowski.	Introduce	00:02:24,478	00:02:30,684	superstore	Glenn
+612	10	he means amy, not me. i'm not gay.	Explain	00:02:44,665	00:02:48,336	superstore	Glenn
+612	11	anyway, if you have any questions about amy, come see me.	Inform	00:02:48,369	00:02:51,071	superstore	Adam
+612	12	i've got all the dirt.	Joke	00:02:51,104	00:02:52,306	superstore	Adam
+612	13	oh, right. sorry, bean.	Apologise	00:02:53,541	00:02:55,509	superstore	Adam
+612	14	all right, uh, moving on. tornado safety--	Inform	00:02:55,543	00:02:57,445	superstore	Glenn
+612	15	is it because you fart a lot?	Joke	00:03:04,452	00:03:05,753	superstore	Nico
+612	16	like this gentleman sitting next to me?	Taunt	00:03:05,786	00:03:07,521	superstore	Nico
+612	17	it's 'cause i'm small, okay?	Explain	00:03:07,555	00:03:09,657	superstore	Amy
+612	20	okay, well, any more questions?	Care	00:03:17,565	00:03:19,367	superstore	Glenn
+615	0	it just kind of makes it hard for me to be the boss.	Complain	00:05:01,935	00:05:04,872	superstore	Amy
+615	1	yeah, sure. no problem.	Agree	00:05:04,905	00:05:07,074	superstore	Adam
+615	2	i really appreciate it.	Thank	00:05:09,109	00:05:10,810	superstore	Amy
+658	1	my stuffing is not what made us sick.	Oppose	00:15:38,130	00:15:40,833	superstore	Amy
+658	2	eating the flesh off of a bird's bones, you savage.	Criticize	00:15:45,672	00:15:47,974	superstore	Dina
+658	3	why are you so weird?	Doubt	00:15:48,007	00:15:48,975	superstore	Garrett
+658	4	why is everyone being so mean to each other?	Complain	00:15:49,008	00:15:51,043	superstore	Dina
+658	5	this is what black friday wants!	Inform	00:15:56,783	00:15:58,751	superstore	Jonah
+658	6	that is a family recipe with a secret ingredient.	Introduce	00:15:58,785	00:16:01,954	superstore	Amy
+658	7	but this is not what black friday is gonna get!	Oppose	00:16:01,988	00:16:05,091	superstore	Jonah
+658	8	oh, cinnamon? boring.	Taunt	00:16:05,124	00:16:07,126	superstore	Nico
+658	9	i have a terrible headache, mateo.	Complain	00:16:31,618	00:16:34,521	superstore	Amy
+658	10	can you please barf quieter?	Ask for help	00:16:34,554	00:16:36,122	superstore	Amy
+658	11	okay, i called corporate to ask for help, and turns out they're closed today 'cause it's a holiday.	Inform	00:16:38,057	00:16:45,064	superstore	Glenn
+658	12	okay.	Agree	00:16:48,435	00:16:49,636	superstore	Glenn
+658	13	yeah, even if everyone in here felt great, we still don't have enough people to cover the floor.	Inform	00:16:50,637	00:16:55,542	superstore	Glenn
+658	14	so we just abandon the store?	Doubt	00:16:55,575	00:16:59,512	superstore	Jonah
+658	16	wait, we're just gonna leave?	Doubt	00:17:07,053	00:17:10,022	superstore	Garrett
+658	19	yo, i don't like working here.	Inform	00:17:27,740	00:17:31,110	superstore	Garrett
+658	20	okay.	Acknowledge	00:17:31,143	00:17:32,479	superstore	Amy
+658	21	but it's my job.	Emphasize	00:17:32,512	00:17:34,547	superstore	Garrett
+658	22	i do the bare minimum, but i don't do less than that.	Inform	00:17:34,581	00:17:37,584	superstore	Garrett
+681	0	this is the best day of my life.	Praise	00:15:16,684	00:15:20,087	superstore	Cheyenne
+681	1	you just had a baby.	Joke	00:15:20,120	00:15:21,922	superstore	Nico
+692	0	what?	Doubt	00:06:34,287	00:06:35,823	superstore	Dina
+692	1	i really hope he dies.	Complain	00:06:38,591	00:06:41,561	superstore	Nico
+700	0	what about the back? would you mind checking the back?	Confirm	00:18:40,733	00:18:42,635	superstore	superstore person1
+700	1	i'm sorry, there's nothing left in the back.	Apologise	00:18:59,185	00:19:02,154	superstore	Cheyenne
+700	2	oh, thanks anyway.	Thank	00:19:02,188	00:19:04,123	superstore	superstore person1
+724	0	um, to be clear, i don't think i can win you.	Explain	00:19:35,909	00:19:39,079	superstore	Jonah
+724	1	i mean--and i wouldn't want to, even if i could.	Explain	00:19:39,712	00:19:43,450	superstore	Jonah
+724	2	i'm a little bit drunk.	Inform	00:19:55,696	00:19:57,931	superstore	Amy
+724	3	we don't talk like that here.	Oppose	00:20:18,085	00:20:20,187	superstore	Jonah
+728	2	so what do we do next? do we--do we call the cops?	Asking for opinions	00:02:32,780	00:02:34,982	superstore	Jonah
+728	3	do we bust her ourselves?	Confirm	00:02:35,015	00:02:36,850	superstore	Jonah
+728	4	easy, cagney.	Comfort	00:02:36,884	00:02:39,052	superstore	Dina
+728	11	you?	Taunt	00:02:49,029	00:02:50,864	superstore	Dina
+728	12	okay, yeah, you're way underqualified.	Taunt	00:02:50,898	00:02:53,901	superstore	Dina
+728	13	what do you need to be qualified?	Asking for opinions	00:02:53,934	00:02:55,969	superstore	Jonah
+728	14	you need to watch a video.	Advise	00:02:56,003	00:02:57,771	superstore	Dina
+757	0	some things were said that i'm sure both parties regret.	Inform	00:09:36,669	00:09:40,440	superstore	Jonah
+757	1	she told me to go to hell. i'm catholic.	Criticize	00:09:40,473	00:09:42,542	superstore	Marcus
+757	2	what's wrong with that? you have a nice smile.	Doubt	00:09:45,995	00:09:47,964	superstore	Marcus
+757	3	but you don't tell me when to smile, marcus.	Criticize	00:09:50,450	00:09:52,519	superstore	Amy
+757	4	fine. i'm sorry if you felt offended.	Apologise	00:09:55,888	00:09:58,325	superstore	Marcus
+757	5	i just forgot how sensitive women can be.	Taunt	00:09:59,359	00:10:01,261	superstore	Marcus
+757	6	marcus, no.	Prevent	00:10:01,294	00:10:02,562	superstore	Jonah
+757	8	well, how's this for sensitive, marcus?	Asking for opinions	00:10:04,331	00:10:06,199	superstore	Amy
+757	9	i am writing you up.	Plan	00:10:06,233	00:10:07,634	superstore	Amy
+757	10	yeah, 'cause you were being like an uptight teacher.	Taunt	00:10:14,207	00:10:16,309	superstore	Marcus
+757	12	more like i'm your superior at a job you used to have, marcus.	Inform	00:10:17,677	00:10:22,449	superstore	Amy
+757	13	you're fired.	Inform	00:10:22,482	00:10:23,683	superstore	Amy
+757	14	no, no, no, no, no, no. no!	Oppose	00:10:25,485	00:10:27,254	superstore	Jonah
+757	15	and it's not  nothing,  all right?	Comfort	00:10:30,257	00:10:32,292	superstore	Jonah
+757	16	marcus, you're fired.	Inform	00:10:42,569	00:10:44,237	superstore	Marcus
+768	1	that must be a real kick in the shins, huh?	Confirm	00:04:35,543	00:04:37,745	superstore	Glenn
+768	3	i've seen, like, seven, but i'm not sure it counts, 'cause it was all at once.	Inform	00:04:40,781	00:04:44,485	superstore	Glenn
+768	4	oh, i'm sorry, is that offensive?	Apologise	00:04:48,689	00:04:49,790	superstore	Glenn
+768	5	do we say doctor now?	Asking for opinions	00:04:49,823	00:04:51,525	superstore	Glenn
+768	6	only to doctors.	Inform	00:04:51,559	00:04:52,693	superstore	superstore person1
+768	7	hey, where should i put these cups?	Asking for opinions	00:04:52,726	00:04:54,595	superstore	Jonah
+768	8	put them over there with the rest of them.	Arrange	00:04:54,628	00:04:56,464	superstore	Glenn
+768	9	i set up a little juice station at the entrance-sort of a healthy treat to get people in the mood.	Introduce	00:04:56,497	00:05:02,536	superstore	Glenn
+768	10	you know, uh, juice actually isn't that healthy.	Inform	00:05:02,570	00:05:05,773	superstore	Jonah
+768	11	it's like the healthiest stuff on the planet.	Inform	00:05:08,576	00:05:10,878	superstore	Glenn
+768	12	fruit juice is loaded with sugar.	Inform	00:05:11,712	00:05:14,382	superstore	superstore person1
+768	13	i guess jonah's right, and i'm something else.	Agree	00:05:16,384	00:05:19,820	superstore	Glenn
+768	14	did you guys see  babe 2: pig in the city?	Asking for opinions	00:05:28,496	00:05:31,098	superstore	Glenn
+768	15	i seem to have wound up with two copies at my house.	Inform	00:05:31,131	00:05:33,934	superstore	Glenn
+779	0	we don't seem to have any training videos about not discussing abortion at work, because we just thought it was so obvious, but you guys managed to surprise us, so good job.	Inform	00:16:20,640	00:16:30,650	superstore	Jeff
+779	1	just the woman who's pregnant with your bi-racial child.	Inform	00:16:40,126	00:16:43,530	superstore	Glenn
+779	4	wait, so you didn't knock her up?	Confirm	00:16:54,841	00:16:56,709	superstore	Marcus
+779	5	well, i am. i'm gay.	Inform	00:17:02,949	00:17:05,752	superstore	Jeff
+779	7	i made it up.   i haven't been dating anyone.	Inform	00:17:09,922	00:17:13,426	superstore	Sandra
+779	9	i'm the one who's been dating jeff.	Inform	00:17:27,774	00:17:28,841	superstore	Nico
+779	11	me and jeff.   does anybody have any questions?	Asking for opinions	00:17:42,221	00:17:45,458	superstore	Nico
+779	12	can we please keep this in this room?	Ask for help	00:17:45,492	00:17:47,494	superstore	Jeff
+779	13	i'm not supposed to be dating anybody from one of the stores.	Inform	00:17:47,527	00:17:49,862	superstore	Jeff
+779	14	but casual sex is okay, right?	Confirm	00:17:49,896	00:17:51,731	superstore	Dina
+779	15	uh, that is correct.	Agree	00:17:54,867	00:17:57,637	superstore	Garrett
+779	17	i'm sorry, it just-we haven't told anybody.	Apologise	00:18:01,173	00:18:02,842	superstore	Garrett
+779	19	what has happened to this store?	Complain	00:18:04,511	00:18:06,713	superstore	Glenn
+779	23	sandra, i'm really sorry.	Apologise	00:18:19,592	00:18:21,828	superstore	Amy
+779	24	no more lies. no more credit card debt from buying myself flowers.	Inform	00:18:24,030	00:18:28,535	superstore	Sandra
+785	0	what? me?	Confirm	00:03:33,040	00:03:35,676	superstore	Glenn
+785	1	huh?   you--are you sure?	Confirm	00:03:35,709	00:03:39,379	superstore	Glenn
+785	2	yeah, you're such a good guy.	Praise	00:03:39,412	00:03:41,114	superstore	Cheyenne
+797	0	excuse me, do you have anymore bug bombs in back?	Ask for help	00:17:23,984	00:17:26,386	superstore	superstore person1
+808	1	okay, thanks for your time.	Thank	00:17:50,819	00:17:52,195	bigbang	Sheldon
+808	3	my apologies. what's your plan?	Asking for opinions	00:18:07,920	00:18:10,171	bigbang	Sheldon
+808	4	it's just a privilege to watch your mind at work.	Taunt	00:18:24,186	00:18:26,854	bigbang	Sheldon
+816	1	thank you again.	Thank	00:08:02,231	00:08:04,274	bigbang	Penny
+816	2	penny?	Greet	00:08:06,611	00:08:07,944	bigbang	Sheldon
+816	4	what's he talking about?	Doubt	00:08:15,411	00:08:17,245	bigbang	Penny
+818	0	morning.	Greet	00:11:00,284	00:11:01,868	bigbang	Leonard
+818	1	i have to say i slept splendidly.	Flaunt	00:11:02,036	00:11:05,372	bigbang	Sheldon
+818	4	a well-known folk cure for insomnia is to break into your neighbor's apartment and clean.	Taunt	00:11:10,127	00:11:14,881	bigbang	Leonard
+818	5	sarcasm?	Doubt	00:11:15,758	00:11:17,425	bigbang	Sheldon
+818	6	you think?	Asking for opinions	00:11:17,593	00:11:18,760	bigbang	Leonard
+818	7	granted, my methods may have been somewhat unorthodox but the end result will be a measurable enhancement to penny's quality of life.	Explain	00:11:19,470	00:11:26,935	bigbang	Sheldon
+818	8	you've convinced me, maybe we should sneak in and shampoo her carpet.	Taunt	00:11:27,103	00:11:30,605	bigbang	Leonard
+818	9	for god's sake, sheldon do i have to hold up a sarcasm sign every time i open my mouth?	Doubt	00:11:33,859	00:11:39,280	bigbang	Leonard
+818	10	no, i do not have a sarcasm sign.	Oppose	00:11:44,078	00:11:46,621	bigbang	Leonard
+818	11	you want some cereal?	Asking for opinions	00:11:47,164	00:11:48,206	bigbang	Sheldon
+818	13	hello, honey puffs.	Greet	00:11:52,002	00:11:54,295	bigbang	Sheldon
+818	15	how did she know it was us?	Doubt	00:12:03,472	00:12:05,473	bigbang	Leonard
+818	17	you came into my apartment while i was sleeping?	Doubt	00:12:17,194	00:12:19,529	bigbang	Penny
+818	18	yes, but only to clean.	Explain	00:12:19,697	00:12:20,864	bigbang	Leonard
+818	19	i'm very, very sorry.	Apologise	00:12:27,830	00:12:28,830	bigbang	Leonard
+818	20	yes, we discussed it at length last night.	Agree	00:12:31,459	00:12:33,501	bigbang	Leonard
+818	22	but it could be sleep apnea. you might wanna see an otorhinolaryngologist.	Advise	00:12:39,508	00:12:43,094	bigbang	Sheldon
+818	24	and what kind of doctor removes shoes from asses?	Doubt	00:12:48,726	00:12:52,187	bigbang	Penny
+818	27	penny, penny, hold on.	Prevent	00:13:21,175	00:13:23,218	bigbang	Leonard
+818	30	you are going to march yourself over there right now and apologize.	Warn	00:13:46,575	00:13:49,869	bigbang	Leonard
+819	1	i'm truly sorry for what happened last night.	Apologise	00:14:12,768	00:14:15,103	bigbang	Sheldon
+819	2	i hope that it won't color your opinion of leonard who is not only a wonderful guy, but also, i hear, a gentle and thorough lover.	Explain	00:14:17,273	00:14:26,114	bigbang	Sheldon
+830	0	no.	Oppose	00:16:44,920	00:16:46,254	bigbang	Leonard
+830	3	we both have people in our lives who wanna nip intestinal polyps in the bud.	Explain	00:17:04,398	00:17:10,903	bigbang	Leonard
+830	4	so, what's new in the world of physics?	Asking for opinions	00:17:16,785	00:17:18,870	bigbang	Penny
+830	6	really? nothing?	Doubt	00:17:22,458	00:17:23,958	bigbang	Penny
+830	8	what's new at the cheesecake factory?	Care	00:17:46,023	00:17:48,024	bigbang	Leonard
+830	10	oh, we do have a chocolate key lime that's moving pretty well.	Inform	00:17:50,819	00:17:55,198	bigbang	Penny
+830	11	good.	Acknowledge	00:17:55,365	00:17:58,826	bigbang	Leonard
+830	12	uh, what about your, uh, hallway friend?	Care	00:18:01,747	00:18:05,917	bigbang	Penny
+830	14	and this thing with doug would just be rebound sex.	Explain	00:18:25,687	00:18:28,523	bigbang	Penny
+830	16	it's just-it's my pattern.	Explain	00:18:33,654	00:18:35,113	bigbang	Penny
+830	17	i'm not sure that i do. um.... is that one 36-hour experience or is that 36 hours spread out over say, one glorious summer?	Doubt	00:18:44,832	00:18:56,050	bigbang	Leonard
+830	18	no. it's usually over a weekend.	Oppose	00:18:56,218	00:18:57,718	bigbang	Penny
+830	19	and trust me, you do not feel good after it.	Inform	00:18:57,886	00:19:00,638	bigbang	Penny
+830	20	well, chafing, right?	Confirm	00:19:01,014	00:19:03,224	bigbang	Leonard
+830	22	of course, yeah. emotional chafing.	Agree	00:19:05,644	00:19:08,563	bigbang	Leonard
+830	23	hey, do you wanna see something cool?	Asking for opinions	00:19:15,612	00:19:17,780	bigbang	Leonard
+830	24	i can make this olive go into this glass without touching it.	Introduce	00:19:19,199	00:19:23,411	bigbang	Leonard
+830	26	actually, it's centripetal force, which is an inward force generated by the glass acting on the olive. ooh.	Explain	00:19:33,964	00:19:40,761	bigbang	Leonard
+830	27	excuse me.	Apologise	00:19:41,597	00:19:42,847	bigbang	Leonard
+840	0	sheldon, your mom made dinner.	Inform	00:12:34,920	00:12:36,421	bigbang	Leonard
+840	7	that is a lovely story.	Praise	00:13:29,767	00:13:31,559	bigbang	Leonard
+840	9	so everybody grab a plate and a pretty placemat that shelly wove.	Arrange	00:13:49,703	00:13:55,250	bigbang	big bang person1
+840	10	has shelly ever freaked out like this before?	Confirm	00:13:55,417	00:13:57,752	bigbang	Penny
+840	17	it pissed our dog off to no end.	Joke	00:14:38,836	00:14:40,795	bigbang	big bang person1
+840	18	you know, you two make a cute couple.	Praise	00:14:42,882	00:14:45,133	bigbang	big bang person1
+840	19	i-no, no. no, we're not a couple. we're singles.	Oppose	00:14:46,635	00:14:49,429	bigbang	Penny
+840	20	two singles. like those individually wrapped slices of cheese that.... or friends.	Joke	00:14:49,597	00:14:58,021	bigbang	big bang person1
+840	21	okay. all right, everybody, it's time to eat.	Arrange	00:15:00,482	00:15:03,109	bigbang	big bang person1
+840	25	oh, my god, this is the best cobbler i've ever had.	Praise	00:15:35,100	00:15:38,019	bigbang	Penny
+840	27	this is ridiculous.	Complain	00:16:05,339	00:16:06,589	bigbang	Leonard
+840	28	you don't hunt, do you?	Confirm	00:16:20,312	00:16:21,813	bigbang	big bang person1
+844	0	hey, how did it go?	Care	00:19:20,409	00:19:21,617	bigbang	Leonard
+851	0	the problem, maureen, is you have boxes for eight different types of  pacific islander,  but only three for what this relationship is.	Explain	00:05:54,622	00:06:01,495	superstore	Dina
+851	1	it doesn't matter. just check the box and let's move on with our lives.	Comfort	00:06:02,896	00:06:06,600	superstore	Garrett
+851	2	maureen, we're gonna need to speak to your supervisor.	Inform	00:06:16,710	00:06:20,113	superstore	Garrett
+859	0	oh, hello, frenchfryguy81.	Greet	00:12:55,943	00:12:58,245	superstore	Amy
+859	1	are you busy spewing hateful things about good people from the comfort of your own...	Doubt	00:13:02,883	00:13:06,854	superstore	Amy
+859	2	i need you to restart the  quantum leap  video.	Ask for help	00:13:17,364	00:13:20,567	superstore	superstore person3
+867	0	okay.	Acknowledge	00:06:27,180	00:06:28,782	superstore	Cheyenne
+867	3	hey, bobbie sue-bobbie sue?	Greet	00:06:49,102	00:06:53,040	superstore	Cheyenne
+874	0	okay, let's give a warm first-day welcome to our newest employee, bo thompson...	Inform	00:01:22,976	00:01:28,716	superstore	Glenn
+874	1	why does his middle finger look so weird?	Doubt	00:01:33,854	00:01:36,023	superstore	Nico
+874	2	bo, maybe you should change.	Advise	00:01:38,726	00:01:40,794	superstore	Cheyenne
+874	3	where am i supposed to find another shirt?	Asking for opinions	00:01:41,795	00:01:43,497	superstore	Bo
+874	5	no, it wasn't.	Oppose	00:01:57,711	00:01:58,612	superstore	Garrett
+874	8	that's not true at all. in fact, just this morning, kristen said she respects how much i don't kiss up.	Oppose	00:02:08,756	00:02:13,293	superstore	Jonah
+874	9	where did you see kristen this morning?	Doubt	00:02:13,326	00:02:16,296	superstore	Glenn
+874	10	hm?	Acknowledge	00:02:16,329	00:02:17,831	superstore	Jonah
+874	11	we, uh, met for breakfast.	Explain	00:02:17,865	00:02:21,869	superstore	Jonah
+874	13	that's what happened.	Agree	00:02:32,580	00:02:33,747	superstore	Jonah
+874	14	and what restaurant is open at, like, 4:00 in the morning?	Doubt	00:02:33,781	00:02:37,618	superstore	Amy
+879	2	sorry, we don't have hot dogs.	Apologise	00:06:52,472	00:06:54,341	superstore	superstore person1
+879	4	we only really serve mexican food.	Explain	00:06:55,876	00:06:58,011	superstore	superstore person1
+879	7	you got it.	Praise	00:07:03,450	00:07:05,052	superstore	superstore person1
+879	10	yeah.	Acknowledge	00:07:11,491	00:07:12,425	superstore	Jonah
+879	12	exactly.	Agree	00:07:20,400	00:07:22,335	superstore	Glenn
+879	13	where were you born?	Care	00:07:25,372	00:07:26,907	superstore	Jonah
+879	16	do jewish people like snow?	Asking for opinions	00:07:28,942	00:07:32,379	superstore	Glenn
+879	20	uh, what's the biggest dog you've ever seen, and why?	Asking for opinions	00:07:43,490	00:07:47,394	superstore	Glenn
+884	0	oh, he's totally packing, right?	Confirm	00:13:12,752	00:13:14,454	superstore	Bo
+884	1	oh, no, no, reggie can't hold an actual weapon.	Oppose	00:13:14,487	00:13:17,457	superstore	Dina
+895	1	an alternate and less likely interpretation is that you could manufacture one.	Joke	00:03:45,141	00:03:49,853	bigbang	Sheldon
+895	3	how so?	Care	00:04:27,684	00:04:28,725	bigbang	Leonard
+895	4	well, what do you think?	Asking for opinions	00:04:34,857	00:04:35,983	bigbang	Leonard
+911	0	hello, penny. hello, kurt.	Greet	00:12:58,694	00:13:00,445	bigbang	Leonard
+911	1	oh, hey, guys. you having a good time?	Greet	00:13:00,613	00:13:02,405	bigbang	Penny
+911	2	what? you're a zebra, right?	Confirm	00:13:08,704	00:13:10,288	bigbang	big bang person4
+911	4	and what are you supposed to be, an elf?	Confirm	00:13:14,543	00:13:16,711	bigbang	big bang person4
+911	5	no, i'm a hobbit.	Oppose	00:13:16,879	00:13:18,087	bigbang	Leonard
+911	7	because he's neither tall nor immortal, and none of us could be the flash.	Explain	00:13:29,433	00:13:33,520	bigbang	Sheldon
+911	9	i'm not. no offense.	Oppose	00:13:41,070	00:13:42,445	bigbang	Sheldon
+911	12	you can't compete with me on an intellectual level and so you're driven to animalistic puffery.	Taunt	00:13:58,587	00:14:04,008	bigbang	Leonard
+911	13	you calling me a puffy animal?	Doubt	00:14:04,176	00:14:06,427	bigbang	big bang person4
+911	15	you're in trouble.	Warn	00:14:23,112	00:14:24,362	bigbang	Sheldon
+911	16	you know, you use a lot of big words for such a little dwarf.	Taunt	00:14:25,239	00:14:28,616	bigbang	big bang person4
+911	20	a hobbit.	Emphasize	00:14:36,792	00:14:37,834	bigbang	Leonard
+911	21	okay, now you're starting to make me mad.	Warn	00:14:45,843	00:14:47,886	bigbang	big bang person4
+911	22	yeah? how about i make a point out of your pointy little head?	Warn	00:15:01,358	00:15:04,360	bigbang	big bang person4
+911	23	there's not going to be a confrontation.	Comfort	00:15:10,492	00:15:12,452	bigbang	Leonard
+911	24	in fact, i doubt if he can even spell confrontation.	Taunt	00:15:12,620	00:15:16,539	bigbang	Leonard
+911	26	i don't care, i'm finishing it. put him down.	Criticize	00:15:27,217	00:15:30,094	bigbang	Penny
+911	27	fine.	Agree	00:15:30,262	00:15:31,846	bigbang	big bang person4
+911	28	you're one lucky little leprechaun.	Taunt	00:15:33,307	00:15:35,934	bigbang	big bang person4
+916	0	ugh. i cannot believe christy let howard into my apartment.	Complain	00:03:03,725	00:03:08,604	bigbang	Penny
+916	2	sure, cut the foreigner in half. there's a billion more where he came from.	Joke	00:03:29,626	00:03:33,587	bigbang	Rajesh
+916	5	this is a complex battle simulation with a steep learning curve.	Introduce	00:03:53,566	00:03:56,735	bigbang	Sheldon
+916	7	mine.	Complain	00:04:06,788	00:04:07,829	bigbang	Sheldon
+916	8	okay, i got this. lock and load, boys.	Invite	00:04:08,998	00:04:12,167	bigbang	Penny
+916	10	okay, it's not good sportsmanship to shoot somebody who's just re-spawned.	Criticize	00:04:22,178	00:04:25,764	bigbang	Sheldon
+916	12	raj, raj, she's got me cornered. cover me.	Ask for help	00:04:29,227	00:04:31,144	bigbang	Sheldon
+916	13	penny, you are on fire.	Praise	00:04:34,816	00:04:35,899	bigbang	Leonard
+916	14	yeah, and so is sheldon.	Thank	00:04:36,067	00:04:38,193	bigbang	Penny
+916	16	wait, sheldon, come back. you forgot something.	Prevent	00:04:46,744	00:04:48,954	bigbang	Penny
+916	17	what?	Doubt	00:04:49,122	00:04:50,205	bigbang	Sheldon
+916	20	gosh. he's kind of a sore loser, isn't he?	Confirm	00:05:03,261	00:05:05,554	bigbang	Penny
+916	22	penny, we make such a good team.	Praise	00:05:11,394	00:05:13,186	bigbang	Leonard
+916	23	maybe we could enter a couple of  halo  tournaments sometime.	Invite	00:05:13,354	00:05:16,148	bigbang	Leonard
+916	27	what do you suppose she meant by that?	Doubt	00:05:28,786	00:05:30,871	bigbang	Rajesh
+916	29	well, she could have said goodbye.	Complain	00:05:40,089	00:05:41,965	bigbang	Sheldon
+916	31	what's wrong?	Care	00:05:50,350	00:05:51,391	bigbang	Leonard
+916	32	well, um, howard and christy are kind of hooking up in my bedroom.	Complain	00:05:51,559	00:05:57,356	bigbang	Penny
+916	33	do you mind if i stay here tonight?	Asking for opinions	00:06:07,784	00:06:09,493	bigbang	Penny
+916	34	no. yeah, take the couch, or my bed. i just got new pillows.	Agree	00:06:09,660	00:06:12,871	bigbang	Leonard
+916	39	frankly, if i could afford the rent, i'd ask you to leave.	Warn	00:06:32,058	00:06:35,102	bigbang	Sheldon
+916	41	are you suggesting that if we let penny stay we might succumb to cannibalism?	Doubt	00:06:51,285	00:06:55,705	bigbang	Leonard
+916	43	it's the fallacy of extending someone's argument to ridiculous proportions and then criticizing the result. and i don't appreciate it.	Complain	00:07:11,013	00:07:17,853	bigbang	Sheldon
+916	44	i'll get you a blanket and a pillow.	Leave	00:07:18,729	00:07:21,106	bigbang	Leonard
+916	45	okay, since i'm obviously being ignored here, let's go over the morning schedule.	Plan	00:07:21,399	00:07:25,735	bigbang	Sheldon
+916	46	i use the bathroom from 7 to 7:20.	Plan	00:07:25,903	00:07:28,447	bigbang	Sheldon
+916	47	plan your ablutions and bodily functions accordingly.	Plan	00:07:28,614	00:07:31,074	bigbang	Sheldon
+916	48	how am i supposed to plan my bodily functions?	Care	00:07:32,577	00:07:34,870	bigbang	Penny
+916	49	i suggest no liquids after 11p.m.	Advise	00:07:35,037	00:07:37,289	bigbang	Sheldon
+916	54	it serves the ancient imperative of protecting oneself against marauders.	Explain	00:07:57,310	00:08:02,063	bigbang	Sheldon
+916	55	anything else i should know?	Care	00:08:07,069	00:08:08,445	bigbang	Penny
+916	56	yes. if you use my toothbrush, i'll jump out that window.	Warn	00:08:08,613	00:08:12,574	bigbang	Sheldon
+916	57	please don't come to my funeral. have a good night.	Leave	00:08:14,076	00:08:16,912	bigbang	Sheldon
+916	59	thanks.	Thank	00:08:29,884	00:08:31,676	bigbang	Penny
+920	0	we can't order chinese food without wolowitz?	Doubt	00:13:59,004	00:14:01,923	bigbang	Leonard
+920	1	do you see the problem?	Asking for opinions	00:14:11,267	00:14:13,184	bigbang	Sheldon
+920	5	fine. what do you wanna eliminate?	Asking for opinions	00:14:27,241	00:14:28,825	bigbang	Sheldon
+920	8	hi, fellas.	Greet	00:14:37,960	00:14:39,252	bigbang	big bang person2
+920	9	oh. where's your annoying little friend who thinks he speaks mandarin?	Care	00:14:39,420	00:14:44,048	bigbang	big bang person2
+920	10	can we get an order of dumplings, but with three instead of four?	Confirm	00:14:55,978	00:14:58,897	bigbang	Leonard
+920	11	no substitutions.	Oppose	00:14:59,064	00:15:00,607	bigbang	big bang person2
+920	12	this isn't a substitution. it's a reduction.	Explain	00:15:00,774	00:15:03,151	bigbang	Leonard
+920	16	if we have extra, we'll just take the leftovers home.	Plan	00:15:17,082	00:15:19,500	bigbang	Leonard
+920	20	can we please make a decision?	Confirm	00:15:36,060	00:15:37,518	bigbang	Rajesh
+920	21	not only are there children starving in india, there's an indian starving right here.	Complain	00:15:37,686	00:15:42,106	bigbang	Rajesh
+920	22	there's an idea. why don't we go out for indian food?	Advise	00:15:43,567	00:15:45,693	bigbang	Leonard
+920	24	you're nice boys.	Praise	00:15:48,155	00:15:49,530	bigbang	big bang person2
+920	29	what about the won tons?	Asking for opinions	00:16:10,719	00:16:12,220	bigbang	Sheldon
+922	1	for god's sakes, sheldon, you are driving me crazy.	Complain	00:18:00,079	00:18:03,539	bigbang	Leonard
+922	2	i'm pretty sure my anger is with you.	Emphasize	00:18:06,210	00:18:07,960	bigbang	Leonard
+922	3	what is happening to us? we're falling apart.	Complain	00:18:08,128	00:18:10,838	bigbang	Rajesh
+923	0	now, raj, jump in the tank.	Arrange	00:20:14,546	00:20:16,047	bigbang	Leonard
+923	2	there's a sniper. use your rocket launcher.	Arrange	00:20:25,891	00:20:28,142	bigbang	Leonard
+923	3	all i've got is a needler and i'm all out of ammo!	Complain	00:20:28,310	00:20:30,561	bigbang	Rajesh
+923	4	sorry, go.	Apologise	00:20:41,323	00:20:42,990	bigbang	Leonard
+928	0	drinks do not work that way.	Oppose	00:12:45,347	00:12:47,682	bigbang	Penny
+946	0	okay, ground rules: no sponge baths and definitely no enemas.	Inform	00:14:13,227	00:14:17,981	bigbang	Penny
+946	1	agreed.	Agree	00:14:18,399	00:14:20,149	bigbang	Sheldon
+955	0	mm. this is really delicious, isn't it?	Praise	00:04:30,770	00:04:34,439	bigbang	Penny
+955	1	still can't talk to me unless you're drunk, huh?	Confirm	00:04:37,527	00:04:40,821	bigbang	Penny
+955	2	oh, sweetie, you are so damaged.	Comfort	00:04:41,781	00:04:45,951	bigbang	Penny
+955	4	how about a hug for howie?	Advise	00:04:49,747	00:04:52,124	bigbang	Howard
+955	6	something you'd like to share?	Care	00:04:59,716	00:05:01,216	bigbang	Leonard
+955	7	a tale of woe perhaps?	Joke	00:05:02,260	00:05:04,636	bigbang	Leonard
+955	11	antonio salieri?	Confirm	00:05:16,274	00:05:17,399	bigbang	Howard
+955	12	oh, god, now even you're smarter than me.	Complain	00:05:18,234	00:05:20,902	bigbang	Sheldon
+955	14	just eat, sheldon. you'll feel better.	Comfort	00:05:27,618	00:05:29,494	bigbang	Leonard
+955	15	why waste food?	Doubt	00:05:29,662	00:05:30,912	bigbang	Sheldon
+955	17	i'm confused. did sheldon stop giving milk?	Doubt	00:05:37,378	00:05:41,173	bigbang	Penny
+955	18	you knew that someday, someone would come along who's younger and smarter.	Comfort	00:05:43,801	00:05:47,262	bigbang	Leonard
+955	20	so you got a little competition. i really don't see what the big deal is.	Comfort	00:05:55,104	00:05:58,482	bigbang	Penny
+955	21	of course you don't. you've never excelled at anything.	Taunt	00:05:58,649	00:06:02,778	bigbang	Sheldon
+955	22	i don't understand, exactly how did he get any friends in the first place?	Complain	00:06:03,780	00:06:07,491	bigbang	Penny
+955	24	what are you gonna do, just give up?	Asking for opinions	00:06:12,330	00:06:14,122	bigbang	Leonard
+970	4	why would they be looking for test subjects here?	Doubt	00:00:28,570	00:00:30,821	bigbang	Rajesh
+970	7	sheldon's office?	Doubt	00:00:43,585	00:00:44,668	bigbang	Leonard
+970	8	is she lost?	Doubt	00:00:46,755	00:00:48,839	bigbang	Leonard
+970	11	hello.	Greet	00:01:14,032	00:01:15,449	bigbang	Sheldon
+970	12	oh, hey, buddy.	Greet	00:01:15,617	00:01:19,036	bigbang	Leonard
+970	13	buddy?	Doubt	00:01:20,288	00:01:22,456	bigbang	Sheldon
+970	14	sorry i'm late. i'm working on a project that may take me up on the next space shuttle.	Apologise	00:01:22,624	00:01:28,337	bigbang	Howard
+970	18	missy, this is leonard and rajesh, and you've already met howard.	Introduce	00:01:42,560	00:01:46,230	bigbang	Sheldon
+970	19	yeah.	Acknowledge	00:01:48,900	00:01:50,275	bigbang	Howard
+970	20	so how do you two know each other?	Doubt	00:01:52,112	00:01:53,737	bigbang	Leonard
+970	21	oh, he once spent nine months with my legs wrapped around his head.	Joke	00:01:54,280	00:01:58,700	bigbang	big bang person1
+970	22	excuse me?	Doubt	00:02:01,204	00:02:03,247	bigbang	Leonard
+970	23	she's my twin sister.	Explain	00:02:03,414	00:02:04,665	bigbang	Sheldon
+970	26	how exactly would one measure a sense of humor?	Doubt	00:02:11,297	00:02:13,799	bigbang	Sheldon
+970	28	i'm sorry, what was your name again?	Apologise	00:02:28,940	00:02:31,233	bigbang	big bang person1
+970	30	so, missy, what brings you all the way from texas?	Care	00:03:24,412	00:03:26,663	bigbang	Leonard
+970	34	and i had to drop off some papers for shelly to sign for my dad's estate.	Plan	00:03:36,799	00:03:40,177	bigbang	big bang person1
+970	35	the papers could've been mailed. mom sent you here to spy on me, didn't she?	Confirm	00:03:40,345	00:03:43,847	bigbang	Sheldon
+970	40	if the wedding's not till tomorrow, why don't you stay with us tonight?	Invite	00:04:00,823	00:04:04,076	bigbang	Leonard
+970	41	oh, i don't think so. shelly doesn't like company.	Oppose	00:04:04,244	00:04:07,204	bigbang	big bang person1
+970	43	they were not friends. they were imaginary colleagues.	Explain	00:04:11,668	00:04:14,753	bigbang	Sheldon
+970	44	look, you're here, and we have plenty of room.	Invite	00:04:15,755	00:04:18,048	bigbang	Leonard
+970	47	and don't ever call me shelly.	Oppose	00:04:29,060	00:04:31,103	bigbang	Sheldon
+970	49	i'll walk you to your car. you're in structure 3, level c, right?	Leave	00:04:33,690	00:04:37,150	bigbang	Howard
+970	50	what just happened?	Doubt	00:04:40,905	00:04:43,240	bigbang	Sheldon
+986	0	no, no.	Oppose	00:04:28,226	00:04:29,685	bigbang	Leonard
+986	1	of course not.	Oppose	00:04:33,564	00:04:34,606	bigbang	Leonard
+986	2	i'm sorry. what were the choices again?	Apologise	00:04:43,616	00:04:45,993	bigbang	Leonard
+986	4	i mean, not you smart.	Explain	00:04:51,708	00:04:52,708	bigbang	Penny
+986	5	you know, and then he just goes and has to humiliate me by writing about me on his blog so the entire world can read it.	Complain	00:04:56,212	00:05:02,676	bigbang	Penny
+986	7	not that i need to know the details of your sex life.	Explain	00:05:16,065	00:05:18,650	bigbang	Leonard
+986	8	i just thought.... never mind.	Explain	00:05:18,818	00:05:22,112	bigbang	Leonard
+986	10	might as well read it, everybody else has. go ahead.	Advise	00:05:24,240	00:05:27,451	bigbang	Penny
+986	11	oh, god, i just feel so betrayed and embarrassed.	Complain	00:05:27,618	00:05:31,038	bigbang	Penny
+986	12	i just wanna crawl into a hole and die.	Complain	00:05:31,205	00:05:34,499	bigbang	Penny
+986	13	okay, well, you know, this isn't that bad.	Comfort	00:05:37,670	00:05:40,172	bigbang	Leonard
+986	14	it just paints the picture of a very affectionate woman who's open to expressing her affection in nontraditional locales.	Comfort	00:05:40,673	00:05:49,306	bigbang	Leonard
+986	18	doesn't that violate the health code or...?	Doubt	00:06:07,408	00:06:09,659	bigbang	Leonard
+986	19	ah, okay.	Acknowledge	00:06:12,538	00:06:14,289	bigbang	Leonard
+986	20	really? do you think i overreacted?	Confirm	00:06:19,837	00:06:22,297	bigbang	Penny
+986	21	no, that would be under-reacting.	Oppose	00:06:28,179	00:06:30,722	bigbang	Leonard
+986	23	yes, you're right.	Agree	00:06:39,023	00:06:40,565	bigbang	Penny
+986	25	what is there to explain? it's all right here.	Doubt	00:06:48,783	00:06:51,243	bigbang	Leonard
+986	26	it's betrayal.	Criticize	00:06:51,411	00:06:53,370	bigbang	Leonard
+986	27	no, you were right the first time.	Oppose	00:06:53,538	00:06:55,789	bigbang	Penny
+986	29	i'm pretty sure i never said that.	Oppose	00:07:03,506	00:07:06,091	bigbang	Leonard
+986	30	no, you did better than that. you helped me see it on my own.	Praise	00:07:06,676	00:07:09,761	bigbang	Penny
+990	0	okay, so here's the thing.	Inform	00:12:22,908	00:12:25,285	bigbang	Penny
+990	1	i guess you're aware that leonard asked me out.	Inform	00:12:25,453	00:12:28,413	bigbang	Penny
+990	3	oh, that's nice.	Praise	00:12:37,173	00:12:39,090	bigbang	Penny
+990	5	you see, i don't spend much time here, and so i've never chosen a place to sit.	Explain	00:12:50,936	00:12:54,689	bigbang	Sheldon
+990	7	there are a number of options and.... i'm really not familiar enough with the cushion densities air-flow patterns and dispersion of sunlight to make an informed choice.	Explain	00:12:56,942	00:13:07,118	bigbang	Sheldon
+990	8	why don't you pick at random, if you don't like it, sit somewhere else next time?	Advise	00:13:07,286	00:13:11,039	bigbang	Penny
+990	9	no, no, that's crazy.	Refuse	00:13:11,207	00:13:13,208	bigbang	Sheldon
+990	10	you go ahead and talk while i figure it out.	Inform	00:13:14,627	00:13:18,046	bigbang	Sheldon
+990	11	okay.	Acknowledge	00:13:18,923	00:13:19,964	bigbang	Penny
+990	12	well, i suppose so.	Agree	00:13:29,225	00:13:30,475	bigbang	Sheldon
+990	13	leonard isn't the kind of guy anyone usually goes out with.	Inform	00:13:45,825	00:13:49,285	bigbang	Sheldon
+990	14	would you be open to rotating the couch clockwise 30 degrees?	Asking for opinions	00:13:50,204	00:13:53,081	bigbang	Sheldon
+990	15	no. what i'm saying is, leonard might be different in a good way.	Explain	00:13:53,249	00:13:57,710	bigbang	Penny
+990	19	but on the other hand if things don't go well with leonard, i risk losing a really good friend.	Explain	00:14:09,640	00:14:14,435	bigbang	Penny
+990	20	i mean, he's not looking for a fling.	Explain	00:14:14,603	00:14:16,354	bigbang	Penny
+990	21	i would not say that.	Oppose	00:14:20,651	00:14:21,776	bigbang	Sheldon
+990	22	no one would say that. a light-year is a unit of distance, not time.	Explain	00:14:22,945	00:14:26,573	bigbang	Sheldon
+990	23	thank you for the clarification.	Thank	00:14:26,740	00:14:28,783	bigbang	Penny
+990	26	right. thanks.	Thank	00:14:45,217	00:14:46,384	bigbang	Penny
+990	28	do you have anything to say that has anything to do with, you know, what i'm talking about?	Asking for opinions	00:14:55,394	00:15:00,064	bigbang	Penny
+990	30	we might consider schrödinger's cat.	Advise	00:15:03,152	00:15:05,153	bigbang	Sheldon
+990	31	no, that's mrs. grossinger.	Oppose	00:15:08,574	00:15:09,824	bigbang	Sheldon
+990	33	sorry, you diverted me.	Apologise	00:15:16,415	00:15:17,665	bigbang	Sheldon
+990	34	anyway, in 1935, erwin schrödinger, in an attempt to explain the copenhagen interpretation of quantum physics, he proposed an experiment.	Introduce	00:15:17,833	00:15:26,090	bigbang	Sheldon
+990	35	a cat is placed in a box with a sealed vial of poison that will break open at a random time.	Introduce	00:15:26,258	00:15:31,971	bigbang	Sheldon
+990	36	now, since no one knows when or if the poison has been released until the box is opened, the cat can be thought of as both alive and dead.	Introduce	00:15:32,139	00:15:41,606	bigbang	Sheldon
+990	37	i'm sorry, i don't get the point.	Apologise	00:15:46,654	00:15:48,196	bigbang	Penny
+990	39	just like schrödinger's cat, your potential relationship with leonard right now can be thought of as both good and bad.	Explain	00:15:57,039	00:16:03,544	bigbang	Sheldon
+990	40	no, no, no.	Oppose	00:16:11,553	00:16:13,554	bigbang	Sheldon
+1023	0	good morning.	Greet	00:18:23,018	00:18:24,936	bigbang	Rajesh
+1023	2	really? why?	Doubt	00:18:32,402	00:18:33,444	bigbang	Howard
+1023	5	yep.	Acknowledge	00:18:49,962	00:18:51,295	bigbang	Leonard
+1081	1	ross, i feel terrible.	Complain	00:15:03,736	00:15:05,570	friends	Joey
+1081	3	you, uh, want me to help you with that?	Confirm	00:15:14,663	00:15:16,623	friends	Joey
+1081	5	no, i know ross. but what's it short for?	Explain	00:15:27,635	00:15:30,511	friends	Joey
+1081	9	oh.	Acknowledge	00:15:38,604	00:15:40,271	friends	Joey
+1081	10	it's pretty.	Praise	00:15:40,481	00:15:41,522	friends	Joey
+1081	13	actually, i'm a paleon... dinosaurs is fine.	Emphasize	00:16:00,584	00:16:05,964	friends	Ross
+1081	14	the drawing is not.	Oppose	00:16:06,465	00:16:08,049	friends	Ross
+1081	15	all right. uh, who do you want as your emergency contact?	Asking for opinions	00:16:12,805	00:16:16,057	friends	Joey
+1081	18	i don't think that we are.	Oppose	00:16:32,616	00:16:34,659	friends	Ross
+1081	21	come on, ross, that didn't mean anything.	Comfort	00:16:42,960	00:16:45,086	friends	Joey
+1090	0	hi. um, my name's rachel green. i have an appointment for emma.	Greet	00:11:42,535	00:11:46,037	friends	Rachel
+1090	1	dr. gettleman is finishing up with a patient. he'll be out shortly.	Inform	00:11:46,205	00:11:49,416	friends	friends person1
+1090	2	okay, thank you.	Thank	00:11:49,583	00:11:50,625	friends	Rachel
+1090	3	thanks, doctor.	Thank	00:11:54,004	00:11:55,296	friends	Ross
+1112	0	hello.	Greet	00:00:18,143	00:00:19,476	friends	Chandler
+1112	3	oh, and the people are so nice.	Praise	00:00:37,328	00:00:39,288	friends	Monica
+1112	4	chandler, you will love him.	Inform	00:00:42,167	00:00:44,293	friends	Monica
+1112	5	he is without a doubt the funniest guy i have ever met.	Praise	00:00:44,461	00:00:47,254	friends	Monica
+1126	2	oh. thank you.	Thank	00:09:05,253	00:09:07,128	friends	Phoebe
+1126	5	mom, dad, this is phoebe.	Introduce	00:09:15,805	00:09:17,389	friends	friends person1
+1126	6	phoebe, these are my parents, theodore and bitsy.	Introduce	00:09:17,598	00:09:20,267	friends	friends person1
+1126	7	your home is lovely.	Praise	00:09:30,861	00:09:33,238	friends	Phoebe
+1126	8	thank you. i'll give you a tour later. it's actually three floors.	Introduce	00:09:33,781	00:09:37,242	friends	friends person2
+1126	10	oh. why don't you come meet our friends?	Invite	00:09:40,538	00:09:43,915	friends	friends person2
+1126	12	i'm sure they will, but you don't have to do this.	Comfort	00:09:50,298	00:09:52,716	friends	friends person1
+1126	13	phoebe, these are our friends tom and sue engel.	Introduce	00:10:03,686	00:10:07,147	friends	friends person3
+1126	15	well, all right. um, originally, i'm from upstate but, um, then my mom killed herself, and my stepdad went to prison.	Introduce	00:10:14,030	00:10:20,994	friends	Phoebe
+1126	16	so i moved to the city where, um, i lived in a burned-out buick lesabre for a while.	Introduce	00:10:21,203	00:10:26,833	friends	Phoebe
+1126	18	and, um, anyway, now i'm a, um, freelance massage therapist um, which isn't always steady money, but at least i don't pay taxes.	Introduce	00:10:37,845	00:10:47,395	friends	Phoebe
+1126	19	though maybe just a little less  pimp spit.    okay.	Advise	00:11:15,216	00:11:19,010	friends	friends person1
+1126	22	yes. i'm sorry. i've never met a boyfriend's parents before.	Apologise	00:11:57,049	00:12:01,094	friends	Phoebe
+1126	23	but, i mean, you have met humans before, right?	Confirm	00:12:01,303	00:12:03,930	friends	friends person1
+1126	24	why don't you go talk to my mom?	Advise	00:12:04,515	00:12:06,349	friends	friends person1
+1126	26	oh, bitsy? um, uh, listen, i wanted to thank you again for having me here tonight.	Thank	00:12:16,819	00:12:21,114	friends	Phoebe
+1126	28	also, um, i just want you to know what a wonderful man your son is.	Praise	00:12:22,742	00:12:26,286	friends	Phoebe
+1126	29	especially to you, because he's very respectful of women.	Praise	00:12:31,167	00:12:34,210	friends	Phoebe
+1126	30	no, don't get me wrong. no, not in like a sissy way.	Explain	00:12:49,351	00:12:52,896	friends	Phoebe
+1126	33	awesome.	Praise	00:13:11,332	00:13:12,415	friends	friends person1
+1132	0	hey, you guys. this is my sister amy.	Introduce	00:08:27,715	00:08:30,926	friends	Rachel
+1132	1	this is chandler, joey, phoebe, and you know mon.	Introduce	00:08:31,093	00:08:34,554	friends	Rachel
+1132	3	yeah.	Acknowledge	00:08:39,435	00:08:40,810	friends	Joey
+1132	7	thank you, amy.	Thank	00:09:45,001	00:09:47,210	friends	Ross
+1132	11	that's a great movie!	Praise	00:09:59,265	00:10:01,600	friends	Phoebe
+1132	12	but i was thinking about changing her name.	Plan	00:10:08,983	00:10:11,276	friends	friends person1
+1132	17	why does she keep making that noise?	Asking for opinions	00:10:25,499	00:10:28,501	friends	friends person1
+1132	20	i don't believe this. hold on a second. you guys die and i don't get your baby?	Doubt	00:10:53,277	00:10:58,615	friends	friends person1
+1132	21	amy, see, we're a lot closer to monica and chandler.	Explain	00:10:58,824	00:11:02,160	friends	Rachel
+1132	22	we see them every day. and truthfully, you don't seem connected to the baby.	Explain	00:11:02,328	00:11:06,581	friends	Rachel
+1132	27	seriously?	Doubt	00:11:38,531	00:11:40,073	friends	friends person1
+1132	28	everyone, we're using our fancy china and it's very expensive, so please be careful.	Inform	00:11:47,873	00:11:54,671	friends	Monica
+1143	0	hey, buddy.	Greet	00:16:14,014	00:16:15,807	friends	friends person1
+1143	1	uh, hi.	Greet	00:16:17,101	00:16:19,394	friends	Ross
+1147	0	here's your ticket.	Inform	00:20:26,141	00:20:27,558	friends	Joey
+1147	1	thanks. hey, listen i'm never gonna lie to you again, okay?	Thank	00:20:27,726	00:20:32,730	friends	Chandler
+1147	2	thanks, man.	Thank	00:20:36,860	00:20:38,069	friends	Joey
+1168	0	now that i'm back, why don't you just fill me in on what you've been up to?	Asking for opinions	00:13:34,313	00:13:38,942	friends	Rachel
+1168	1	well, i've changed your screen saver from that picture of *nsync.	Inform	00:13:39,109	00:13:43,071	friends	friends person1
+1168	3	oh, no. i see what you're doing here, all right?	Oppose	00:13:54,792	00:13:56,960	friends	Rachel
+1168	4	oh, god. you've totally messed with the back support on my chair.	Complain	00:14:06,011	00:14:09,639	friends	Rachel
+1168	5	all right, fill me in.	Inform	00:14:22,403	00:14:23,987	friends	Rachel
+1181	0	oh, hi.	Greet	00:13:32,520	00:13:34,562	friends	Monica
+1181	1	i still can't believe you invited gavin.	Complain	00:13:34,730	00:13:36,773	friends	Rachel
+1181	3	maybe he keeps bothering you so much because he likes you.	Explain	00:13:50,079	00:13:53,122	friends	Monica
+1181	9	hey, rach. so can i sing  happy birthday  to you now?	Confirm	00:14:25,114	00:14:27,574	friends	Joey
+1181	10	see you later.	Leave	00:14:32,955	00:14:35,039	friends	Joey
+1181	11	hey, rach. somebody got you shoes.	Inform	00:14:35,958	00:14:37,792	friends	Monica
+1181	14	oh, you brought rats to my birthday party?	Doubt	00:14:56,020	00:14:59,689	friends	Rachel
+1181	18	are you comparing my daughter to a rat?	Doubt	00:15:13,746	00:15:16,623	friends	Rachel
+1181	19	no. seven rats.	Oppose	00:15:16,832	00:15:18,791	friends	Phoebe
+1181	20	well, i'm sorry, rachel, but i'm not like you. okay?	Apologise	00:15:25,841	00:15:28,217	friends	Phoebe
+1182	1	right behind you, big guy.	Inform	00:15:49,281	00:15:51,950	friends	Chandler
+1187	2	no, i totally disagree. i think it's fine for a guy to do something like that.	Oppose	00:03:07,062	00:03:11,025	friends	Monica
+1187	4	before i forget, are you coming to mike's piano bar tonight?	Invite	00:03:37,843	00:03:40,804	friends	Phoebe
+1187	8	nope. nope. it's not working on me.	Oppose	00:04:06,413	00:04:09,875	friends	Monica
+1187	9	wow, i must be growing up.	Flaunt	00:04:10,042	00:04:13,087	friends	Monica
+1187	10	okay, fine. just please come and support mike. you don't have to sing.	Ask for help	00:04:14,755	00:04:19,134	friends	Phoebe
+1187	11	hi, you guys. listen, i really need your help.	Ask for help	00:04:28,435	00:04:30,938	friends	Rachel
+1187	16	oh, yeah.	Acknowledge	00:04:55,629	00:04:57,214	friends	Monica
+1187	21	sounds like you need to think about what you want and talk to gavin.	Advise	00:05:30,372	00:05:33,917	friends	Monica
+1187	22	wow! five months maternity leave, you're back for four days kiss a co-worker and call in sick. they are lucky to have you.	Taunt	00:05:42,843	00:05:50,267	friends	Phoebe
+1197	2	wait a minute. you haven't even told her you are a doctor yet?	Confirm	00:25:57,181	00:26:00,309	friends	Rachel
+1197	3	actually, about an hour and a half.	Emphasize	00:26:02,645	00:26:05,773	friends	friends person1
+1197	5	you feel that too? oh!	Confirm	00:26:10,695	00:26:13,030	friends	friends person1
+1197	6	i don't know. are we just kissing guys on balconies?	Taunt	00:26:27,920	00:26:30,464	friends	Ross
+1197	8	score.	Praise	00:27:14,383	00:27:16,344	friends	Rachel
+1197	11	because you've been out there in bars and on balconies for over a month now. and you don't even have the courtesy to tell me.	Criticize	00:27:49,627	00:27:57,259	friends	Ross
+1197	12	from the guy in the bar? why didn't i get that message?	Doubt	00:28:01,138	00:28:04,934	friends	Rachel
+1197	13	because i folded it up and put it in my pants pocket.	Explain	00:28:05,142	00:28:08,312	friends	Ross
+1197	17	who do you think you are? who are you to decide what messages i should or should not get?!	Criticize	00:28:26,789	00:28:32,628	friends	Rachel
+1197	18	i actually came in here hoping to have a mature conversation about us.	Explain	00:28:39,385	00:28:43,597	friends	Rachel
+1197	20	that's not the point, okay? the point is you are the one who moved on and didn't tell anyone.	Criticize	00:28:56,569	00:29:03,784	friends	Ross
+1197	21	oh, god, ross, this is just so messed up.	Complain	00:29:03,993	00:29:08,122	friends	Rachel
+1197	23	so, what do you wanna do?	Asking for opinions	00:29:43,574	00:29:46,035	friends	Ross
+1229	0	because i told everyone he slept with dinosaurs.	Explain	00:06:44,058	00:06:47,228	friends	Chandler
+1229	2	hello?	Greet	00:07:01,868	00:07:03,035	friends	Monica
+1229	8	i'm so gonna get back at ross.	Plan	00:07:23,139	00:07:25,933	friends	Chandler
+1229	10	i'm dead?	Doubt	00:07:36,527	00:07:39,071	friends	Ross
+1229	12	posting that i died? that really isn't funny.	Criticize	00:07:43,784	00:07:47,580	friends	Ross
+1229	14	oh, please. hit by a blimp?	Doubt	00:07:49,957	00:07:52,627	friends	Ross
+1229	16	unbelievable. my classmates are gonna think i'm dead.	Complain	00:07:58,299	00:08:01,594	friends	Ross
+1229	18	you're messing with people's feelings here.	Criticize	00:08:05,014	00:08:07,016	friends	Ross
+1229	19	you wanna talk about people's feelings?	Doubt	00:08:07,224	00:08:08,768	friends	Chandler
+1229	20	you should have heard how hurt professor stern was when i told him i wouldn't be able to go with him to key west!	Complain	00:08:08,935	00:08:14,231	friends	Chandler
+1229	21	you've really crossed a line here. but that's okay.	Criticize	00:08:15,900	00:08:18,778	friends	Ross
+1239	2	you assume because i was heavy that's the only way i could win something?	Doubt	00:03:19,575	00:03:23,078	friends	Monica
+1239	4	they're towing a car.	Inform	00:03:34,715	00:03:37,301	friends	Ross
+1239	6	ross, you don't have emma! rachel, you don't have emma!	Inform	00:03:41,388	00:03:44,058	friends	Joey
+1239	10	well, there's two spots left, right?	Confirm	00:04:59,925	00:05:01,802	friends	Rachel
+1239	15	i thought we could use some extra luck so i brought a wishbone home from work.	Inform	00:05:20,571	00:05:24,867	friends	Monica
+1239	16	a psychic and a wishbone? guys, give someone else a chance.	Taunt	00:05:25,075	00:05:31,540	friends	Ross
+1239	19	i don't want that turkey smell all over my hands.	Refuse	00:05:46,055	00:05:48,432	friends	Rachel
+1239	22	but you're wishing for what we think, aren't you?	Confirm	00:06:10,954	00:06:13,499	friends	Monica
+1239	27	that thing gets hot!	Complain	00:06:32,601	00:06:34,645	friends	Ross
+1239	28	how are you gonna feel if we actually do win?	Asking for opinions	00:06:36,647	00:06:38,857	friends	Rachel
+1239	29	why would i eat my own arm?	Doubt	00:07:11,265	00:07:12,724	friends	Ross
+1239	33	but just the fact that you want me to have fun with you guys, that's so sweet.	Praise	00:07:37,833	00:07:41,712	friends	Ross
+1239	35	so now that you're in, what are you gonna do if we win?	Asking for opinions	00:07:50,345	00:07:53,015	friends	Chandler
+1239	38	you won't let me buy the knicks? i can't believe you're taking this away.	Doubt	00:08:23,962	00:08:27,466	friends	Joey
+1239	40	oh, i've gotten into the habit of calling rachel  mommy  when we're around emma.	Explain	00:08:41,188	00:08:45,984	friends	Ross
+1239	44	i, uh-i was just talking about rachel.	Explain	00:09:05,671	00:09:08,549	friends	Ross
+1239	47	what? susan got it? how?	Doubt	00:09:31,947	00:09:34,491	friends	Chandler
+1239	51	we divide them into six groups of 40.	Arrange	00:10:06,898	00:10:08,942	friends	Monica
+1239	52	the remaining 10 can be read by whoever finishes first.	Inform	00:10:09,109	00:10:12,154	friends	Monica
+1239	54	heh. uh, no, you didn't. you must be mistaken.	Oppose	00:10:26,001	00:10:30,380	friends	Monica
+1239	55	okay, fine. i bought 20 extra tickets for me and chandler.	Acknowledge	00:10:40,682	00:10:44,102	friends	Monica
+1239	58	i was with you the whole time. when did you even get those?	Doubt	00:10:59,034	00:11:03,163	friends	Joey
+1239	61	how are you gonna feel when you win and lose your friends?	Asking for opinions	00:11:14,383	00:11:17,219	friends	Rachel
+1239	62	chandler, would you just tell her what she did was wrong?	Confirm	00:11:26,645	00:11:29,856	friends	Rachel
+1239	63	fine. don't be my friends. i'll buy new friends.	Taunt	00:11:50,544	00:11:55,257	friends	Monica
+1239	64	i want my tickets too! and i'm buying the knicks!	Plan	00:12:03,390	00:12:05,892	friends	Joey
+1239	66	cool. then i want mine too! and if i win i'm gonna put it all into a very low-yield bond!	Plan	00:12:08,687	00:12:14,401	friends	Ross
+1239	67	no. no, we should divide them up and i should get extra because we used my car!	Prevent	00:12:19,114	00:12:23,744	friends	Monica
+1239	68	just give them to me, and i'll split them up!	Arrange	00:12:32,544	00:12:35,046	friends	Rachel
+1239	69	god, i can't take it anymore! i'm putting an end to this!	Complain	00:12:40,093	00:12:43,138	friends	Phoebe
+1241	0	what a beautiful night to be running around the street, looking for tickets.	Joke	00:13:52,040	00:13:56,378	friends	Phoebe
+1241	1	and the wind sure made it fun.	Joke	00:13:57,128	00:13:59,339	friends	Phoebe
+1241	3	weird your psychic didn't mention anything about the scary pigeon.	Taunt	00:14:08,723	00:14:12,477	friends	Ross
+1241	5	so excuse me for being a little skittish.	Apologise	00:14:17,774	00:14:22,070	friends	Phoebe
+1241	6	there's two messages. this could be from work.	Inform	00:14:22,237	00:14:24,406	friends	Chandler
+1241	8	gosh, i'm so sorry, honey.	Apologise	00:15:11,244	00:15:13,997	friends	Monica
+1241	9	it is so unfair. it's like that time they promoted saundra over me at work.	Complain	00:15:15,874	00:15:20,795	friends	Rachel
+1241	10	was she related to ralph lauren?	Confirm	00:15:21,004	00:15:22,714	friends	Chandler
+1241	11	no, she was just much better at her job than me.	Explain	00:15:22,923	00:15:26,593	friends	Rachel
+1241	12	you guys, the drawing's about to start.	Inform	00:15:26,801	00:15:28,637	friends	Phoebe
+1241	13	honey, you're being really strong about this.	Praise	00:15:34,517	00:15:37,312	friends	Monica
+1241	19	phoebe's totally ruined that for me.	Complain	00:16:00,460	00:16:03,129	friends	Ross
+1241	20	hi, mom. put her back on.	Greet	00:16:06,758	00:16:08,259	friends	Rachel
+1241	22	come on!	Invite	00:16:25,944	00:16:26,987	friends	Ross
+1241	23	mom, please, i know you love your new lips, but i can barely understand you.	Complain	00:16:27,195	00:16:32,659	friends	Rachel
+1241	24	would you please just let me say good night to my daughter?	Confirm	00:16:32,826	00:16:35,954	friends	Rachel
+1241	25	all right, check your numbers! make me rich.	Inform	00:16:38,748	00:16:42,460	friends	Monica
+1241	26	you guys, you're not gonna believe this.	Inform	00:16:43,920	00:16:45,922	friends	Rachel
+1241	30	why aren't you more excited?	Doubt	00:17:05,066	00:17:06,776	friends	Rachel
+1241	31	rach, heh,  gleba  is not a word.	Explain	00:17:07,527	00:17:11,239	friends	Ross
+1241	34	here it is!  the fleshy, spore-bearing inner mass of a certain fungi.  heh.	Introduce	00:17:54,449	00:18:04,584	friends	Rachel
+1241	39	no!	Complain	00:18:31,611	00:18:33,655	friends	Monica
+1241	40	it's your boss.	Introduce	00:18:39,828	00:18:40,870	friends	Monica
+1259	0	oh, hey, you guys, this is charlie.	Introduce	00:09:13,290	00:09:15,543	friends	Ross
+1259	1	oh, okay. now, what do you think of renyard's new theory of species variegation in segmented arthropods?	Asking for opinions	00:09:24,635	00:09:31,183	friends	Phoebe
+1259	3	oh, i'm sorry. i have to take this. excuse me.	Apologise	00:09:38,524	00:09:41,402	friends	friends person2
+1259	4	renyard's theory of species variegation?	Doubt	00:09:41,694	00:09:44,280	friends	Ross
+1259	5	i saw the article on your coffee table. i memorized the title to freak you out.	Explain	00:09:44,447	00:09:49,618	friends	Phoebe
+1259	6	so did you two have fun?	Asking for opinions	00:09:51,787	00:09:53,456	friends	Monica
+1259	7	oh, my god. she's great.	Praise	00:09:53,622	00:09:56,083	friends	Ross
+1259	8	we have so much in common, and she's just cool, you know? and funny.	Praise	00:09:56,250	00:10:00,546	friends	Ross
+1259	9	hi!	Greet	00:10:04,759	00:10:05,801	friends	Monica
+1259	11	newcastle disease is a secretion-borne virus that only affects chickens and other poultry.	Explain	00:10:31,619	00:10:37,041	friends	friends person2
+1259	12	i'm sorry. rachel, this is charlie wheeler. she's a colleague.	Introduce	00:10:41,504	00:10:44,840	friends	Ross
+1259	14	you're not sick.	Oppose	00:10:59,355	00:11:00,606	friends	Monica
+1259	16	okay, then why are you all dressed up?	Doubt	00:11:02,900	00:11:05,361	friends	Monica
+1259	17	when you're sick, you do whatever you can to make yourself feel better.	Inform	00:11:07,488	00:11:11,408	friends	Rachel
+1259	19	no, i heard you before. that is so not what this is.	Oppose	00:11:16,455	00:11:19,250	friends	Rachel
+1259	20	okay.	Acknowledge	00:11:22,336	00:11:23,379	friends	Rachel
+1259	21	what?!	Doubt	00:11:30,761	00:11:32,513	friends	Monica
+1259	22	wait, joey's having a party, and he wasn't gonna invite us?	Doubt	00:11:48,195	00:11:51,824	friends	Phoebe
+1259	23	he does it every year. that's why he's sending you to the play.	Inform	00:11:51,991	00:11:55,578	friends	Rachel
+1259	24	that's why he sent us to that medieval restaurant and to that button factory.	Explain	00:11:55,744	00:11:59,957	friends	Rachel
+1259	25	and that horrible museum tour?	Doubt	00:12:00,124	00:12:02,376	friends	Phoebe
+1259	27	hey, you guys, i'm turning in. have fun.	Greet	00:12:08,507	00:12:11,302	friends	Joey
+1259	29	nice to meet you.	Greet	00:12:30,988	00:12:32,323	friends	Joey
+1263	0	ross, this is one of my costars, dirk. dirk, this is my good friend ross.	Introduce	00:17:49,723	00:17:53,977	friends	Joey
+1263	1	i'm not an actor. i'm a professor of paleontology.	Introduce	00:17:56,730	00:18:00,108	friends	Ross
+1263	2	hey, well, listen, i play a scientist on days.	Introduce	00:18:03,237	00:18:05,989	friends	friends person1
+1263	3	dirk was wondering about the woman you brought and if you two are together?	Confirm	00:18:10,953	00:18:15,874	friends	Joey
+1263	4	hey, i got a 690 on my sats.	Flaunt	00:18:22,548	00:18:25,676	friends	friends person1
+1263	7	don't worry, joe. i won't come next year!	Comfort	00:18:36,478	00:18:39,690	friends	Monica
+1263	9	just some boys gave me their phone numbers.	Explain	00:18:46,613	00:18:49,116	friends	Rachel
+1263	10	i think i am.	Acknowledge	00:18:58,959	00:19:01,169	friends	Rachel
+1263	15	it's just that, you know, they're not really good enough for you and you deserve the best.	Comfort	00:19:24,610	00:19:30,407	friends	Joey
+1263	17	who?	Doubt	00:19:37,539	00:19:39,249	friends	Rachel
+1263	19	what?	Doubt	00:19:44,338	00:19:45,922	friends	Rachel
+1263	20	yeah, because we live together. it's a joke! it's a joke.	Joke	00:19:48,592	00:19:51,762	friends	Joey
+1267	0	hey, thank you so much for these tickets, chandler.	Thank	00:23:25,600	00:23:28,478	friends	Phoebe
+1267	2	you're so wonderful.	Praise	00:23:33,191	00:23:34,985	friends	Monica
+1267	3	i can't believe you guys bought that. enjoy your slow death.	Leave	65	00:23:48,790	friends	Chandler
+1285	1	which is like the highest level of hotness.	Praise	00:18:34,530	00:18:37,240	friends	Joey
+1285	2	then don't go.	Advise	00:18:41,912	00:18:42,954	friends	Joey
+1285	4	all right, then you go to that party, and you pretend to be over mike.	Advise	00:18:52,881	00:18:57,468	friends	Joey
+1285	6	phoebe! hi.	Greet	00:19:21,118	00:19:22,702	friends	friends person1
+1285	7	wow! you look unbelievable.	Praise	00:19:25,956	00:19:28,291	friends	friends person1
+1285	8	oh, yeah, well... what are you doing here?	Care	00:19:28,458	00:19:33,838	friends	Phoebe
+1285	10	well, what happened?	Doubt	00:19:37,134	00:19:38,342	friends	Phoebe
+1285	12	yeah.	Acknowledge	00:19:43,557	00:19:45,016	friends	Phoebe
+1285	14	well great that you're back. how are you?	Care	00:19:52,232	00:19:56,777	friends	Phoebe
+1285	19	well, this is probably a stupid question, seeing that you look like that but, um, do you have someplace that you need to be right now?	Care	00:20:42,532	00:20:50,122	friends	friends person1
+1285	20	uh, do you smell beets?	Confirm	00:21:03,053	00:21:05,721	friends	friends person1
+1285	22	no, that's david.	Introduce	00:21:15,148	00:21:17,316	friends	Rachel
+1285	23	there's a third guy?	Doubt	00:21:17,484	00:21:20,236	friends	friends person2
+1294	0	everyone, i would like to make a toast to rachel and joey.	Plan	00:16:37,162	00:16:43,793	friends	Ross
+1294	5	oh, my god, are we supposed to answer?	Asking for opinions	00:17:03,355	00:17:04,939	friends	Rachel
+1294	9	ross, you don't seem okay.	Care	00:18:05,834	00:18:07,210	friends	Rachel
+1294	11	wait, ross. ross, i, um... i have to take off.	Leave	00:18:18,555	00:18:21,891	friends	friends person1
+1294	12	i have an early class in the morning.	Explain	00:18:24,061	00:18:26,729	friends	friends person1
+1294	13	but this has been lovely.	Praise	00:18:26,897	00:18:30,316	friends	friends person1
+1294	16	fine.	Leave	00:18:53,674	00:18:55,424	friends	friends person1
+1294	18	hey.	Greet	00:19:01,932	00:19:03,141	friends	Ross
+1294	20	you know what, ross, i think, uh, we're gonna take off too.	Leave	00:19:07,604	00:19:10,690	friends	Rachel
+1294	21	oh, oh. heh. of course. god, i'm so stupid.	Complain	00:19:10,858	00:19:15,820	friends	Ross
+1294	23	i mean, you probably just want to be alone.	Explain	00:19:17,698	00:19:20,158	friends	Ross
+1294	26	i think i'm gonna stay here and make sure he's okay.	Plan	00:19:43,515	00:19:46,517	friends	Joey
+1294	28	so you took off my pants and shoes?	Confirm	00:20:29,811	00:20:32,939	friends	Ross
+1294	29	no. no, no.	Oppose	00:20:33,106	00:20:34,815	friends	Joey
+1294	31	ahem. look, uh, ross about rachel and i. listen, you don't have to worry about that because nothing's gonna happen.	Comfort	00:20:41,031	00:20:50,373	friends	Joey
+1294	32	what do you mean?	Doubt	00:20:50,540	00:20:51,791	friends	Ross
+1294	34	it's okay, ross. you know, i totally understand.	Comfort	00:21:03,470	00:21:06,931	friends	Joey
+1294	39	has it been that long?	Confirm	00:21:31,456	00:21:32,748	friends	Ross
+1294	41	this is crazy. i mean, six years and because of me, you guys aren't gonna be together?	Doubt	00:21:37,629	00:21:44,885	friends	Ross
+1294	42	really what is this thing with you and rachel?	Care	00:21:48,390	00:21:53,185	friends	Ross
+1294	45	and she feels the same way?	Confirm	00:22:15,417	00:22:18,210	friends	Ross
+1294	46	i think so.	Agree	00:22:20,172	00:22:22,256	friends	Joey
+1294	47	well, then maybe it's time we all moved on.	Advise	00:22:24,676	00:22:28,721	friends	Ross
+1294	48	i will be.	Plan	00:22:37,314	00:22:39,023	friends	Ross
+1294	49	oh, my god, i'm still with charlie, aren't i?	Confirm	00:22:44,988	00:22:47,490	friends	Ross
+1294	52	you sure about this?	Doubt	00:23:00,754	00:23:02,546	friends	Joey
+1305	0	okay.	Acknowledge	00:19:59,239	00:20:00,698	friends	friends person1
+1305	1	wait. there's two sets of nozzles. which one is it? which one is it?	Ask for help	00:20:13,754	00:20:19,467	friends	Ross
+1306	0	really?	Confirm	00:23:48,260	00:23:49,802	friends	Ross
+1306	2	no. i just had to get a picture of this. i'll see you later.	Leave	00:23:56,101	00:24:02,148	friends	Chandler
+1312	0	now, another way to organize your stuffed animals is by size.	Inform	00:19:46,476	00:19:50,813	friends	Monica
+1312	1	game?	Confirm	00:19:55,319	00:19:56,986	friends	Monica
+1312	2	emma, do you even know it's your birthday today? you're 1.	Asking for opinions	00:19:57,154	00:20:01,532	friends	Chandler
+1312	3	one year old. that's little.	Inform	00:20:01,700	00:20:04,410	friends	Chandler
+1312	6	did i teach her that? did i just impart wisdom?	Confirm	00:20:12,836	00:20:16,297	friends	Chandler
+1312	8	me too.	Agree	00:20:21,803	00:20:23,721	friends	Chandler
+1312	9	i wasn't. let's get going.	Plan	00:20:34,775	00:20:36,275	friends	Monica
+1312	10	i just felt so bad missing this. so i just slipped him a little something, you know.	Explain	00:20:45,077	00:20:50,039	friends	Phoebe
+1312	13	i've been here the whole time.	Inform	00:21:02,427	00:21:04,887	friends	Joey
+1312	15	i don't care that you left. i'm just glad that you're here. thanks, you guys.	Thank	00:21:10,519	00:21:14,522	friends	Rachel
+1312	17	oh, emma, that's right. you're that many.	Praise	00:21:24,908	00:21:28,953	friends	Ross
+1312	18	oh, my god, our daughter's a genius.	Praise	00:21:29,121	00:21:31,789	friends	Ross
+1312	20	thanks.	Thank	00:21:45,929	00:21:47,680	friends	Monica
+1320	0	so how's the, uh, baby-styling business going?	Care	00:27:41,493	00:27:44,703	friends	Rachel
+1320	3	there's ross. hey, ross.	Greet	00:27:55,799	00:27:58,759	friends	friends person1
+1320	4	hello, ross?	Greet	00:28:00,303	00:28:02,805	friends	friends person1
+1329	0	look, i'm sorry i didn't give them your tape.	Apologise	00:20:05,287	00:20:07,955	friends	Chandler
+1329	1	that's not the point, chandler. the point is that you lied.	Emphasize	00:20:12,336	00:20:15,296	friends	Joey
+1329	2	i know. you're right.	Agree	00:20:15,464	00:20:17,298	friends	Chandler
+1329	3	oh, what's it gonna take for you to forgive me?	Asking for opinions	00:20:17,466	00:20:20,051	friends	Chandler
+1334	1	what's going on?	Doubt	00:14:52,057	00:14:53,516	friends	friends person1
+1334	3	is he all right out there by himself?	Care	00:15:14,288	00:15:16,581	friends	friends person1
+1337	0	hello?	Greet	00:21:19,987	00:21:21,320	friends	Monica
+1337	1	oh, hi.	Greet	00:21:22,281	00:21:24,073	friends	Monica
+1337	2	oh, my god, really? i can't wait to tell chandler.	Confirm	00:21:25,033	00:21:28,911	friends	Monica
+1337	4	she gave us a great report and we're officially on the waiting list.	Inform	00:21:35,043	00:21:38,296	friends	Monica
+1337	5	hello?	Greet	00:21:56,940	00:21:58,316	friends	Chandler

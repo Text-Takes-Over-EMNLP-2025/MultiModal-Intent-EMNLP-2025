@@ -86,8 +86,8 @@ MultiModal_Intent_EMNLP2025/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/saransh03sharma/MultiModal_Intent_EMNLP2025.git
-   cd MultiModal_Intent_EMNLP2025
+   git clone https://github.com/Text-Takes-Over-EMNLP-2025/MultiModal-Intent-EMNLP-2025.git
+   cd MultiModal-Intent-EMNLP-2025
    ```
 
 2. (Optional) Create a virtual environment:

@@ -1,0 +1,108 @@
+season	episode	clip	text	label
+S05	E02	99	no, justine, we're supposed to be proving that mateo has good moral character.	oppose
+S05	E13	465	guys, carry me out. come on, let's go.	arrange
+S04	E07	300	so you pegged me in the face with a yam?	criticize
+S05	E13	96	it has wi-fi, so you can upload right from your phone.	introduce
+S04	E10	473	yeah, you sucked.	complain
+S06	E04	531	okay, guys, the goal is not to fight.	inform
+S06	E05	4	that he misses you all and he sends everyone his biggest, warmest hug.	inform
+S05	E10	264	but could you just step back, like, a teensy bit?	ask_help
+S05	E10	82	oh, seems like some raccoons definitely had sex in it...	joke
+S06	E08	437	i'm out. nope, nope, nope.	leave
+S05	E07	451	might help you chill out, girl.	comfort
+S06	E07	570	to, like, write down any bad or crazy things you did.	inform
+S05	E12	250	it takes out all the think work.	introduce
+S04	E09	118	hey, any chance you guys could go talk	advise
+S06	E01	197	so if any of you have been hanging out with marcus, you should leave now.	inform
+S05	E20	316	maybe after lunch you could do some brain surgery on me.	joke
+S04	E10	216	really, this is how you care for a baby?	criticize
+S04	E16	164	hey, so i couldn't find the movie  hop  to put on the tv in electronics	ask_help
+S04	E01	421	guys, we shouldn't be talking	advise
+S05	E14	288	dina, we should get this thing started.	inform
+S05	E10	298	then i suggest we- ah.	advise
+S06	E07	279	i felt like you abandoned me.	criticize
+S04	E05	305	so, baby's fine. it's in a transverse position.	inform
+S05	E13	46	okay, no more raising hands.	prevent
+S05	E06	33	uh, hello, glass ceiling?	joke
+S05	E15	399	you can't tell your problems to glenn the floor supervisor	prevent
+S05	E20	121	oh, i love it. you should let it all down.	taunt
+S05	E16	408	dina, you're texting too much!	complain
+S05	E17	385	not to call me that in front of people.	prevent
+S06	E10	263	like anything you say, she's just gonna twist to make it sound like glenn's incompetent.	complain
+S06	E01	347	let me know if anything big happens.	inform
+S05	E18	98	the glitter was my idea. makes it look more magical, right?	flaunt
+S04	E02	229	well, i've been getting into making fancy lady gloves lately.	flaunt
+S05	E13	375	oh, absolutely not.	prevent
+S05	E19	237	you can, um, start by, uh, highlighting these.	arrange
+S06	E01	445	you guys are working for satan, aren't you?	criticize
+S05	E16	285	n-no, dina, come on. it's not like that.	prevent
+S06	E02	332	hi, amy. it's glenn.	introduce
+S04	E02	19	hey, guys, i'm sorry. we have 15 minutes	inform
+S05	E14	376	and it went over great. i booked three more weddings.	flaunt
+S05	E17	502	ladies, it's not like that.	oppose
+S05	E16	315	i'm the one that broke into his locker.	inform
+S06	E05	170	ooh, yes, that's a good one! write that one down.	arrange
+S04	E07	118	god, you have a creepy smile.	taunt
+S05	E16	36	in fact, you are expected to carry them.	inform
+S04	E11	70	she's a real monster, huh?	taunt
+S05	E14	486	tough night, huh?	comfort
+S05	E18	505	or is your hearing starting to go?	taunt
+S05	E14	395	it's go time.	leave
+S05	E10	111	you'll be working with this tony danza popcorn machine.	introduce
+S05	E09	18	fascinating. you're inside on checkouts.	arrange
+S06	E06	483	glenn did this to keep me out of his way.	inform
+S05	E09	3	okay, those on curbside with me are simms	arrange
+S04	E12	431	dina, your voice is a smidge loud.	complain
+S04	E16	376	she's not running thing that well.	criticize
+S06	E08	606	yeah, you're gonna have to fast on tuesday.	inform
+S04	E08	129	garrett, could you take over for mateo, please?	arrange
+S06	E01	312	sandra, you're supposed to be on lookout!	criticize
+S05	E08	58	come on, that's just mean.	complain
+S06	E03	101	you know what? i don't wanna know.	leave
+S05	E06	423	you're exuding, like, a wet heat.	complain
+S05	E11	87	with deliveries down, everyone's worried about their jobs.	complain
+S04	E07	261	i  hate  you too.	joke
+S05	E08	247	she's gonna feel so sorry she dumped you.	comfort
+S05	E13	486	so please don't tell hr.	ask_help
+S05	E02	32	ugh. good luck, jerry.	taunt
+S05	E09	333	when you could have just brought me my stuff?	criticize
+S04	E05	163	of course. corporate takes care of the managers and the rest of us get the scraps.	complain
+S05	E10	46	a dog can do it.	taunt
+S06	E03	452	mateo just tried to fire me.	criticize
+S04	E07	232	okay guys, i don't think the nice sales lady needs to hear all of this.	prevent
+S05	E17	337	i mean a pervert for pervin'.	oppose
+S05	E16	406	dina, i am sorry, but you were texting me so much that i couldn't even do my work!	complain
+S05	E07	386	no, nobody is getting fired today, all right?	comfort
+S05	E07	537	jen went home sick, so i'm putting you on deli.	arrange
+S05	E08	11	and again, mateo	arrange
+S06	E01	559	yeah, well, we need your help back in the store.	ask_help
+S05	E16	407	you could've just said	complain
+S05	E08	309	no, you don't get a gift card for every stupid little army man.	taunt
+S04	E16	151	look, we have to find this bunny.	inform
+S04	E13	240	this is why workplaces need secure, dedicated aviaries.	inform
+S06	E03	83	tony is in the store, and he would like me to open up the condom case.	inform
+S04	E08	361	you know, lying is a big part of syrian culture.	taunt
+S04	E12	417	it's a lot of build-up for a tiny, little  achoo.	joke
+S05	E07	507	you will be throwing away	comfort
+S06	E10	308	glenn and i, we're top dogs in this doghouse.	flaunt
+S05	E17	383	'scuse me.	leave
+S05	E13	512	she's, uh, the, like, super annoying one	taunt
+S05	E09	2	so some of you are gonna be working on that with dina.	arrange
+S06	E01	236	no, glenn! 6 feet!	prevent
+S05	E16	120	so we're only allowed to be in the break room	complain
+S05	E07	358	this is your third strike this month.	criticize
+S06	E05	234	yeah, like certain employees always asking to touch my hair.	complain
+S05	E20	146	submit it to me for verification.	inform
+S05	E08	284	yeah, cool, give me the gift card.	leave
+S05	E13	19	sorry, um--uh, sayid, um, you're gonna have to come in a little early tomorrow to help out.	arrange
+S05	E11	76	oh, yeah, yeah, yeah, yeah, yeah, yeah, yeah.	prevent
+S06	E09	545	he's, like, a major fox.	joke
+S04	E10	461	so if someone could clean that up.	ask_help
+S04	E01	103	let's just make sure that everything is restocked	inform
+S05	E17	250	it looks like we're one package short.	inform
+S05	E21	306	and when you fall down, you gotta take a sip.	arrange
+S04	E13	453	what have you done to me?	criticize
+S05	E06	266	ride 'em, cowgirl.	joke
+S05	E19	307	well, they're- they're headphones.	introduce
+S05	E09	62	yeah, by running its employees into the ground.	complain
+S05	E13	52	jonah, i'm not taking you off the schedule.	inform
